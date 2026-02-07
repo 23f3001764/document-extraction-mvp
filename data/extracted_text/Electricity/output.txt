@@ -1,0 +1,133 @@
+
+
+--- PAGE 1 ---
+
+SiG)
+DER
+PUBLIC AWARENESS BULLETIN — 12
+Tariff Schedule FY 2019-20
+Sample Electricity Bill for the Group Housing Society
+1. DISCOMs shall bill Energy Charges at Rs. 4.50 Rs./kWh and Fixed Charges at 150 Rs./kW/month to
+GHS and the sample bill is as follows:
+Billing period 01/10/2019 — 31/10/2019
+Sanctioned Load to GHS (kW) 2,000
+Consumption of the GHS (kWh) 300,000
+Sanctioned load to individual members (kW) 3,000
+Table 1: Billing by DISCOM to the GHS Consumer
+S. No. Particulars Amount (Rs.) Remarks
+A Fixed Charges 300,000 Rs. 150/kW
+B Energy Charges 1,350,000 Rs. 4.50/kWh
+C Power Purchase Adjustment Charges
+(Assumed @ 4.5%) 74,250 Ca+Cb
+Ca Fixed Charges 13,500 A*4.5%
+Cb Energy Charges 60,750 B*4.5%
+D Regulatory Surcharge @8% 132,000 Da+Db
+Da Fixed Charges 24,000 A*8%
+Db Energy Charges 108,000 B*8%
+E Pension Trust Charges @3.8% 62,700 Ea+Eb
+Ea Fixed Charges 11,400 A*3.8%
+Eb Energy Charges 51,300 B*3.8%
+F Voltage Discount @3% on 11kV (47,102) (B+Cb+Db+Eb)*3%
+G E-tax @ 5% on Energy Charges 73,582 (B+Cb+Db+F)*5%
+H Electricity Bill 1,945,431 A+B+C+D+E+F
+2. GHS shall bill Energy charges to individual members of the society as per the applicable Tariff Slab
+for consumption in respective slab of domestic consumers i.e. FY 2019-20 as follows:
+Table 2: Energy Charges to individual members by GHS
+Slabs Rate tion Energy PPAC Surcharee surcharge Electricity energy
+(units) (Rs./kWh) (kWh) Charge @4.5% @ 8% @ 3.8% Tax @5% Charges
+A B c D=BrC pra F=D"8% = G=D"3.8% (Dazar)*59% DeEHreGeH
+0-200 3.00 80,000 240,000 10,800 19,200 9,120 13,500 292,620
+201-400 4.50 80,000 360,000 16,200 28,800 13,680 20,250 438,930
+401-800 6.50 100,000 650,000 29,250 52,000 24,700 36,563 792,513
+801-1200 7.00 15,000 105,000 4,725 8,400 3,990 5,906 128,021
+>1200 8.00 5,000 40,000 —1,800 3,200 1,520 2,250 48,770
+Common Area 15,000
+Losses 5,000
+Total 300,000 1,395,000 62,775 111,600 53,010 78,469 1,700,854
+
+
+--- PAGE 2 ---
+
+3. It may be the case where the summation of the sanctioned load of the individual members is
+higher than the load sanctioned to the GHS at Single point delivery, the recovery of the fixed
+charges from the member shall be done as per the sanctioned load of the individual members.
+
+4. Considering that the summation of individual members’ sanctioned load is 3,000 kW and that
+there are two categories of sanctioned load at 4kW and 6kW and the common area load 100 kW,
+the fixed charges to be billed to all the individual members having the fixed charge at Rs.50/kW
+for 4kW sanctioned load and Rs. 100/kW for 6KW sanctioned load of the GHS in FY 2019-20 as
+follows:
+
+Table 3: Fixed charges to be recovered from the individual members
+|S.No. | Particulars | UOM | Units | Remarks
+A Total Sanctioned Load of kW 3,100 As per
+members and Common Area allocation
+(kW) to the
+individual
+|B | Commonareaload(kw) | kWwi] 00
+Individual Member's Total
+Sanctioned Load
+| D |No.ofConsumers | | 520 | 60 | 670 |
+| E |Totalload | | 040| 960 | 3,000|
+F Fixed Charges (Rs.) Rs. | 102,000 | 96,000 | 198,000 | E * Fixed
+(50x 2,040) | (100 x 960) charge per
+een | ee eee
+1 Pension Trust Surcharge 3.8% | Rs.| _3,876| 3,648 | 7,524 | "3.8% _|
+(1 [TotalFixed charges | _Rs. | 118,626 | 111,648 | 230,274 | F+G+H+l |
+5. Accordingly, the total billing to the individual members for the month is as follows:
+Table 4: Total billing to the individual members
+Particulars Amount (Rs.)
+Energy Charges (refer Table 2) 1,700,854
+Fixed Charges (refer Table 3) 230,274
+Total Charges 1,931,128
+
+6. The deficit or surplus in the charges recovered by the GHS from its individual members may be
+adjusted in the billing of the individual consumers on a pro-rata basis as per the consumption of
+electricity by the individual consumers. In this illustration above, the deficit is Rs. 14,303
+(Rs. 1,945,431 — 1,931,128), which may be recovered from the consumers based on the electricity
+consumption of such individual members, i.e. over 280,000 kWh (3,00,000 — 15,000 — 5,000).
+Refer Table-2. Accordingly, the per unit charge comes to Rs. 0.05/kWh (i.e Rs. 14,303/280,000
+kWh)
+
+7. Based on the above, the sample bill of an individual member of the society having consumption
+of 400 kWh at 4kW or 6kW of sanctioned load are as follows:
+
+
+--- PAGE 3 ---
+
+Table 5: Billing to the individual members
+Amount (Rs.)
+4kw 6kW
+Particul : :
+Sno, [Particulars | cgnnecton |Connmetion | Remarks
+A Fixed Charges 200 Rs. 50/kW for 4kW; Rs.
+100/kW for 6kW
+Energy Charges 1,500 1,500 3 Rs./kWh (200 kWh)
+4.50 Rs./kWh (201-400 kWh)
+C Power Purchase Adjustment 77 95 Ca+Cb
+Charges (Assumed @ 4.5%)
+a Fedcharges RR
+cb | frerey ges
+Daf Faesnowes
+0b | Brerey ages a a
+ee fredthaes
+E-tax @ 5% on Energy Charges a (B+Cb+Db)*5%
+Electricity Bill as per 1.1 of the 2,527 A+B+C+D+E+F
+Tariff Schedule
+Deficit to be recovered 0.05*400
+Total Electricity Charges billed to 2,547 G+H
+consumer
+* 4.5% is assumed PPAC, 8% is the Regulatory Surcharge, 3.8% is the Pension Trust Surcharge and 5% is
+the Electricity Tax/Duty
+8. The GHS may charge upto 5% of the bill amount to cover all it’s expenses.
+9. If the consumer is eligible for subsidy as per the GoNCTD Order No. F.11(111)/2012/Power/Vol-
+11/2098 dated 07.08.2019 or as may be amended from time to time, the provisions of applicable
+Tariff Schedule shall be considered (at present, it shall be limited to the amount billed as per
+clause 1.1 of the Tariff Schedule as per G in Table 5 above).
+10. In case, if the GHS finds any difficulty in understanding of surcharges and its computation of the
+bill, the same may be referred to the respective Distribution Licensees.
+11. This public Awareness Bulletin no. 12 shall supersede the earlier Public Awareness Bulletin no. 11.
+Issued in Public Interest by
+DELHI ELECTRICITY REGULATORY COMMISSION
+VINIYAMAK BHAWAN, C- BLOCK, SHIVALIK, MALVIYA NAGAR, NEW DELHI -110017
+Tele: 011-41080417, Email: secyderc@nic.in, Website: www.derc.gov.in

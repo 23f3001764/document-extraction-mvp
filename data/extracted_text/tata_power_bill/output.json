@@ -1,0 +1,12 @@
+{
+    "document_type": "electricity",
+    "consumer_name": null,
+    "meter_id": "60000016661",
+    "bill_date": "30/04/2015",
+    "billing_period": "16/03/2015 to 17/03/2015",
+    "kwh": 50000160,
+    "amount_payable": null,
+    "zone": null,
+    "tariff_category": null,
+    "location": "Delhi"
+}

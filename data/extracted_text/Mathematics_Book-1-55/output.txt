@@ -1,0 +1,2125 @@
+
+
+--- PAGE 1 ---
+
+Sy Tw,
+py Vibe a, NEW AGE
+
+a : 7 a ‘ 4 Wes,
+- OY” -csianihs
+
+\ "Sab 4
+
+® : (O: aw ‘i \ \'
+
+ee ! 0
+Ly babies FAilL_] fe
+ ( SS Yi).
+fal NEW AGE INTERNATIONAL PUBLISHERS
+
+
+--- PAGE 2 ---
+
+A Textbook of
+ENGINEERING
+MATHEMATICS-I
+
+
+--- PAGE 3 ---
+
+This page
+intentionally left
+blank
+
+
+--- PAGE 4 ---
+
+(SECOND EDITION)
+H.S. Gangwar Prabhakar Gupta
+M.Sc., Ph.D. M.Sc. (Math.), M.Tech., Ph.D.
+Lecturer Dean Academics
+Deptt. of Mathematics SRMS College of Engineering
+SRMS College of Engineering and Technology, Bareilly (U.P.)
+and Technology, Bareilly (U-P.)
+(A)
+NEW AGE
+UPTU
+NEW AGE INTERNATIONAL (P) LIMITED, PUBLISHERS
+New Delhi * Bangalore * Chennai * Cochin * Guwahati * Hyderabad
+Jalandhar * Kolkata * Lucknow * Mumbai Ranchi
+Visit us at www.newagepublishers.com
+
+
+--- PAGE 5 ---
+
+Copyright © 2010, 2009 New Age International (P) Ltd., Publishers
+
+Published by New Age International (P) Ltd., Publishers
+
+All rights reserved.
+
+No part of this ebook may be reproduced in any form, by photostat, microfilm, xerography,
+or any other means, or incorporated into any information retrieval system, electronic or
+mechanical, without the written permission of the publisher. All inquiries should be
+emailed to rights@newagepublishers.com
+
+ISBN (13) : 978-81-224-2847-6
+
+PUBLISHING FOR ONE WORLD
+
+NEW AGE INTERNATIONAL (P) LIMITED, PUBLISHERS
+
+4835/24, Ansari Road, Daryaganj, New Delhi - 110002
+
+Visit us at www.newagepublishers.com
+
+
+--- PAGE 6 ---
+
+This book has been revised exhaustively according to the global demands of the students.
+Attention has been taken to add minor steps between two unmanageable lines where essential so
+that the students can understand the subject matter without mental tire.
+
+A number of questions have been added in this edition besides theoretical portion wherever
+necessary in the book. Latest question papers are fully solved and added in their respective units.
+
+Literal errors have also been rectified which have been accounted and have come to our
+observation. Ultimately the book is a gift to the students which is now error free and user- friendly.
+
+Constructive suggestions, criticisms from the students and the teachers are always welcome
+for the improvement of this book.
+
+AUTHORS
+
+
+--- PAGE 7 ---
+
+This page
+intentionally left
+blank
+
+
+--- PAGE 8 ---
+
+1. sin wv =/sin fr
+2. cos zr = cos Ar
+eX ~e
+3. si = ——
+sin + °F
+4, cosv= ere
+2
+. 1
+5. Sin #r= 5 (cosh 2x - 1)
+1
+6. cos x= 3 (cosh 27 + 1)
+aX
+. a’dx = ——lJa # 1,a>0
+7 J loga [a 4
+. 1
+8. Jasin haxdx = — cos hax
+a
+1.
+9. Jos haxdx = — sin hax
+a
+1
+10. Jtan haxdx = — log cos hax|
+a
+1 . 1 ¥ _ x
+11. |—,« = sin’ — = arcsin—
+Va? —x? a a
+12. i = log be-+ Vx? ~a°|
+x“-a
+1
+13. Jace = dant * = are tan—
+x°+a a a a
+2
+14. Jva?-2? dx = 5 Na x? +S sin i
+a
+15. few sin bx dx = — (a sin dr - b cos br)
+a’ +b
+16. few cos bx dx = — (a cos fx + Jsin br)
+a’ +b
+1
+17. [sec ax dx = —log |sec ar + tan ar|
+a
+
+
+--- PAGE 9 ---
+
+1
+18. J cosec ax dx = —log |cosec ax - cot ar|
+a
+9. sinxr= 3 oo
+0. cos t= E ao
+3
+21. tanrv= ye ng 28 M7.
+3 15 315
+- log x)= a a ee
+2 3
+x" Xx
+2. e ] 1- = —X-—- eee
+3. log (1 - 4) 7 3
+24 in / ree y
+. sin r= 3 E wee eeecee
+25. ay = # log.a
+dx ‘
+26 4 costly = __1_
+"dx v1-x?
+27. 4 cot y = —
+dx 1+x
+28.“ 7
+. sec xX = — —————
+dx wre-1
+d 1
+29. —log,x = —log,e
+dx x
+30. tant * = 4
+* dx a ar +x?-
+
+
+--- PAGE 10 ---
+
+Contents
+
+PREFACE TO THE SECOND REVISED EDITION
+
+SOME UsEFuL FORMULAE
+
+Unit I. Differential Calculus-I 1-94
+1.0 Introduction 1
+1.1 th Derivative of Some Elementary Functions 1
+Exercise 1.1 6
+1.2 Leibnitz’s Theorem 7
+Exercise 1.2 13
+Exercise 1.3 19
+Partial Differentiation 20
+1.3 Function of Two Variables 20
+1.4 Partial Differential Coefficients 21
+Exercise 1.4 33
+1.5 Homogeneous Function 35
+1.6 Euler’s Theorem on Homogeneous Functions 36
+Exercise 1.5 47
+1.7 Total Differential Coefficient 48
+Exercise 1.6 62
+Curve Tracing 63
+1.8 Procedure for Tracing Curves in Cartesian Form 64
+Exercise 1.7 71
+1.9 Polar Curves 73
+Exercise 1.8 77
+1.10 Parametric Curves 78
+Exercise 1.9 80
+Expansion of Function of Several Variables 81
+1.11 Taylor’s Theorem for Functions of Two Variables 81
+Exercise 1.10 89
+Objective Type Questions 90
+Answers to Objective Type Questions 94
+Unit II. Differential Calculus-II 95-150
+2.1 Jacobian 95
+Exercise 2.1 109
+
+
+--- PAGE 11 ---
+
+2.2 Approximation of Errors 111
+Exercise 2.2 119
+2.3 Extrema of Function of Several Variables 121
+Exercise 2.3 134
+2.4 Lagrange’s Method of Undetermined Multipliers 135
+Exercise 2.4 145
+Objective Type Questions 147
+Answers to Olyecttve Type Questions 150
+Unit III. Matrices 151-257
+3.0 Introduction 151
+3.1 Definition of Matrix 151
+3.2 Types of Matrices 152
+3.3 Operations on Matrices 155
+3.4 Trace of Matrix 156
+3.5 Properties of Transpose 156
+3.6 Properties of Conjugate Matrices 156
+3.7 Singular and Non-Singular Matrices 163
+3.8 Adjoint of a Square Matrix 163
+3.9 Inverse of a Matrix (Reciprocal) 163
+Exercise 3.1 165
+3.10 Elementary Row and Column Transformations 167
+3.11 Method of Finding Inverse of a Non-Singular Matrix by Elementary
+Transformations 168
+Exercise 3.2 174
+3.12 Rank of a Matrix 175
+Exercise 3.3 186
+3.13 System of Linear Equations (Non-Homogeneous) 188
+3.14 System of Homogeneous Equations 197
+3.15 Gaussian Elimination Method 200
+Exercise 3.4 206
+3.16 Linear Dependence of Vectors 210
+Exercise 3.5 214
+3.17 Eigen Values and Eigen Vectors 214
+Exercise 3.6 230
+3.18 Cayley-Hamilton Theorem 232
+Exercise 3.7 238
+3.19 Diagonalization of a Matrix 239
+3.20 Application of Matrices to Engineering Problems 249
+Exercise 3.8 253
+Objective Type Questions 255
+Answers to Olyecttve Type Questions 257
+
+
+--- PAGE 12 ---
+
+Unit IV. Multiple Integrals 258-332
+4.1 Multiple Integrals 258
+4.2 Double Integrals 258
+4.3 Working Rule 259
+4.4 Double Integration for Polar Curves 259
+
+Exercise 4.1 266
+
+4.5 Change of the Order of Integration 268
+4.6 Change of Variables in a Multiple Integral 274
+Exercise 4.2 281
+
+4.7 Beta and Gamma Functions 283
+4.8 Transformations of Gamma Function 285
+4.9 Transformations of Beta Function 286
+4.10 Relation between Beta and Gamma Functions 287
+4.11 Some Important Deductions 287
+4.12 Duplication Formula 289
+4.13 Evaluate the Integrals 294
+Exercise 4.3 299
+
+4.14 Application to Area (Double Integrals) 300
+Exercise 4.4 311
+
+4.15 Triple Integrals 312
+Exercise 4.5 314
+
+4.16 Application to Volume (Triple Integrals) 315
+Exercise 4.6 322
+
+4.17 Dritchlet’s Theorem 323
+Exercise 4.7 329
+Objective Type Questions 330
+Answers to Objective Type Questions 332
+Unit V. Vector Calculus 333-418
+Vector Differential Calculus 333
+
+5.1 Vector Function 333
+5.2 Vector Differentiation 333
+5.3 Some Results on Differentiation 334
+Exercise 5.1 336
+
+5.4 Scalar Point Function 337
+5.5 Vector Point Function 337
+5.6 Gradient or Slope of Scalar Point Function 337
+5.7 Geometrical Meaning of Gradient, Normal 338
+5.8 Directional Derivative 338
+5.9 Properties of Gradient 339
+Exercise 5.2 350
+
+5.10 Divergence of a Vector Point Function 351
+5.11 Physical Interpretation of Divergence 352
+5.12 Curl of a Vector 353
+
+
+--- PAGE 13 ---
+
+5.13 Physical Meaning of Curl 353
+
+5.14 Vector Identities 354
+Exercise 5.3 363
+
+5.15 Vector Integration 365
+
+5.16 Line Integral 365
+
+5.17 Surface Integral 366
+
+5.18 Volume Integral 367
+Exercise 5.4 374
+
+5.19 Green’s Theorem 376
+Exercise 5.5 384
+
+5.20 Stoke’s Theorem 386
+
+5.21 Cartesian Representation of Stoke’s Theorem 388
+Exercise 5.6 399
+
+5.22 Gauss’s Divergence Theorem 400
+
+5.23 Cartesian Representation of Gauss’s Theorem 401
+Exercise 5.7 413
+
+Objective Type Questions 414
+
+Answers to Objective Type Questions 418
+Unsolved Question Papers (2004-2009) 419-431
+Index 433-434
+
+
+--- PAGE 14 ---
+
+UNIT I
+mg INTRODUCTION
+Calculus is one of the most beautiful intellectual achievements of human being. The mathematical
+study of change motion, growth or decay is calculus. One of the most important idea of differential
+calculus is derivative which measures the rate of change of a given function. Concept of derivative
+is very useful in engineering, science, economics, medicine and computer science.
+2
+The first order derivative of y denoted by - second order derivative, denoted by 2
+3 v x
+third order derivative by “4 and so on. Thus by differentiating a function y = f(x), n times,
+x
+successively, we get the nth order derivative of y denoted by or D"y or y (x). Thus, the process
+x
+of finding the differential co-efficient of a function again and again is called Successive
+Differentiation.
+ae oth DERIVATIVE OF SOME ELEMENTARY FUNCTIONS
+1. Power Function (ax + b)”
+Let y = (ax + b)"
+y, = ma (ax + by"!
+y, = m (m-1)a? (ax + by"?
+y, = m(m-1) (m-2) ... (m—n-—1) a" (ax + by"™
+Case I. When m is positive integer, then
+y= m(m-—1)...(m—n+1)(m—n)...3 2 1 a'(ax + by
+" (m-n)...3 21
+n m
+y = 2 ax +b)" = Lomax aby" "
+"dx" mon
+1
+
+
+--- PAGE 15 ---
+
+2 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+Case II. When m = n = +ve integer
+y = 2 sax-+b) = | na" © ax +by" =|na"
+n | 0 dx"
+Case III. When m = -1, then
+1
+y = (@ax+bdy'= (ax +b)
+y, = (-1) (2) (8) ... (-n) a” (ax + by™
+d" 1 | (1)"| na"
+dx" lax+b} ~ (ax+b)™1
+Case IV. Logarithm case: When y = log (ax + b), then
+_ a
+Wax
+Differentiating (n—1) times, we get
+q" 1 1
+y, = a" sn 1 (ax +b)
+Using case III, we obtain
+dq” 1)" 1) (n 1)a"
+dx (ax +b)"
+2. Exponential Function
+(i) Consider y =a™
+y, = ma". log.a
+Y> = nea" (log, ay
+y, = m" q™ (log, a)"
+(ii) Consider y = e™
+Putting a = ein above
+3. Trigonometric Functions cos (ax + 5b) or sin (ax + Bb)
+Let y = cos (ax + b), then
+y, = — asin (ax + b) = a cos [u+5+4)
+5 5 2#
+y, = —@ cos (ax + b) = @ cos ax + b+
+. 3#
+y, = + @ sin (ax + b) = @ cos [or+b+%)
+
+
+--- PAGE 16 ---
+
+DIFFERENTIAL CALCULUS-| 3
+n
+y, = 008 (ax +b) = a cos ax+b+™)
+n
+Similarly, y, = #” sin(ax +b) = a" sin [ax+b+™)
+" dx" 2
+4. Product Functions e” sin (bx + c) or e* cos (bx + c)
+Consider the function y = e™ sin (bx +c)
+y, = eb cos (bx + c) + ae™ sin (bx + c)
+= e™ [b cos (bx +c) + a sin (bx + c)]
+To rewrite this in the form of sin, put
+a=rcos ,b=rsin , we get
+y, = e“[rsin cos (bx +c) +r cos __ sin (bx + c)]
+y, = re“ sin (bx +c + )
+Here, r= Vyq2+4p2 and = = tan(b/a)
+Differentiating again w.r.t. x, we get
+y, = rae* sin (bx +c + ) + rbe™ cos (bx +c + )
+Substituting for a and b, we get
+y, = re“.rcos sin (bx +c+ )+re“rsin cos (bx +ct+ )
+y, = re*[cos sin (bx +c + )+sin cos (bx +c+ )|
+= resin (bxt+ct+ + )
+y, = Pe sin (bx + c+ 2 )
+Similarly, y, = Pe™ sin (bx +c +3 )
+q"
+y, = ——esin(bx+c) = r"e™ sin (bx+c+n )
+dx"
+In similar way, we obtain
+d” ax
+y, = dx cos(bx +c) = r"e™ cos (bxt+c+n )
+Example 1. Find the nth derivative of oe
+1 5x+6x
+Sol. Let 1 a
+ome Y* 1 5x+6x? ~ (2x 1)(3x 1)
+a By Partial fracti
+or Y= oy 1 3x] (By Partial fraction)
+da” da”
+y, = 2 a (2x -1y!-3 a (8x - 1y1
+
+
+--- PAGE 17 ---
+
+4 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+(1)"| n 2" ( 1)"| n 3" n ( 1)"| na”
+(2x 1)"* (3x 1)"* dx (ax +b)
+gn gu
+= ( 1)"| n|} ——— — —W——|.
+Example 2. Find the nth derivative of e” cos* x sin x.
+; (1l+cos2x)
+Sol. Let y = e™ cos* x sin x = e* > +~sinx
+1 ax os 1 ax .
+= —e™ sinx+——e'’(2cos2xsinx)
+2 2 2
+1 aX as 1 ax fa: :
+= —e"sinx+—e™ {sin(3x) sinx}
+2 4
+1 oa gin x4 bo sin 3x
+or 4 4 4
+y, = + hre" sin (x+n ) ese sin (3x +n )].
+" 4 4
+where r= vq241; tan =1/a
+and r= va249; tan = 3/a.
+2x
+Example 3. If y = tan’ 1 xy’ find y,. (U.P.T.U., 2002)
+1 2x
+Sol. We have y = tan 12
+x
+Differentiating y w.rt. x, we get
+- 1 i( 2x )- (1 x?) 2(1 x7)+ 4x?
+na 14( 2x y dx\1 x2) — (1+x* 2x? + 4x") (1 x)?
+1 x?
+Ys ax?)? (1x?) (xt 1)
+1} 1 1
+= —-|—~ ——\], (by Partial fracti
+y, |= ; | (by Partial fractions)
+Differentiating both sides (n—1) times w.r. to ‘x’, we get
+CD" Gn D CY" nD
+Yy ee
+1 (x 1) (x +1)
+1
+("Qn 1)
+= [xr ) " (xt) "]
+i
+("in 1)
+= (ye) [r "(cos isin)” r "(cos +isin ) "|
+i
+(where x =rcos ,l=rsin_ )
+
+
+--- PAGE 18 ---
+
+DIFFERENTIAL CALCULUS-| 5
+("Qn Ir"
+= CN ee eos +isinn cosn +isinn ]
+i
+y, = 2(-1)"! |[n_ 1 r"sinn , where r = Jy? 41
+= tan? (7)
+x
+Example 4. If y = x log xt Show that
+x+1
+xn xtn
+= (-1)" 2 |——_— ——
+y, = (lyr? | 2 re 1" aap | (U.PT.U., 2002)
+1
+Sol. We have y = x log — = x [log(x - 1) - log (x + 1)]
+Differentiating w.r. to ‘x’, we get
+1 1
+y, = log (x-1)-log (x+1) +x [ =|
+= log (x — 1) — log (x +1) + (+ }e( 1+}
+~ 18 °8 x 1 xt+1
+_| 1-1 p+ 2 yh
+or y, = log (x -1) — log (+1) + TG vel
+Differentiating (n—1) times with respect to x, we get
+dq" 1 dq" 1 dq" 1 dq" 1
+dq" 2 d dq" 2 d nil nil
+= >| loge o} {5 tog} Cy tet oy [et
+dx" “ (dx dx" “ (dx (x 1)" (x+1)"
+(4) (2 ) CY" '|n 1 ("'\n
+= | | st et
+dx" 7\x 1) dx” 7\x41 (x 1)" (x +1)"
+(y"7)n 2 (17 n 2 (OM Yin 2 (1" nm In 2
+= ——-oaoQDo | 10 sda vdtOrwOrr Om
+(x 1"! (x+1)" ! (x 1)" (x+1)"
+CH 1 x+1 (n 1) (nm 1)
+—~( "2,7 2) 7. 2 MY ws)
+(1) pn 2 1)" (x+1)" (x 1)” =a
+—(n'2yn 2} 72 tT
+= ()) nf 1)" (x+1)" |
+x3
+Example 5. Find y, (0) if y = 1!
+x
+x? x? 141 (x 1)(x? +x+1) 1
+Sol. We have y= Soe OO st
+x“ 1 x 1 (x 1)(x+1) x 1
+
+
+--- PAGE 19 ---
+
+6 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+ee eee
+or 4 “(xsd | (x (e+)
+— x? 141 eda 1
+J 41 (x 1)(x+1)
+1 1} 1 1
+pow 1)
+x+1 2Lx 1 x41
+_ eae
+or Y= ** oly 1 x41
+if CO" Le "LH
+Y,, = O+ 2 (x 1)" (x+1)"1
+(U"|np 4 __}
+("|p 4 1
+When n is odd, y,(0) = —, tu |"
+1)"|n
+When n is even, y (0) = ee 1+1]=0.
+EXERCISE 1.1
+2
+1. If y = ——_,—Y— find nth derivative of y. (U.P.T.U., 2002)
+(x 1)°(x+2)
+1)"|n+1 5( 1)"|n 4 1)"|n
+Ans. y, = | ) an ( yt ( ) ln
+3(x 1)" x 1)" — (xe + 2)"*
+2 1") n 2 b2
+2. Find the nth derivative of —__* Ans. () | —— ———T
+1+x
+3. Find the nth derivative of tan“ j=] .
+[Ans. ( 1)" "| 1sin"” sinn where = cot x ]
+4. If y = sin’ x, find y. [Ans =sin( +17] fH sin(ax+n%))
+" 4 2 4 2
+x n nNnown :
+5. Find nth derivative of tan (=). [Ans. ( 1) “in 1a"sin" sinn
+
+
+--- PAGE 20 ---
+
+DIFFERENTIAL CALCULUS-I 7
+6. Find y,, where y = ex. [Ans. e* (x+n)|
+1 x 2 1)” in
+7. Find y, wh ==, Ans. ————
+Wintel Yip VAVINeM. Uy) 14x (x+1)"*1
+8. Find nth derivative of log x. [Ans. ( 1)" ‘Vn 12x "|
+e*
+9. Find y,, y = & sin’ x. Ans. > [1 5"? cos(2x +n tan Dp]
+10. If y = cos x - cos 2x - cos 3x find y,.
+1
+[Hint: cos x - cos 2x - cos 3x = qlcos 6x + cos 4x + cos 2x +1)]
+1 # # 2
+Ans. ier cos{ 6x + nz) +4" cos{ 4 4 nz) +2” cos{ 2x 4 n2)|
+4 2 2 2
+7g LEIBNITZ'S* THEOREM
+Statement. If u and v be any two functions of x, then
+D"(u.v) = "G D" (u).v + "c,D"™"(u). D(v) + "c, D"*(u).D? (v) + .«..
++ "cD" (u).D(0) +... + "cu. D"0_ ...(i)
+(U.P.T.U., 2007)
+Proof. This theorem will be proved by Mathematical induction.
+Now, D(u.v) = D (u).0 + u.D(v) = 'c, D (u).v + 'c, u.D(v) ...(ii)
+This shows that the theorem is true for n = 1.
+Next, let us suppose that the theorem is true for, n = m from (i), we have
+D" (uv) = ™c, D™(u).0 + "c, D™" (u) D (v) + "c, D™*(u) D? (0) + ... + MC,
+D™(u) D’ (0) +... + ™c,, u D"(0)
+Differentiating w.r. to x, we have
+D™! (uv) = me {D™ (wu) v+D™(u) D(v)} +c, {D™(u)D(v) + D™ 1(u)D?(v)}
++"c, {D™ '(u)D?(v) + D™ 2(u). D3 (v)}+...4"c,{D” "(u)D'0+ D™ "(u)D"™(v)}
+to + mc {D(u) D"(v)+uD"™*" (0)
+But from Algebra we know that "c_+ "c= "tc, and "c, = ™'c, = 1
+D™\(uv) = "eyD™*(u) 0+ ("eg +" c,)D™(u) D(v) +(e, +" cy)D™ 'u D?0
+tet (™e, +" C,4,)D™ "(u) D™(0)+..4" 1,44 D™ (0)
+(As Cn =" Cm41 = 1)
+* Gottfried William Leibnitz (1646-1716) was born Leipzig (Germany). He was Newton’s rival in
+the invention of calculus. He spent his life in diplomatic service. He exhibited his calculating machine in
+1673 to the Royal society. He was linguist and won fame as Sanskrit scholar. The theory of determinants
+is said to have originated with him in 1683. The generalization of Binomial theorem into multinomial
+theorem is also due to him. His works mostly appeared in the journal ‘Acta eruditorum’ of which he
+was editor-in-chief.
+
+
+--- PAGE 21 ---
+
+8 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
++m 1D" "(u) D™*(0)+..4 1 e,,4u D™" (0) ...(iii)
+Therefore, the equation (iii) shows that the theorem is true for n = m + 1 also. But from (2)
+that the theorem is true for n = 1, therefore, the theorem is true for (n = 1 + 1) ie., n = 2, and so
+for n = 2 + 1 = 3, and so on. Hence, the theorem is true for all positive integral value of n.
+Example 1. If y'’" + y'/" = 2x, prove that
+(x? -1) y,,,+ (n+ 1) xy, + (W- mm’) y, = 0. (U.P.T.U., 2007)
+1
+Sol. Given yl" + yun = 2x
+yn _ 2xy/™ + 1 = 0
+or (ym? _ 2x(y'/”) +1 <= 0
+2-2xz +1 (y/™ = Zz)
+4 Jay2
+Z = ae =x + ax 1
+m
+yl = yeh q y=[re ve a] Ai
+Differentiating equation (i) w.r.t. x, we get
+m
+m1 + fa.2
+y, = mx 1x2 1| cer | = mk eva? a] x 1]
+2vx? 1 vx? 1
+my 5
+Un a Y, vx 1l=m
+Vo eq ue ben
+or yp (?-1) = my ...(ii)
+Differentiating both sides equation (ii) w.r.t. x, we obtain
+2y,y (x? — 1) + 2xy*, = 2m* yy,
+y, ( - 1) + xy,- my = 0
+Differentiating n times by Leibnitz's theorem w.r.t. x, we get
+D" (y,) - (x? — 1) + "ce, D''y,,-D?°(x? — 1) + "ce, D" 2 y, D? (x? 1) + D" (y,)x + "c, D™" (y,) Dx-n’y,
+=0
+5 n(n 1) 5
+Yi. (x? - 1) + ny,,.° 2% + (2 y,-2+Y,,°x+ ny, - my, = 0
+(x? — 1)y,,, + (2n + 1) xy, + (WP -n+n-Mm)y, =0
+(x? - 1) y,,, + (2n + 1) xy,,, (n? — m’) y, = 0. Hence proved.
+Example 2. Find the nth derivative of e* log x.
+Sol. Let u = e* and v = log x
+(Din ; ,_ CO" [a
+n =e jn = D ax + b =
+Then D" (u) = e* and D" (v) x ( ) (ax +b)"
+
+
+--- PAGE 22 ---
+
+DIFFERENTIAL CALCULUS-I 9
+By Leibnitz’s theorem, we have
+D" (log x) = Dre log x + "c, D™" (e*) Dilog x) + "c, D"® (e*)D? (log x)
++... + e* D" (log x)
+1 1 1 (a *}n 1
+= e- log x + ne* iin” D e( =) +..4+e Cy tt?
+x | 2 x x”
+py (D" Yn 1
+D" (e log x) = e& og ma Dt .
+x 2x x
+Example 3. Find the nth derivative of x? sin 3x.
+Sol. Let u = sin 3x and v = °°
+D'(u) = D* (sin 3x) = 3" sin & + m2)
+Diu) = 2x, D? (v) = 2, D3 (v) = 0
+By Leibnitz’s theorem, we have
+D" (x? sin 3x) = D" (sin 3x)x? + "c, D""' (sin 3x) - D (x?) + "c, D"*(sin 3x) - D?(x’)
+14
+= 3" sin( 3+") -2? + 13"! sin [r+] - 2x
+1
+| 2 2
+. n# . n 1#
+= 3"° sin (ar+%) + 2nx - 3"! sin [ars]
+12 . n 2#
++ 3" n(n 1) - sin 3x+—— .
+Example 4. If y = x log (1 + x), prove that
+1)" 7) n 2xtn
+y, = Ce 2G) (U.P.T.U., 2006)
+(x+1)"
+Sol. Let u = log (1 + x), v=x
+d” d"' (<
+D'(u) = —log (1+x) = ——|-—log (1+x
+(u) en 08 +X) = | ag los (+x)
+dq” 1 1 dq” 1 1
+= —— — = —— (x+1)
+dx"! x41 dx"!
+()"'|n 1
+in _ ss _ 2 _
+D'(u) = (e+1)" and D(v) = 1, D*(v) = 0
+By Leibnitz’s theorem, we have
+y, = D" (x log (1 + x) = D" (log (1 + x)) x + "c, D™" (log (1 + x)) Dx
+("'|}n 1 nO 1)"7\n 2
+= yo es A
+(x +1) (x +1)
+
+
+--- PAGE 23 ---
+
+10 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+5 x(n 1) n n(x+1)
+_ n-2 es ee
+y, = Cy |n 2 (x+1)" (x+1)"
+xn+x+xn+n
+= (ly |" 2 ah
+xt+n
+= (ly? |n 2 (een |: Hence proved.
+Example 5. If y = a cos (log x) + b sin (log x). Show that
+xy, + xy, + y =0
+and xy, + (2n +1) xy, + (Ww + Dy, = 0. (U.P.T.U., 2003)
+Sol. Given y = acos (log x) + b sin (log x)
+. 1 1
+y, = —asin (log x) (=) + b cos (log x) (2)
+or xy, = —asin (log x) + b cos (log x)
+Again differentiating w.r.t. x, we get
+1 1
+xy, + y, = —acos (log x) (2) — bsin (log x) (2)
+xy, + xy, = — {a cos (log x) + b sin (log x)} =- y
+xy, +xy,+y = 0. Hence proved. (7)
+Differentiating (i) n times, by Leibnitz’s theorem, we have
+n(n 1)
+aoa FM Yo 8D y,2+y,,;x+ny,+y,=0
+xy, + (2n+ 1) xy, + (W-nt+n+1)y,=0
+xy, + (2n +1) xy, + (+ 1d y, =0. Hence proved.
+Example 6. If y = (1 — x) e& *, show that
+(= x)y,.- (+ XY, — 1 Ys, = 0
+Sol. Given y = (1 - x). e& *
+Differentiating w.r.t. x, we get
+y, = Q-xyte*-(-x e*
+1 1 x
+y = (l-xy e*) jo Alay |p
+= y,Q-x) = xy
+Differentiating n times w.r.t. x, by Leibnitz’s theorem, we get
+Yi (1 - x) — ny, = Y, rt n Ya
+(l-xjy,-(+ x)y,-ny,,=9. Hence proved.
+-1 y x m 2 2 2
+Example 7. If cos b) = log m) 7 Prove that xy, + (2n + 1)xy,, + (nv? + m’) y, = 0.
+Sol. We h > (4) =1 (=) - log —
+ol. We have cos” [7] = log |— | =m log —
+
+
+--- PAGE 24 ---
+
+DIFFERENTIAL CALCULUS-I 11
+y = bcos G log =]
+m
+On differentiating, we have
+x 24
+m x om
+xy, = — mb sin |m 8
+Again differentiating w.r.t. x, we get
+x 1 1
+xy,+y, = —mbcos m log — m- x TF
+m
+x
+x (xy, + y,) = -— mb cos G log *) = -m’y
+or xy, + xy, + my = 0
+Differentiating n times with respect to x, by Leibnitz’s theorem, we get
+Yio + ny, 2x + nn_1) -2y + xy, + ny, + my, = 0
+2
+xy, + (2n + 1) xy, + (W-n+n+n’)y, =0
+xy, + (2n + 1) xy,,, + (+ nr) y, = 0. Hence proved.
+Example 8. If y = (x* - 1)”, prove that (U.P.T.U., 2000, 2002)
+(x? — 1)y,,, + 2xy,,, — 1 (n+1)y, = 0
+a” d aP,,
+Hence, if P, = —— (x7 - 1)", show that {a-x7) 2 +n(n+1)P =0.
+"dx" dx dx "
+Sol. Given y = (x-1)"
+Differentiating w.r. to x, we get
+2nx (x* 1)"
+= n(x? - 1)". 2x = — >———.
+y, ( ) 1)
+(?-1)y, = 2nxy
+Again differentiating, w.rt. x, we obtain
+(x? - 1) y, + 2xy, = 2nxy, + 2ny
+Now, differentiating 1 times, w.r.t. x by Leibnitz's theorem
+(x? — 1)y,,, + 2nxy,,, + =a + 2xy,, + 2ny, = 2nxy,,, + 2n’y, + 2ny,
+or (x? — 1)y,,, + 2xy,,, (n+1 - n) + (W -—n + 2n - 2n* - 2n)jy, = 0
+or (x?- 1) y,,, + 2xy,,, -— (mw + ny, = 0
+(x? - 1) y,,,+ 2xy,,, n(n + 1) y,= 0. Hence proved. ...(i)
+
+
+--- PAGE 25 ---
+
+12 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+Second part: Let y = (x°- 1)"
+q"
+P = ood =
+1 at Y=Y,
+Now
+d 2d \ d 2
+— j(1_ x°)— = —)(1
+i { )r Unf = SAG 2? )vner}
+= (1 ~~ xy, > ~ 2XY,.. =~ [(x? WY ps2 + 2xy,41|
+df 4p | —
+x (lx TT nf = — [n(n+1)y,,] [Using equation (i)]
+“ta 12) a} ly,=0. H d
+or Tx def + (n+ Vy, = 0. ence proved.
+Example 9. Find the nth derivative of y = x"! log x at x = *
+Sol. Differentiating
+1
+y, = (n-1) x" log x + x" x
+1 nil l nil
+or y, = (n_ Vx" logx yx By xy, = (n-1)y + x"!
+x x
+Differentiating (n—1) times by Leibnitz's theorem, we get
+i dq" 1 a1
+xy, + "cy, = (n-Dy,,+[2 1 nt =(n 1)(n 2)...21=|n 1
+xy, +(n-l1)jy, = (n-1)y,,+ |” 1
+nl
+xy, = |" liey =——=
+x
+A 7
+t x = 9
+1
+# #
+Example 10. If y = (1 - x’)! sin'x, when -1 < x < 1 and >< sin'x < 3! then show
+that (1 - x’)y,,- (2n +1) xy,-my,_,=0.
+Sol. Given y = (1 — x) sin™x
+Differentiating
+1 1
+—~ 2 _ y2)-3/2 (_ +1 _ 2-1/2, ==
+y, = 7 xy? (-2x) sintx + (1 - x’) Vi x
+1
+x(1_ x?) 2sin 'x 1 xyt+1
+ey na 5 a, i A
+(1 x*) (lx) (1 x*)
+y, -*) = xy+1
+
+
+--- PAGE 26 ---
+
+DIFFERENTIAL CALCULUS-I 13
+Differentiating n times w.rt. x, by Leibnitz's theorem, we get
+y,,, (1 — x?) + ny, (-2x) + aa y,,° (2) = xy, + ny,,
+(1 — x*)y,., — (2n + 1)xy, - (nr? -n + ny, = 0
+(1 — x*)y,,, — (2n + 1)xy, — n’y,, = 0. Hence proved.
+Example 11. If y = x" log x, then prove that
+n
+(i) y= LC (ii) y, =ny,,+ |@ 1).
+Sol. (i) We have y = x" log x
+Differentiating w.r. to x, we get
+x"
+y, = nx"! - log x + x
+xy, = nx". log x + x"
+xy, = ny + x" ...(i)
+Differentiating equation (i) n times, we get
+XY + ny,, = ny, + |”
+Lt
+Yer = Proved.
+. d” d" | (4 )
+ii = ——(x" logx) = ———|— x" logx
+( ) Y, dx" ( & ) dx" 1 dx &
+nl n
+= han [= +nx" “10g
+dq" 1 1 dq” 1 1
+= n——(x" © logx)+——.x"
+dx" 1 ( & ) dx" 1
+q"
+As y, =——(x" log x
+y dx" ( 8 )
+= ny,, + | 1). Proved. dt
+Yn 1= sar (* log x)
+EXERCISE 1.2
+Find the ath derivative of the following:
+x n 1 n 1 n 1 n 1 n n
+1. & log x. Ans. e*| logx+"c, 7 pte C3 wa ttl 1) n 1°c,Xx
+2. 7 &. [Ans. e*[x? +2nx+n(n y]|
+
+
+--- PAGE 27 ---
+
+14 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+6( 1)"|n 4
+3. x log x. Ans es)
+1 x 2( 1)"|n
+4. ——. Ans. aoe
+1+x (1+x)"*
+5. x? sin 3x.
+n.2- n# n1|\_- 1 n2 . 33
+Ans. 3° x“ sin a +2nx 3 sin Skis» 1)4}/+3" “n(n 1)sin SH Mi 2)
+6. & (2x + 3). [Ans. e*{(2x +3)? +6n(2x+3)°+12(n 1)(2x+3)+8n(n 1Y(n 2)t|
+7. If x = tan y, prove that (U.P.T.U., 2006)
+(1 + x*) y., + 2nxy, + n(n-l)y,, = 0.
+8. If y = e* sin x, prove that y —-2y + 2y = 0.
+9. If y = sin (m sin'x), prove that
+(1 — x*)y,,, — (2n + 1)x-y,,, + (n? — n’)y, = 0. (U.P.T.U., 2004, 2002)
+1
+10. Ifx=cosh (=) log 7 , prove that (x*- 1)y, + xy, — m’y =O and (x*- 1)y,_,, + (2n + 1)xy,,,
++ (n’-mn’)y, = 0.
+—1 ¥ ek ‘ 2 2
+11. If cos 5) = log n) 7 Prove that xy, + (2n + 1)xy,,, + 2n’y, = 0.
+12. If y = e*""x, prove that (1 + x*)y,,, + {2(n + 1) x -l}y,,, + n(ntl)y, = 0.
+13. If sin'y = 2 log (x + 1), show that
+(x + 1)y,,, + (2n + 1)(x + I)y,,, + (nr? + Ay, = 0.
+14. Ify=C, (ave? 1), +C, (x vx2 1), prove that (x? - 1)y,,, + (2n + 1)xy,,, = 0.
+15. If x = cos [log (y'”)], then show that (1 - x*)y_,, - (2n + 1) xy,,, - (+ @) y, = 0.
+1.2.1 To Find (y,), i.e., nth Differential Coefficient of y, When x = 0
+Sometimes we may not be able to find out the nth derivative of a given function in a compact form
+for general value of x but we can find the nth derivative for some special value of x generally
+x = 0. The method of procedure will be clear from the following examples:
+Example 1. Determine y (0) where y = emcos ty,
+Sol. We have y = emeos tx
+Differentiating w.r.t. x, we get (i)
+1
+m_ cost ———— = m_ cos-tx
+ye mz =) v1 x? -Y, = — me
+or Vi xt yy = — my (1 yp = my?
+
+
+--- PAGE 28 ---
+
+DIFFERENTIAL CALCULUS-| 15
+Differentiating again
+(1 — x*) 2y, y, — 2xy, = 2m*yy,
+(1 — x°*)y, — xy, = m’y ...(ii)
+Using Leibnitz's rule differentiating n times w.r.t. x
+3 2n(n 1) 5
+(1 — x*)y,,, — 2nxy,, - 2M — xy, — ny, = my,
+or (1 -— x’)y,,, — (2n +1)xy,,, — (nv? + m’)y, = 0
+Putting x = 0
+Ynux (0) — (1? + m’)y, (0) = 0
+Y,,, (0) = (n+ m’)y (0) ... (iii)
+replace n by (n — 2)
+y, 0) = {((n- 2) + m*} y,_, (0)
+replace n by (n — 4) in equation (iii), we get
+Y,. (0) = ((n-4) + m’} y,, (0)
+y,(0) = {(n- 2) + m?} {(n — 4) + m?} y, , (0)
+Case I. When 1 is odd:
+y,(0) = {(n- 2) + m?} {(n- 4) + m’} .... (1? + m)y, (0) ...(i0)
+[The last term obtain putting 1 = 1 in eqn. (iii)]
+1 1
+Now we have y, = eh * m
+v1 x?
+m #
+At x =0,y,(0) = me ? ..(2) | Ascos '0= 3
+Using (v) in (iv), we get
+mF
+y,(0) = {(n 2) +m} {(n 4) +m} bees (1° +m’ me 2 .
+Case II. When n is even:
+y (0) = {(n- 2) + m?} {(n — 4) + m’} .... (2? + my, (0) ...(U1)
+[The last term obtain by putting n = 2 in (iii)]
+From (it), y(0) = my),
+y,(0) = m? em/? ... (Vil) As y = e™°s ‘
+y(0) = M8" = gma
+From eqns. (vi) and (vii), we get
+y,(0) = {((n- 2) + m?} {((n- 4)? + m7} .... (2? + m?) mer”?
+Example 2. If y = (sin™'x)’. Prove that y (0) = 0 for n odd and y (0) = 2.2?.4*....(m — 2),
+n t 2 for n even. (U.P.T.U., 2005, 2008)
+Sol. We have y = (sin! x) ...(i)
+1 .
+On differentiating y, = 2sin'x- To yiv1 x7 = 2Jy, (As Vy = sin 'x)
+Squaring on both sides,
+yy (1 - x) = 4y
+
+
+--- PAGE 29 ---
+
+16 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+Again differentiating
+or (1 — x*) y, - xy, = 2 ...(ii)
+Differentiating n times by Leibnitz’s theorem
+2n(n 1)
+(1 — x) y,,, — 2nxy,,, - 2 y, — xy,,, — ny, = 0
+or (1-27) y,,,- (2n + 1) xy,,, -n’y, = 0
+Putting x = 0 in above equation
+Ynug (0) — 0? y, (0) = 0
+Yy,,, (0) = nm y(0) ... (iii)
+replace n by (n — 2)
+y,0) = (n- 2) y, , (0)
+Again replace n by (n — 4) in (iii) and putting the value of y,, (0) in above equation
+y, 0) = (n- 2) (n- 4)’ y,,_, ()
+Case I. If n is odd, then
+y(0) = (n- 2) (n- 4) (n- 6)... 1?-y, (0)
+1
+But 0) = 2 sin'0- ——— =0
+“© To
+y,(0) = 0. Hence proved.
+Case II. If 1 is even, then
+y,(0) = (1-2) (n—- 4)? ... 2% y, (0) ...(i0)
+From (ii) y, (0) = 2
+Using this value in eqn. (iv), we get
+y,(0) = (n- 2) (n-4).... 27-2
+or y,(0) = 2.27.47... (n - 2), n t 2 otherwise 0. Proved.
+Example 3. If y = [ve vie], find y, 0).
+Sol. Given y = [xavi+2?| ..(i)
+mil
+y, =m [ve vi+x?| pe]
+v1+x?
+_ m|x+V1+2 | _ my
+v1+x? v1+x?
+or YVl4x? = my
+Squaring y(t) = my? ...(ii)
+Again differentiating, y; (2x) + (1 + x°)2y,y, = m?-2yy,
+or y, (1 + x*) + xy, - nr’y = 0 ...(Zil)
+Differentiating n times by Leibnitz’s theorem
+(1 + x*)y + 2nxy,,, + Ny y, + xy,,, + ny, — m’y, = 0
+
+
+--- PAGE 30 ---
+
+DIFFERENTIAL CALCULUS-| 17
+or (1 + x YY, + (2n + 1)xy,., + (1? - m)y,, =0
+Putting x = 0, we get
+Yao (0) + (n? ~ i) y,(0) = 0
+Yn42 (O) = -(n* - m’) y, (0) .--(iv)
+replace n by n - 2
+y, 0) = -{(n-2P-m’} y,, (0)
+Again replace n by (n — 4) in (iv) and putting y,_, (0) in above equation
+y,(0) = (1)? {(n - 2? — m*} {(n - 4 — m?} y,, , (0)
+Case I. If n is odd
+y,(0) = — {(n - 2)? — m°} {(n - 4 — m?} ... {1° — my y, (0)
+But y,(0) = my(0)
+or y,0) = m_ (As y (0) = 1)
+y,(0) = {m? — (n — 2)}{n? — (n — 4)} ... (mm? — 1?)-m.
+Case II. If n is even
+y, (0) = {m* — (n — 2)" {m? — (n — 4)’}... (mm? — 27) y, (0)
+y, (0) = {m? — (n — 2)’} {m? — (n - 4)} ... (mi? — 2?)-m?.
+(As y, (0) = m’).
+Example 4. Find the nth differential coefficient of the function on cos (2 cos x) at the point
+x=0.
+Sol. Let y = cos (2 cos? x) ...(i)
+On diffentiating, y, = —sin (2 cost x) |
+v1 x?
+or ¥, J x2 = 2 sin 2 cost x)
+Squaring on both sides, we get
+yi (1-2) = 4 sin’ (2cos x)
+= 4 {1 cos*(2cos ' x)}
+or y,(-x) = 4(1-y’)
+Again differentiating w.rt. x, we get
+2yy, (1 — x*) — 2xy, = — 8yy,
+or y, (1 — x?) - xy, + 4y = 0 ...(i1)
+Differentiating n times by Liebnitz’s theorem
+5 2n(n 1)
+(ql ~ x) Ynao ~ 2NXY,.1 ~ [2 Y,, ~ Viv ~ ny, + 4y, = 0
+(1 — x*) y,,, — (2n + 1) xy,,, - (n*- 4) y, = 0
+Putting x = 0 in above equation, we get
+Yi42 (0) - (n? - 4) y, (0) = 0
+or Yn (0) = (n?- 4) y,(0) --{ilt)
+Replace n by n — 2, we get
+y, 0) = {(n-2P-4} y,, (0)
+
+
+--- PAGE 31 ---
+
+18 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+Again replace n by (n — 4) in (iii) and putting y,__, (0) in above then, we get
+y, (0) = {(n-2)- 4} (n- 4-4} y,_, (0)
+Case I. If 1 is odd
+y, (0) = {(n- 2) — 4} {(n - 4)? - 4}... (1? - 4) y, (0)
+But y, (0) = 2 sin (2 cos'0) = 2 sin (#) = 0
+y, (0) = 0.
+Case II. If n is even
+y, (0) = {(n- 2? — 4}{(n — 4)? — 4} oe {2? - 4} y, (0)
+y, (0) = 0
+Hence for all values of n, even or odd,
+y, (0) = 0.
+Example 5. Find the nth derivative of y = x sin x at x = 0. (U.P.T.U., 2008)
+Sol. We have y = sin x = sin x. x ...(i)
+Differentiate n times by Leibnitz’s theorem, we get
+Y, = Ne, D" (sin x). x7 + Ne, D™ (sin x) D(x?) + Ne, D? (sin x) D? (x?) + 0
+=x. sin{x+ 4) + 2nx . sin ret, + n(n — 1) sin x +24)
+2 2 2
+= x sin{x+ 4) + 2Qnx sinfx+ = 2) 4 n(n — 1) sin[x + *)
+2 2 2 2
+= x sin(+ **) — 2nx cos( x4 **) — n(n - 1) sin(+ **)
+2 2 2
+y, = (x? - 1 +n) sin(4 **) — 2nx cos( x4 **)
+Putting x = 0, we obtain
+y, (0) = (n-n’) sin
+Example 6. If y = sin (a sin x), prove that
+(1 — x’)y,,, — (2n + 1)xy,,, — (n* - @)y, = 0
+Also find nth derivative of y at x = 0. [U.P.T.U. (C.O.), 2007]
+Sol. We have y = sin(a sin x)
+Differentiating w.r.t. x, we get
+a
+y, = cos(a sin! x). ——= ...(i)
+‘ v1 x?
+or YiV1 x2 = 4 cos(a sin’ x)
+Squaring on both sides, we obtain
+y, (1 - x) = @ cos’ (a sin! x) = a [1 - sin? (a sin x)]
+or y? (1 -x) = #@(l-y) ...(ii)
+
+
+--- PAGE 32 ---
+
+DIFFERENTIAL CALCULUS-| 19
+Differentiating again, we get
+2y, y, (1 — x’) — 2xy? = - 2 ayy,
+or y, (1 - x*) -— xy, = - ay ... (iit)
+Differentiating n times by Leibnitz’s theorem
+(1 = XY 9 — 2NXY,, 4 Ta Y,— Yay — 1, = - PY,
+or (1 -x’)y,,, -— (2n + 1)xy,,, - (Ww - @)y, = 0 ...(i0)
+Putting x = 0 in relation (iv), we get
+Vino (0) — (1? - a’)y, (0) = 0
+or Y 4.5 (0) = (n?- a’)y, (0) (0)
+Replace n by (n — 2) in relation (v), we get
+y, (0) = {((n- 2? - a’}y,, (0)
+Again replace n by (n — 4) in equation (v) and putting y,_, (0) in above relation, we get
+y, (0) = (1 - 2p - a} {(n - 4) - a ty, , (0)
+Case I. When n is odd:
+y, (0) = {(n- 2)? —a’} {((n - 4)? - a} ..... {1? - a?}y, (0) ...(U1)
+[The last term in (vi) obtain by putting n = 1 in equation (v)]
+Putting x = 0, in equation (i), we get
+y, (0) = cos(a sin’ 0).a=cos0.a_ y,(0)=a
+Hence, y, (0) = {((n- 2) —a?} {((n - 4)? - a} ..... {17 - a}. a
+Case II. When n is even:
+y, (0) = {(n- 2)? —a’} {((n — 4) - a7} ..... {27 — a’}y, (0).
+Putting x = 0 in (iii), we get
+[The last term obtain by putting n = 2 in equation (v)]
+y, (0) = -@y(0) =-a’ x, = 0 (As y(0) = 0)
+Hence, y, (0) = 0.
+EXERCISE 1.3
+1. If y = tan’ x, find the value of y, (0) and y, (0). [Ans. |6 and 0.]
+2. Ify=e" sin? x prove that (1 — x’) y,,- (2n + 1)xy,, , — (n’ + a) y, = 0 and hence find the
+value of y, when x = 0.
+| Ans. n is odd, y, (0) = {(n 2)° +a" {(n 4) +a} ... (3 + a) (12 + @)a n is even,
+y,, (0) = {(n 2) +a°} {(n 4) +a} wae (4 + @)(2? + a?) 7. |
+3. If log y = tan''x, show that (1+ x’) y_ , + {21+ 1)x-1}y,,,+(n+1)y, =0 and hence
+find y,, y, and y, at x = 0. [U.P.T.U. (C.O.), 2003]
+| Ans. y, (0) =-1, y, (0) =-1, y, (0) = 5 |
+
+
+--- PAGE 33 ---
+
+20 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+4. If f (x) = tan x, then prove that
+fi (0) — "c, fi-? (0) + "c, f'-* (0) - «= Sin (=),
+5. If y = sin'x, find y, (0).
+| Ans. n is odd, y, (0) = (n - 2)? (n - 4)’ .... 5°. 3°. 1 1 is even, y, (0) = 0. |
+6. Find y, (0) when y = sin (m sin Ir" x).
+ni
+"Ans. n is odd, y, (0) = cas) {(n 2)° +m} {(n 4) +m a (2 + 1?) men
+is even, y, = (0) = 0. |
+2
+y, ,» (0) =— 1’ y, (0) hence find y, (0).
+n 2
+| Ans. n is odd, y, (0), =O nis even y (0) = ( 1) 2 (n- 2) (n- 4)’ .... # 22. |
+PARTIAL DIFFERENTIATION
+Introduction
+Real world can be described in mathematical terms using parametric equations and functions such
+as trigonometric functions which describe cyclic, repetitive activity; exponential, logrithmic and
+logistic functions which describe growth and decay and polynomial functions which approximate
+these and most other functions.
+The problems in computer science, statistics, fluid dynamics, economics etc., deal with func-
+tions of two or more independent variables.
+se FUNCTION OF TWO VARIABLES
+If f (x, y) is a unique value for every x and y, then fis said to be a function of the two independent
+variables x and y and is denoted by
+z= fy
+Geometrically the function z = f (x, y) represents a surface.
+The graphical representation of function of two variables is shown in Figure 1.1.
+y
+f
+(xy) ~
+Z
+O
+z= f (xy) x
+Fig. 1.1
+
+
+--- PAGE 34 ---
+
+DIFFERENTIAL CALCULUS-I 21
+<= PARTIAL DIFFERENTIAL COEFFICIENTS
+The partial derivative of a function of several variables is the ordinary derivative with respect to
+any one of the variables whenever, all the remaining variables are held constant. The difference
+between partial and ordinary differentiation is that while differentiating (partially) with respect to
+one variable, all other variables are treated (temporarily) as constants and in ordinary differentia-
+tion no variable taken as constant,
+Definition: Let z=f (x, y)
+o4
+Keeping y constant and varying only x, the partial derivative of z w.r.t. ‘x’ is denoted by ay
+and is defined as the limit
+flee oy) fees)
+ox x 0 x
+o4
+Partial derivative of z, w.rt. y is denoted by ay and is defined as
+a _ 1 fut y) fly)
+= im. .
+oy y 0 y
+, a, of 2
+Notation: The partial derivative a also denoted by ax OF f, similarly ay 8 denoted
+by 2 Th ial derivatives for higher ord Iculated b ive diff iati
+4 dy or f, e partial derivatives for higher order are calculated by successive differentiation.
+az Of az Of
+Ts, at at Let ay? ay? “Is
+Oz af ez af
+el = pm Few = d .
+Gxdy = Bxoy ~ Sw Qyax = Dyox ~ fm and soon
+sod: : Oz Oz
+Geometrical interpretation of — and —:
+Ox oy
+Let z = f(x, y) represents the equation of a surface in xyz- Zz
+coordinate system. Suppose APB is the curve which a plane
+through any point P on the surface || to the xz-plane, cuts. As
+point P moves along this curve APB, its coordinates z and x A
+vary while y remains constant. The slope of the tangent line at Ht
+P to APB represents the rate at which z-changes w.r.t. x. ; ; \
+1 Ol... y
+Hence, ee tan (slope of the curve APB at the point P) aa x o
+o4 yf ®
+and ay = tan (slope of the curve CPD at point P) y
+Fig. 1.2
+
+
+--- PAGE 35 ---
+
+22 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+2 2 244
+Example 1. Verify that axty = oyox where u(x, y) = log, [=¥ (U.P.T.U., 2007)
+2,,2
++
+Sol. We have u(x, y) = log, =F)
+xy
+u(x, y) = log (x? + y’) - log x - log y ...(i)
+Differentiating partially w.rt. x, we get
+Ou 2x
+ax x? ty? x
+Now differentiating partially w.r.t. y.
+aru 4x
+ayox — (A)
+(x*+y7)
+Again differentiate (i) partially w.r.t. y, we obtain
+ue 1
+oy (x+y) oy
+Next, we differentiate above equation w.r.t. x.
+au Axy
+Oxy ~ ae ..(B)
+xCy (x +y )
+Thus, from (A) and (B), we find
+2 2
+ou _ ou Hence proved.
+Oxy Oyox
+a a°
+Example 2. If f = tan” (“), verify that ca = say
+Sol. We have f= tant (4) i)
+x
+Differentiating (i) partially with respect to x, we get
+of 1 (=) -y ‘
+T= To sd = wil
+ex , (4) x2 x2 4 y? ( )
+x
+Differentiating (i) partially with respect to y, we get
+F411 (iii)
+cy 1+(4) * wry
+x
+Differentiating (ii) partially with respect to y, we get
+ef oa ( y (P+ lD Cy2y)
+Oyox oy x2 4 y? (x? n vy
+
+
+--- PAGE 36 ---
+
+DIFFERENTIAL CALCULUS-I 23
+2 2
+y * .
+= 7 ... (10)
+(x?+y?)’
+Differentiating (ii) partially with respect to x, we get
+ar a x ) (x? +y7)(1) x(2x)
+Oxdy Ox x7 +? (x° + yw)
+2 2
+- ~ (0)
+(x? + y’)
+2 2
+From eqns. (iv) and (v), we get oF = oF Hence proved.
+oyox oxoy
+ey ou uy fy ou eu
+Example 3. If u(x + y) = x? + y’, prove that ax ay) > 4 ax ay}
+x+y?
+Sol. Given u= —
+x+y
+ou (x+y) (7497) P42 9
+ox (x+y) (x+y)
+d Ou (x+y) (2y) (x? + y’)a) y+ 2xy x?
+an _ = JH _ —..—S SO
+°y (x+y) (x+y)
+ou ou Axy
+—,2 = —“,
+ox ey (x+y)
+au eu 4xy (x yy .
+or 1-—-— = 1 z= 2 ..-(2)
+ax Gy (x+y) (x+y)
+and ou : ou (x? + 2xy y’) (y? +2xy x’)
+ox oy (x+y)
+2(x? y’] 2(x y) (i)
+- = (ii
+(x+y) (x+y)
+From (ii), we get
+2 2
+ou Ou A(x y) eu Ou
+e 2) = ery) =4 c Ox 2) from (i). Hence proved.
+
+
+--- PAGE 37 ---
+
+24 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+ou
+Example 4. If u = sin” [=] + tan! (4), show that x ou +y =0.
+y x ox oy
+Sol. Given u = sin? =) + tan! (4) (i)
+y x
+ou 1 1,1 ( y
+Ox 2) 2° \ x?
+Gye
+7 x
+y
+Ou x yx +
+or XD = TT ...(ii)
+Ox (y? x?) x2 +y?
+and from (i), ou _—_— [-4) »~ 1
+x
+Fe
+1 |— x
+y
+a - + (iii)
+or Yo St eT ve
+ey (ye) ete
+Adding (ii) and (iii), we get x — + y — =0. Hence proved.
+ax oy
+x 2 2
+Example 5. If f(x, y) = x* tan! (4) -y°* tan! =) then prove that oF L of.
+v y Oxdy  — OyOx
+Sol. F a ox-ton(¥#) +x ( #)-v- (2
+re een ie
+14+} = 14/2
+* y
+3 2 3
+ox x x+y x+y x
+Differentiating both sides with respect to y, we get
+07 1 1 2 2 12
+x
+1 1
+Again F oe, 4d ay tant [5] -» [3]
+°y 1 (4) * y 2) y
++ 1+) —
+* y
+fF _ 4 *) xy?
+
+
+--- PAGE 38 ---
+
+DIFFERENTIAL CALCULUS-I 25
+_ —__ af/—}eiy_ a |—
+= yp 2y tan y x — 2y tan y)"
+Differentiating both sides with respect to x, we get
+eo 1 1 2 2 x2 2
+Ox Oy 2) y x+y x+y
+1+] —
+y
+Thus, from (i) and (ii), we get
+2 2
+OF _ oF. Hence proved.
+oxoy oyox
+Example 6. If V = (0? + y* + z’)"/?, show that
+av OV ay
+za +R? + az =0.
+ax? * dy? * G7?
+Sol. Given V= (P+ y4 27), (i)
+ev = - 1 Qe + y+ 23? Ax =-x (P+ y+ 2)?
+ox 2
+av 3/0 2. .9\8/2 22 .9\73/2.
+ox -|x{-3(. +y +2") 2x +(x +Y° +Z ) 1
+= 3x2 (x? + y + zy 5/2 _ (x? + y + 2ysl?
+= (P+ P t+ 2)? [3x - (2 + y? + 2)]
+av .
+or oye = (P+ P+ 2)? (2x7 - y’? - 2’) ..-(i1)
+x
+Similarly from (i), we can find
+av
+oy = (P+ PP + 2)? (2y? — x? - 2?) ... (iii)
+av 2 2 2)\-5/2 2 2 2 H
+and a (x? 4+? + 2)°? (227 — x* - y’) ...(iv)
+Adding (ii), (iii) and (iv), we get
+ev OV ay
+x2 + oy? + a (x? + ? + 27)? [(2x? - y? — 27) + (2y? — 2? — 2?) + (2227-2 - y’)]
+= + y+ 2)? [0] = 0. Hence proved.
+Example 7. If u =f (r), where 7° = x? + y’, show that
+eu ou 1
+az ay? =f (r+ ; f (U.P.T.U., 2001, 2005)
+
+
+--- PAGE 39 ---
+
+26 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+Sol. Given P= P+y (7)
+Differentiating both sides partially with respect to x, we have
+
+» ey ;
+r By 2k OF A= ...(i2)
+_ oy vs
+Similarly, dy = > ...(iil)
+Now, u = fir)
+ou or x ..
+a 7 FOO a Hf > 7, from (i)
+Again differentiating partially w.r.to x, we get
+ou 8 |f@x| + [f (1 +2f (r)(@r/dx)|-xf (r)(@r / x)
+ax? x r 7 r-
+au 1 2 x?
+a“ * _ a + _ oe
+or ee if (r)+x°f (7) f (|, from (ii).
+eu 1 2 y
+Similarly, ay? = 72 if (r)+y'f ()-"—f (r)
+2,,2
+au Oru 1 2,2 (x ry
+i — — = — 2 —
+Adding, at oy 2 | rf (r)+(x +y \f (r) , f@)
+1 ;
+= oy PHO + ef (© —1f MO), from (i)
+1
+= —f(r)+f (r). Hence proved.
+r
+Example 8. If u = log (x° + y° + 2° — 3xyz); show that
+2
+[2+208) 2 (ULPT.U., 2003)
+ata tS | uu =- ———]. P.T.U,,
+Ox Oy & (x+y+z)
+Sol. Given u = log (8+ y+ 2 - 3xyz).
+ou 3x* 3Byz (i
+a re mm
+Ox e+ytz> Bxyz
+Similart ou By? 3xz (ii)
+ar rr ii
+moan) oy e+y +2? —3xyz
+q Ou 32° Sxy (iii)
+a a {ili
+an 4 P+y?+z° —3xyz
+
+
+--- PAGE 40 ---
+
+DIFFERENTIAL CALCULUS-I 27
+Adding eqns. (i), (ii) and (iti), we get
+ou OU 3 (x? + y? +27 -xy yZ 2x)
+ax * OY & * xe y2tz  Bxyz
+3(x* + y? +2? xy YZ zx)
+~ (xt ytz)(x?+y? +27 xy YZ 2x)
+|As a? +b° +c° -3abe =(a+b+c)a> +b? +07 ab bc ca)
+0 oem ° (iv)
+r i i ve
+Ox OY & X+YH+Z
+2
+a a 2a 0 0 d;\fd Oe 6
+2, = j—+—-+—]/—+2—-4+—
+Now, [2428] "= 5: oy =he Cy "
+6,6, Oyo ou mul) fe eo ey 3 .
+= lax ay azjlax ay az) = lax dy a&)xtyszs fom “)
+0 1 0 1 0 1
+= 3 || —— |+ | ———_ |+ |] ———
+Ox\xt+yt+z) Oy\x+yt+z) Oz\xt+ytz
+1 1 1 9
+(x+y+z) (xt+y+z) (x+y+z) (x+y+z)
+Hence proved.
+“1 xy
+Example 9. If u = tan’) ———+———., show that
+\(l+x? +y°)
+au _ 1
+Oxdy (1 +x7 4 yy
+Sol. Given u = tan? ——2¥__
+|(l+x? +97)
+On 1
+oy E +{x?y? /(1 +x +)
+/
+Al+x? +") y—(1+x? +?) ' “oy
+xx fe
+(1+x7+y’)
+x (14x? +y’) y?
+
+
+--- PAGE 41 ---
+
+28 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+or ou _ x 14x? _ x
+Again differentiating partially w.rto x
+ou 8 x __1_4|__
+Ox Oy ox (1+y7),/(1+x? +y?) (1+y’) ox (1427 +97)
+- 1 (1427 +97) x5 (l+s?+y) ox
+- (1+y’) (1+x7+y’)
+1 (1+x7+y?)-x 1
+= (F) feeayy™ = (ata Hence proved.
+2 y 22
+Example 10. If Dan pan? es” 1, show that
+(24) (24) (2) aa (xt ry Stet)
+ax ay a} =2l ae "Sy az | (U.PT.U., 2002)
+Sol. We have
+x2 y? 2 .
+where u is a function of x, y and z
+Differentiating (i) partially with respect to x, we get
+2x x? y? 2 Ou
+= ay Oooo tt a + TT I = 9
+r+ ey (+4) “| ax
+Cu 2x /(a* +u) 2x /(a? + u)
+or ee
+ox [22 (0? +n)? 4? /(0? +n) +22 (0? +n)" | e jx? (a? +n) |
+Ou 2y/(b? +u] au 2z /(c? + u)
+Similarly, oe ns eas Tt oni oe |
+ey 0 [2 /(0? +1) oz 0 [22 (0? +1)
+Adding with square
+(af oy eho ao el
+—}+/—] +|—]| =
+Ox oy (or c fy? /(e a) }]
+
+
+--- PAGE 42 ---
+
+DIFFERENTIAL CALCULUS-I 29
+or a >!) = ——-; (ii
+0 0
+* oy 2 e [22 (a? +) |
+ou ou ou 1 2x? 2y" 22°
+Also, ar i i rr ots theo
+x ay Zz e [2° /(0? +n) (a +u) (0 +u) (c +u)
+= 7 (I, from (7) ...(ili)
+2 (2
+e E /(a +u)
+From (i) and (ii), we have
+2 2 2
+Ou ou Ou Ou Ou ou
+— — —|- x—+y—+z2—
+(=) + (=) + (=) =2 ax "Sy %) Hence proved.
+Example 11. If x* y’ z* = c, show that at x = y = z,
+axoy ~~ (x log ex)"'. Where z is a function of x and y.
+Sol. Given xy!.z = c, where z is a function of x and y.
+Taking logarithms, x log x + y log y + z log z = log c. ...(i)
+Differentiating (i) partially with respect to x, we get
+1 1 Oz
+= —|+(1 1]+}z]—|+( 1|— =
+(4) (log x) (2) (log z) jg 0
+& (1+ logx)
+or éx (1 +logz) i)
+Similarly, from ()), we have — =. (Lt be8Y) vs
+imilarly, from (i), we have dy =~ (1+log2) ... (iil)
+az A ( & a) 1+ log y a
+Oxdy ~ ss - 2| [pees , from (i)
+0°z a
+or axoy =- (1+ log y)- ax [(1 + log z)"]
+21 &
+=-(1+1 -|-(1+logz) ~ — —
+(1 + log y) = 82) 74
+0°z 1+lo 1+]
+or aay = (logy) . [Fie , from (iii)
+cy z(1+ log z) 1+logz
+At h rz (1+log x)”
+x=y=z,we have [yD = - ——+
+oxey x (1+ logx)”
+
+
+--- PAGE 43 ---
+
+30 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+oz : : As | 1
+oxey ~  x(1+logx) —_x(log, e+ log x) = (As log ,¢ = 1)
+ot Hence proved
+=~ Foglesy) ~~ {x log (ex)} . Hence proved.
+Example 12. If u = log (x° + y° — x’y — xy’) then show that
+fu , ou ay 4
+a2 t2aa, t+ 52 = 7D"
+ax" “oxoy * ay? ~ (x+y)
+Sol. We have u = log (8 + y - xy — xy’)
+ou _ 3x? 2xy y? ;
+Ox (x+y? xy xy”) fe)
+ou By? x Dry ‘)
+ey = (e+y ey wy) Py xy’) (il
+Adding (i) and (ii), we get
+ou ou (3x? 2xy y?)+(3y? x? 2xy)
+—_ += = ooOO OO O0OOOm"onam"
+ox Oy (P+y° xy xy’)
+2
+: 2(x_y)
+(x+y) (x? +? -2xy)
+ou ou (xy) 2
+~~, oe 7 = ... (iii)
+ox OY (x+y\(x_ y) (x+y)
+aru ou au (0,0)
+anes 2” _ | —4+—
+Now, axe +2 Oxdy + ay? ax Oy u
+0. oO 0. oO
+-/—+—|]/—+-—ly
+ox Oy) \Ox oy
+= [2+2) . — (from iii)
+ox Oy) x+y
+y (ees) +247 Fe)
+=2 x+y + ay x+y
+2 2 4
+=o aps :_ Hence proved.
+(x+y) (x+y) (x+y)
+Example 13. If u = e, show that
+au
+Oxoyoz = (1 + 3xyz + 2xy*z*Je™.
+
+
+--- PAGE 44 ---
+
+DIFFERENTIAL CALCULUS-I 31
+Sol. We h _ XYZ ou — pryz
+ol. We have u=e a ey
+aru é
+ayéz = ay (e%-xy) = e x’yz + ev.x
+au
+or yz = (xyz + x) ew
+au
+Hence Oxdyoz = (2xyz + 1) ew + (x?yz + x) CM -Yz
+= (1 + 3xyz + x*y’z*) e. Hence proved.
+Example 14. If u = log r, where r° = (x - a)? + (y - b)? + (z — c)*, show that
+ax? ay? axe?
+Sol. Given r= (x-ay’+(y- bP + (zZ- cy, (7)
+Differentiating partially with respect to x, we get
+ar ar (: *) .
+2r a 2 (x — a) or ox = , (ii)
+or b or zc
+Similarly, ay = vw!) and ay = eo)
+Now, u = logr.
+a 1818) om
+dx or Ox rr Jrom @)
+Ou x a
+or ati?
+ou 6 (: *) - (1) (x a) 2r(dr/ dx)
+ae la Lr 4
+ou 7 r(x a) f .
+or ne rom. (ii)
+_ ou r 2(y by Oui 22(z 0)?
+Similarly, oy” = re ae = re
+2 2 2 2 2
+au Oui ary 3r 2f (x a) +(y b) +(z oc) \
+ax? ~ dy? * Ge ri
+3r? 2r? ; 1
+a a, from (i) = ae Hence proved.
+
+
+--- PAGE 45 ---
+
+32 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+Example 15. If u = x° tan (y/x) - y’ tan (x/y), prove that
+eu x
+Oyox vty?
+Sol. Given u = xX tan! (y/x) - y° tant (x/y).
+Differentiating partially with respect to x, we get
+wet L(t). me (Y) et}
+Ox 1+(y/x) x x 1+(x/y) Y
+2 3
+x
+= a tetas 7
+x+y x+y x
+2,,2
+xo +
+= - y(e sy") + 2x tan! ¥ =-— y+ 2x tan’ (4)
+(x? +’) x x
+Again differentiating partially with respect to y, we get
+2
+1 1
+aa = & j-ys2ctan {2} =-1+ 2x ——_, x
+1+(4)
+x
+2 2 2
+= -l1+ =a = ~—. Hence proved.
+x+y x+y
+Example 16. If z = f (x — by) + (x + by), prove that
+ax? ay’
+Sol. Given z=f(x—-by)+ (x + by) (i)
+(674
+ay =f (x—by)+ (x + by)
+az ..
+and a f (x-—by)+ (x + by). ...(ii)
+(64
+Again from (i), ay =-bf (x-by)+b (x + by)
+az Oz
+and ay? =Vf (x-by) +B (x+by)= ay from (ii). Hence proved.
+Example 17. If u (x, y, z) = log (tan x + tan y + tan z). Prove that
+in ox ny in oz Of 29 U.P.T.U., 2006
+sin 2x B+ sin 2y ay + sin 2z G7 = 2. (U.P.T.U., )
+2
+Sol. Oe SC
+ox tanx + tany + tanz
+
+
+--- PAGE 46 ---
+
+DIFFERENTIAL CALCULUS-I 33
+ou sec” y
+oy ~ tanx + tan y + tanZ
+Ou sec” z
+(oy4 ~ tanx + tan y + tanz
+wo og gin oy wg in oe
+sin 2x 2 + sin 2y a, + sin 22 2
+_ sin 2xsec? x+ sin 2y sec” y+sin2z sec’ z
+tanx+tany+ tanz
+2 (tanx + tan y + tan z)
+~ — (tanx + tany + tanz)
+= 2. Hence proved.
+EXERCISE 1.4
+au
+1. Find Oxoyoz ifu se [Ans. 8xyzu]
+2. Find the first order derivatives of
+Ou Ou 1
+i) y= x Ans. — =x” (ylogx+y); —=x"" logx
+(i) u = x, Ox (y log x + y) oy &
+. 2 2 ou 1 ou 2 2 > > 2)\'
+(ii) u=log |x+yx° y Ans. ==>. y (x y’) Xt yx" y
+OX fy? y? OY
+iP
+3. If u = sin vey , show that ou -_/4 Ou
+Vx +fy Ox x oy
+4. fuse that 2H 4 FH _
+. If u = & (x cos y— y sin y), prove tha ax? * ap ;
+5. If u =a log (x7 + + brant (4) that 2%, 2H 9
+c =a log y x J Prove a2 oy? = 0.
+az ze
+6. If z = tan (y — ax) + (y + ax)”, prove that ox? 7 oe = 0.
+rv yp 2
+ou Ou
+= ||“ Yo & fata e
+7. Ifu= 1 1 1 , prove that ox t Gy * & =?
+
+
+--- PAGE 47 ---
+
+34 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+au Oru
+8. If u = 2(ax + by)? — (x* + y’) and a? + b’ = 1, find the value of Ox + oy?” [Ans. 0]
+x
+62 Ayz
+9. If u = log (x* + y* + 2’), find the value of ou Ans. — a
+oyoz (x +Y°+Z )
+1 au Ou ou 2
+10. If u = (x?+y?+27)2, then prove that aD + ay? + Oe
+az az
+11. Ifz=f («+ ay)+ (x - ay), prove that —> = a—~.-
+f(e+ay)+ (x-ay), p ay? ax?
+7 Ou Ou
+12. If u = cos! [(x y)/(x+y)], prove that va + Vey = 0.
+Oru
+13. If u = log (x? + y’), show that —> + ou = 0.
+Ox oy
+14. If u = xy + yz + 2x, sh ty 2g Bowe + zp
+Hu = xy + yz + 2x, show that 2 + 3, a ety + 2p
+tee OF _ yp OF
+15. Prove that f(x, t) =a sin bx. cos bt satisfies a = b? Be
+x
+au Ou Ay
+16. If uv = 7", where r = ,fx? ty? 42° find a * ay. + B2- [Ans. m (m + 1)r” 7]
+Ou au Ou
+17. If u = (x7 + y? + 2), prove that —~ + —> + —> =2 (4+ y+ 2).
+( y "Pp axz oy? axe ( y )
+18. If =t'e z find the value of 1, when te (2 =) = o. | Ans. n= |
+, 7 ’ ’ r? ér or) ot 2
+19. For n = 2 or — 3 show that u = 1" (3 cos* -— 1) satisfies the differential equation
+2 (PS) 1 2 (s #)
+— |r°—}| + —— |sin —] =0.
+or or sin O (a)
+20. If u = e ] hi ae | 2 + ou af 6
+. If u = e cos (a log r), show tha a2) ty et Pe a2 79%
+(2 a)
+21. If e (ev) (x — y), show that ys Fp =7-y'.
+Ox oy
+[Hint: Solve for z = (y’ — x’) log (x — y)].
+1 eu Ou oy
+22. If u = ; and 1 = (x — a)? + (y — b)? + (z - c)’, prove that axe + ay? + ae = 0.
+
+
+--- PAGE 48 ---
+
+DIFFERENTIAL CALCULUS-I 35
+2 2 2
+au Ou Oru
+23. If u (x, y, Z) = cos 3x cos 4y sin h 5z, prove that oe 4 ay? 4 a2 = 0.
+0 0 1/0 0
+24. If x* = au + bv; y° = au — bv, prove that (), (=) = 5 (=) (=).
+0
+25. Ifx=rcos ,y=rsin , find (=) , (=) (=) (=| (2) .
+r 0 Jr, \OxJy \ ey), dx),
+[Ans. cos ,-rsin ,-r'sin ,r'cos ,-cot .]
+sem HOMOGENEOUS FUNCTION
+A polynomial in x and y i.e., a function f (x, y) is said to be homogeneous if all its terms are of
+the same degree. Consider a homogeneous polynomial in x and y
+fy) = ax" ta, x ly ta, xP +. tay"
+2 n
+= x" |» +a(2)+0,(2) rostay( 2) |
+x x x
+or f(x,y) = "FE (4)
+Hence every homogeneous function of x and y of degree n can be written in above form.
+NOTE: Degree of Homogeneous function = degree of numerator — degree of denominator.
+Remark 1: If f(x, y) = ax" + ax yt + ax YP t ee Fa YY
+=x Ay +a, —+ ay —_ +... +4, —_
+y y y
+x
+f(% y) =x" r=} degree =n
+Remark 2: If f(xy) = ay" + ay" K+ ee Fay. x"
+= Y' 4a) ta] —|+....+4,| —
+| y y
+x
+fi y=y"F =), degree = -n
+Another forms are also possible i.e.,
+x
+fa yay" r=); 700 y) = y" Fy/x)
+
+
+--- PAGE 49 ---
+
+36 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+Ao EULER’S THEOREM ON HOMOGENEOUS FUNCTIONS
+Statement: If f is a homogeneous function of x, y of degree n then
+fF
+xa tY¥ ay = nf. (U.PT.U., 2006)
+Proof. Since f is a homogeneous function
+y ;
+f@y) = xP (4) ---(i)
+Differentiating partially w.r.t. x and y, we get
+Fat (4) op (4) (4 .
+ay nx"! F x) +X F , 2 ..-(i1)
+ay = * F (*) x ...(iil)
+Multiplying (ii) by x and (iii) by y and adding, we have
+wt +y f = nx" F (4) —x"lyF (4) +x" ly F (4)
+ox oy x x x
+= nx" F (4)
+x
+x f +y gf = nf | (from (i).
+ox oy
+In general oni cance
+general if f (x,, Xoy very x,) be a homogeneous function in Xp Loy vey X, then Xx, ay +X, ax
+1 2
+tu tx, a = nf.
+Corollary 1. If f is a homogeneous function of degree n, then
+a? 2 a?
+eo ot + 2xy oF +p ot =n(n-l)f.
+Ox oxoy oy
+Proof. We have
+GF F | .
+xa tY ay =nf ...(i)
+Differentiating (i) w.r.t. x and y respectively, we get
+2 a2
+Fy, of yy f_, (ii)
+Ox Ox? Oxoy Ox
+a of 2
+and yt 2, 2f ot ...(iil)
+dyax * Oy ey? oy
+Multiplying (ii) by x and (iii) by y and adding, we have
+of of of a Fy at
+af + a Ss _ ——+y—
+x a2 + 2xy axoy +7? xy? +x a ty ay =n |*av "Sy
+
+
+--- PAGE 50 ---
+
+DIFFERENTIAL CALCULUS-I 37
+ef of oF
+x? me + 2xy axdy +y aye = nf nf=n(n-1)f
+Example 1. Verify Euler’s theorem for the function
+f(% y) = ax? + 2hxy + by’.
+Sol. Here the given function f (x, y) is homogeneous of degree n = 2. Hence the Euler’s
+theorem is
+x f +Y gf = 2f (7)
+ox oy
+Now, we are to prove equation (i) as follows:
+@ of
+f = 2ax +2 hy, ay = 2hx + 2by
+f f _ 2 2
+xa ty oy = 2ax? + 2hxy + 2hxy + 2by
+= 2(ax? + 2 hxy + by’) = 2f
+x f +y Gf - 2f, which proves equation (i).
+Ox ay ’
+Example 2. Verify Euler’s theorem for the function u = x" sin ().
+Sol. Since u is homogeneous function in x and y of degree n, hence we are to prove that
+ou ou ;
+xm +y oy = nu ..-(2)
+fo
+We have uo= x" sin x
+a = men (Zero (2) 8)
+= = nx"? sin + x" cos 2
+Ox x x x
+or x— = nx" sin — x"! y cos (ii)
+Ox x x
+Similarly, y HL yx"! cos (*) ... (iii)
+ey x
+Adding (ii) and (iii), we get
+Xa tY ay = me sin |
+ou Ou
+xa tY ay = mM
+which verifies Euler’s theorem.
+
+
+--- PAGE 51 ---
+
+38 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+Wy
+Example 3. If u = sin” Veal |’ show by Euler’s theorem that
+xtfy
+uy m.
+ox OY
+Vx - -
+Sol. We have u = sin! veavy => sin u = vend
+vx +fy vx + fy
+vx - Jy
+Let f = snu = ——=
+vx+/y
+Here, f is a homogeneous function in x and y
+h d _i_1 0
+where, egree n = 77
+.. By Euler’s theorem, we have
+of of
+xa ty ay = 0. f =0
+a. a. hefew
+or x 5y (sin u)+y ay (sin u) = 0 | sf =sinu
+ou Ou
+or xcosus a + ycosu 4, = 0
+ou ou 0
+=> xo ty iy
+=> ou _y Ou Hence proved.
+ox x oy
+Example 4. If u = log [(x* + y')/ (x + y)], show that
+rt py MWg U.P.T.U., 2000
+Ox + Y oy —~ ‘ ( Let .U., )
+xt4y! xt+y!
+Sol. We have u = log, x+y > e= x+y
+4,04
+Let f - es xity
+x+y
+Here the function f is a homogeneous function in x and y of degree, n = 4-1 =3
+a By Euler’s theorem
+of oF
+var +¥ By = nf = 3f
+3 oO
+> var ee) +Y gy () = 5f
+
+
+--- PAGE 52 ---
+
+DIFFERENTIAL CALCULUS-!
+vate 4
+> ox "3y e= 3e
+Oy Hl d
+> xo ty y ence proved.
+Example 5. Verify Euler’s theorem for
+= sin |= aft
+u= sin y + tan vt (U.P.T.U., 2006)
+Sol. Here u is a homogeneous function of degree,
+n = 1-1=0; hence by Euler’s theorem
+x ou + ou 0
+ax” ay
+1 1 1
+° h-(2) i! 1+(4) *
+x
+y
+ou x xy (i)
+yxy = ee li
+or ax ly? _ x2 ety?
+ou 1 x 1 1
+and ay Pon oa | t ot
+1-|— x
+y
+or y eg (ii)
+oy fy? —x? (x? +y?)
+Adding (i) and (ii), we get
+x ou +y ou = 0, hence Euler’s theorem is verified.
+ox oy
+x y
+Example 6. If u = x sin y + y sin! rar find the value of
+07u aru 07u
+2 —> + 2xy —— ep —. U.P.T.U., 2007
+Sol. We have
+w= xsin® (y) +ysin® |y
+1
+. Ou int [=] , (2) wy oe (-)
+ox Yy x2 y y? x
+1--> |l- >
+y x
+
+
+--- PAGE 53 ---
+
+40 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+> x oy = xsin™ |y ‘poe eae li
+1 1 1
+and “ = xX) > [-5) + sin? (4) + Ys (=)
+y 1-7, Y 1-4
+| y Vx
+= ye by sine (4) »we (ii)
+an ae )* eae
+Adding (i) and (ii), we get
+au im (* in (4) - .
+xa ty ay = *sin y ty sin" |v} =u ...(iii)
+Differentiating (iii) partially w.r.t. x and y respectively.
+mu ou Pu ue uu ,
+ax t% 2 tY dxdy ax =xaa ty axdy ...(i0)
+4 au | au ou mu Ou Ou ()
+an x — —_—$> == ———— —_! x naz = see
+dyox oy 4 ay” oy 4 ay” oxdy
+Multiplying equation (iv) by x and (v) by y and adding, we get
+* ax? 7 Y Oxay vy ayr
+3 3
+xP +
+Example 7. If u = tan™ Say prove that x a +y oy = sin 2u and evaluate
+d7u 7u d7u
+2 2x 2 i,
+woe Oxoy ty ay”
+Sol. We have
+e+ e+
+u = tan “x-y~ => tan u = “x-y_
+e+y?
+a Let f = tan u = xy
+Since f (x, y) is a homogeneous function of degree
+n=3-1=2
+By Euler’s theorem, we have
+Y yo _ 2 2 tian u) = 21
+x ay +y ay nf >x Ox (tan u) + y ay (tan u) = 2 tan u
+=> x ou -seCu t+ y ou -se?u = 2 tan u
+ox oy
+
+
+--- PAGE 54 ---
+
+DIFFERENTIAL CALCULUS-!
+ou ou 5 tan u nu. P d (i)
+— + —_- = 7, ~ = . . ore
+or xo ty ay secty 7 Sint 2u. Prove i
+Differentiating (i) partially w.xt. x, we get
+a°u | au 7u ou
+Xz +a t+Y¥ — = 2008 2u- —
+ox ox oxody ox
+OU ey 2 «G05 2 1)
+or ¥ 52 +Y Dray = (2 cos u-l) >
+Multiplying by x, we obtain
+a7u o*u ou .
+x? oa + xy axdy = x (2 cos 2u -1) Oy ...(ii)
+Again differentiating equation (i) partially w.rt. y, we get
+ou au Ou > cos 2 ou
+* dyax 7% Oy? ~ ay ~ cos at OY
+au d°u ou
+or y ay? + Xx dyox = (2 cos 2u — 1) oy
+2 2 au
+or 2 we + xy ay = y (2 cos 2u ~ 1) 5, (multiply by y) (iii)
+Adding (ii) and (iii), we get
+aru ou ou au, ou
+x? 5x2 + 2xy dxdy +¥° ye = ( 2cos 2u - 1) |*5, 3y
+= (2cos 2u — 1) sin 2u, (from (i))
+= (2sin 2u cos 2u — sin 2u)
+= sin 4u — sin 2u
+9 cos (=) cos (a)
+7 2 2
+a7u ou 07u
+Hence, x? x2 + 2xy axdy + yf? ay” = 2 cos 3u - cos U.
+y x
+Example 8. If z = x” f vy) t's y , prove that
+az a°z az oz oz
+x? 5,2 + 2xy axoy +¥ ay? + mnz = (m+n-—1) Cae .
+y x
+Sol. Let w= x"fl Tl, v=2x"8 y
+then Z= utv ..-(1)
+Now, u is homogeneous function of degree m. Therefore with the help of (Corollary 1, on
+page 36), we have
+
+
+--- PAGE 55 ---
+
+42 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+a7u ou a7u .
+x 5x2 + xy dxdy + aye = m(m-1)u ... (ii)
+x
+Similarly for v = x" g [=] , we have
+x 2 + 2Y dydy +¥ Oy? = n(n-1)v ...(iti)
+Adding (ii) and (iii), we get
+AY a2 )
+x? a2 (u + 0) + 2xy axdy (Ut +Y ay? (u+v)=m(m-1)utn(n-1)0
+_ ez az | a |
+=> wa + YY Dray + Y ay2 = mim Yusrn(n—IoAsz=u +o. ...(70)
+Again from Euler’s theorem, we get
+ou ou av a0
+xa ty ay = mu and x ax TY ay = 7
+p) 7)
+Adding xa (utv)t+y oy (u+v) = mu + nv
+az oz
+=> xa +y ay = mu + nv ...(V)
+Now, m(m-1)utn(n-1) 0 = (W?u + n’v) - (mu + nd)
+=m(m+n)u+n(m+n) v—mn (u + v)-(mu + n0)
+= (mu + nv) (m +n) — (mu + nv) — mnz
+= (mu + nv) (m+ n—-1) -— mnz
+yey ye
+= (m+ n-l) |*5, 1 3y — mnz, from (v)
+Putting this value in equation (iv), we get
+x am t xy axay + Y ay” = (m+n-l) |*5, 1 8y — mnz
+02z 0°z 0°z oz az
+=> x a2 t 2xy dxoy * y° ay” + mnz = (m+n -1) Ox Oy . Hence proved.
+x+2y+3z
+Example 9. If u = sin! | ———=——— |, show that
+|
+ou oe ou 3 =0 U.P.T.U., 2003
+Xo tY oy +2 Oz tS tanu=0. (U.P.T.U., )

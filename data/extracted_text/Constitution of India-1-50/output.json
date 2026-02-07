@@ -1,0 +1,4402 @@
+[
+    {
+        "document_type": "constitution",
+        "part": "PART II",
+        "part_title": "CITIZENSHIP",
+        "article_number": "5",
+        "article_title": "Citizenship at the commencement of the Constitution",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART II",
+        "part_title": "CITIZENSHIP",
+        "article_number": "6",
+        "article_title": "Rights of citizenship of certain persons who have migrated to India from Pakistan",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART II",
+        "part_title": "CITIZENSHIP",
+        "article_number": "7",
+        "article_title": "Rights of citizenship of certain migrants to Pakistan",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART II",
+        "part_title": "CITIZENSHIP",
+        "article_number": "8",
+        "article_title": "Rights of citizenship of certain persons of Indian origin residing outside India",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART II",
+        "part_title": "CITIZENSHIP",
+        "article_number": "9",
+        "article_title": "Persons voluntarily acquiring citizenship of a foreign State not to be citizens",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART II",
+        "part_title": "CITIZENSHIP",
+        "article_number": "10",
+        "article_title": "Continuance of the rights of citizenship",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART II",
+        "part_title": "CITIZENSHIP",
+        "article_number": "11",
+        "article_title": "Parliament to regulate the right of citizenship by law",
+        "article_text": "--- PAGE 5 --- (ii) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "12",
+        "article_title": "Definition",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "13",
+        "article_title": "Laws inconsistent with or in derogation of the fundamental rights",
+        "article_text": "Right to Equality"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "14",
+        "article_title": "Equality before law",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "15",
+        "article_title": "Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "16",
+        "article_title": "Equality of opportunity in matters of public employment",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "17",
+        "article_title": "Abolition of Untouchability",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "18",
+        "article_title": "Abolition of titles",
+        "article_text": "Right to Freedom"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "19",
+        "article_title": "Protection of certain rights regarding freedom of speech, etc",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "20",
+        "article_title": "Protection in respect of conviction for offences",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "21",
+        "article_title": "Protection of life and personal liberty",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "21A",
+        "article_title": "Right to education",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "22",
+        "article_title": "Protection against arrest and detention in certain cases",
+        "article_text": "Right against Exploitation"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "23",
+        "article_title": "Prohibition of traffic in human beings and forced labour",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "24",
+        "article_title": "Prohibition of employment of children in factories, etc",
+        "article_text": "Right to Freedom of Religion"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "25",
+        "article_title": "Freedom of conscience and free profession, practice and propagation of religion",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "26",
+        "article_title": "Freedom to manage religious affairs",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "27",
+        "article_title": "Freedom as to payment of taxes for promotion of any particular religion",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "28",
+        "article_title": "Freedom as to attendance at religious instruction or religious worship in certain educational institutions",
+        "article_text": "--- PAGE 6 --- (iii) Contents ARTICLES Cultural and Educational Rights"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "29",
+        "article_title": "Protection of interests of minorities",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "30",
+        "article_title": "Right of minorities to establish and administer educational institutions",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "31",
+        "article_title": "Compulsory acquisition of property",
+        "article_text": "Omitted.] Saving of Certain Laws"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "31A",
+        "article_title": "Saving of Laws providing for acquisition of estates, etc",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "31B",
+        "article_title": "Validation of certain Acts and Regulations",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "31C",
+        "article_title": "Saving of laws giving effect to certain directive principles",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "31D",
+        "article_title": "Saving of laws in respect of anti-national activities",
+        "article_text": "Omitted. | Right to Constitutional Remedies"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "32",
+        "article_title": "Remedies for enforcement of rights conferred by this Part",
+        "article_text": "["
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "32A",
+        "article_title": "Constitutional validity of State laws not to be considered in proceedings under article 32",
+        "article_text": "Omitted. ]"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "33",
+        "article_title": "Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "34",
+        "article_title": "Restriction on rights conferred by this Part while martial law is in force in any area",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "35",
+        "article_title": "Legislation to give effect to the provisions of this Part",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "36",
+        "article_title": "Definition",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "37",
+        "article_title": "Application of the principles contained in this Part",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "38",
+        "article_title": "State to secure a social order for the promotion of welfare of the people",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "39",
+        "article_title": "Certain principles of policy to be followed by the State",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "39A",
+        "article_title": "Equal justice and free legal aid",
+        "article_text": "--- PAGE 7 --- (iv) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "40",
+        "article_title": "Organisation of village panchayats",
+        "article_text": "Al. Right to work, to education and to public assistance in certain cases."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "42",
+        "article_title": "Provision for just and humane conditions of work and maternity relief",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "43",
+        "article_title": "Living wage, etc",
+        "article_text": ", for workers."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "43A",
+        "article_title": "Participation of workers in management of Industries",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "43B",
+        "article_title": "Promotion of co-operative societies",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "44",
+        "article_title": "Uniform civil code for the citizens",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "45",
+        "article_title": "Provision for early childhood care and education to children below the age of six years",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "46",
+        "article_title": "Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "47",
+        "article_title": "Duty of the State to raise the level of nutrition and the standard of living and to improve public health",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "48",
+        "article_title": "Organisation of agriculture and animal husbandry",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "48A",
+        "article_title": "Protection and improvement of environment and safeguarding of forests and wild life",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "49",
+        "article_title": "Protection of monuments and places and objects of national importance",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "50",
+        "article_title": "Separation of judiciary from executive",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IV",
+        "part_title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+        "article_number": "51",
+        "article_title": "Promotion of international peace and security",
+        "article_text": "PART IVA FUNDAMENTAL DUTIES SIA. Fundamental duties."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "52",
+        "article_title": "The President of India",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "53",
+        "article_title": "Executive power of the Union",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "54",
+        "article_title": "Election of President",
+        "article_text": "--- PAGE 8 --- (v) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "55",
+        "article_title": "Manner of election of President",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "56",
+        "article_title": "Term of office of President",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "57",
+        "article_title": "Eligibility for re-election",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "58",
+        "article_title": "Qualifications for election as President",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "59",
+        "article_title": "Conditions of President\u2019s office",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "60",
+        "article_title": "Oath or affirmation by the President",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "61",
+        "article_title": "Procedure for impeachment of the President",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "62",
+        "article_title": "Time of holding election to fill vacancy in the office of President and the term of office of person elected to fill casual vacancy",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "63",
+        "article_title": "The Vice-President of India",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "64",
+        "article_title": "The Vice-President to be ex officio Chairman of the Council of States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "65",
+        "article_title": "The Vice-President to act as President or to discharge his functions during casual vacancies in the office, or during the absence, of President",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "66",
+        "article_title": "Election of Vice-President",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "67",
+        "article_title": "Term of office of Vice-President",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "68",
+        "article_title": "Time of holding election to fill vacancy in the office of Vice-President and the term of office of person elected to fill casual vacancy",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "69",
+        "article_title": "Oath or affirmation by the Vice-President",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "70",
+        "article_title": "Discharge of President\u2019s functions in other contingencies",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "71",
+        "article_title": "Matters relating to, or connected with, the election of a President or Vice-President",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "72",
+        "article_title": "Power of President to grant pardons, etc",
+        "article_text": ", and to suspend, remit or commute sentences in certain cases."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "73",
+        "article_title": "Extent of executive power of the Union",
+        "article_text": "Council of Ministers"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "74",
+        "article_title": "Council of Ministers to aid and advise President",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "75",
+        "article_title": "Other provisions as to Ministers",
+        "article_text": "The Attorney-General for India"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "76",
+        "article_title": "Attorney-General for India",
+        "article_text": "--- PAGE 9 --- (vi) Contents ARTICLES Conduct of Government Business"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "77",
+        "article_title": "Conduct of business of the Government of India",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "78",
+        "article_title": "Duties of Prime Minister as respects the furnishing of information to the President, etc",
+        "article_text": "CHAPTER I]\u2014PARLIAMENT General"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "79",
+        "article_title": "Constitution of Parliament",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "80",
+        "article_title": "Composition of the Council of States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "81",
+        "article_title": "Composition of the House of the People",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "82",
+        "article_title": "Readjustment after each census",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "83",
+        "article_title": "Duration of Houses of Parliament",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "84",
+        "article_title": "Qualification for membership of Parliament",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "85",
+        "article_title": "Sessions of Parliament, prorogation and dissolution",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "86",
+        "article_title": "Right of President to address and send messages to Houses",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "87",
+        "article_title": "Special address by the President",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "88",
+        "article_title": "Rights of Ministers and Attorney-General as respects Houses",
+        "article_text": "Officers of Parliament"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "89",
+        "article_title": "The Chairman and Deputy Chairman of the Council of States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "90",
+        "article_title": "Vacation and resignation of, and removal from, the office of Deputy Chairman",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "91",
+        "article_title": "Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "92",
+        "article_title": "The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "93",
+        "article_title": "The Speaker and Deputy Speaker of the House of the People",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "94",
+        "article_title": "Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "95",
+        "article_title": "Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker",
+        "article_text": "--- PAGE 10 --- (vii) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "96",
+        "article_title": "The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "97",
+        "article_title": "Salaries and allowances of the Chairman and Deputy Chairman and the Speaker and Deputy Speaker",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "98",
+        "article_title": "Secretariat of Parliament",
+        "article_text": "Conduct of Business"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "99",
+        "article_title": "Oath or affirmation by members",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "100",
+        "article_title": "Voting in Houses, power of Houses to act notwithstanding vacancies and quorum",
+        "article_text": "Disqualifications of Members"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "101",
+        "article_title": "Vacation of seats",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "102",
+        "article_title": "Disqualifications for membership",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "103",
+        "article_title": "Decision on questions as to disqualifications of members",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "104",
+        "article_title": "Penalty for sitting and voting before making oath or affirmation under article 99 or when not qualified or when disqualified",
+        "article_text": "Powers, Privileges and Immunities of Parliament and its Members"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "105",
+        "article_title": "Powers, privileges, etc",
+        "article_text": ", of the Houses of Parliament and of the members and committees thereof."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "106",
+        "article_title": "Salaries and allowances of members",
+        "article_text": "Legislative Procedure"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "107",
+        "article_title": "Provisions as to introduction and passing of Bills",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "108",
+        "article_title": "Joint sitting of both Houses in certain cases",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "109",
+        "article_title": "Special procedure in respect of Money Bills",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "110",
+        "article_title": "Definition of \u201cMoney Bills\u201d",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "111",
+        "article_title": "Assent to Bills",
+        "article_text": "Procedure in Financial Matters"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "112",
+        "article_title": "Annual financial statement",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "113",
+        "article_title": "Procedure in Parliament with respect to estimates",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "114",
+        "article_title": "Appropriation Bills",
+        "article_text": "--- PAGE 11 --- (viii) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "115",
+        "article_title": "Supplementary, additional or excess grants",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "116",
+        "article_title": "Votes on account, votes of credit and exceptional grants",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "117",
+        "article_title": "Special provisions as to financial Bills",
+        "article_text": "Procedure Generally"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "118",
+        "article_title": "Rules of procedure",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "119",
+        "article_title": "Regulation by law of procedure in Parliament in relation to financial business",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "120",
+        "article_title": "Language to be used in Parliament",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "121",
+        "article_title": "Restriction on discussion in Parliament",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "122",
+        "article_title": "Courts not to inquire into proceedings of Parliament",
+        "article_text": "CHAPTER III\u2014LEGISLATIVE POWERS OF THE PRESIDENT"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "123",
+        "article_title": "Power of President to promulgate Ordinances during recess of Parliament",
+        "article_text": "CHAPTER IV.\u2014 THE UNION JUDICIARY"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "124",
+        "article_title": "Establishment and constitution of the Supreme Court",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "124A",
+        "article_title": "National Judicial Appointments Commission",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "124B",
+        "article_title": "Functions of Commission",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "124C",
+        "article_title": "Power of Parliament to make law",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "125",
+        "article_title": "Salaries, etc",
+        "article_text": ", of Judges."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "126",
+        "article_title": "Appointment of acting Chief Justice",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "127",
+        "article_title": "Appointment of ad hoc Judges",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "128",
+        "article_title": "Attendance of retired Judges at sittings of the Supreme Court",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "129",
+        "article_title": "Supreme Court to be a court of record",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "130",
+        "article_title": "Seat of Supreme Court",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "131",
+        "article_title": "Original jurisdiction of the Supreme Court",
+        "article_text": "["
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "131A",
+        "article_title": "Exclusive jurisdiction of the Supreme Court in regard to questions as to constitutional validity of Central laws",
+        "article_text": "\u2014Omitted. |"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "132",
+        "article_title": "Appellate jurisdiction of the Supreme Court in appeals from High Courts in certain cases",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "133",
+        "article_title": "Appellate jurisdiction of the Supreme Court in appeals from High Courts in regard to civil matters",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "134",
+        "article_title": "Appellate jurisdiction of the Supreme Court in regard to criminal matters",
+        "article_text": "--- PAGE 12 --- (ix) Contents ARTICLES 134A. \u2014 Certificate for appeal to the Supreme Court."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "135",
+        "article_title": "Jurisdiction and powers of the Federal Court under existing law to be exercisable by the Supreme Court",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "136",
+        "article_title": "Special leave to appeal by the Supreme Court",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "137",
+        "article_title": "Review of judgments or orders by the Supreme Court",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "138",
+        "article_title": "Enlargement of the jurisdiction of the Supreme Court",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "139",
+        "article_title": "Conferment on the Supreme Court of powers to issue certain writs",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "139A",
+        "article_title": "Transfer of certain cases",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "140",
+        "article_title": "Ancillary powers of the Supreme Court",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "141",
+        "article_title": "Law declared by Supreme Court to be binding on all courts",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "142",
+        "article_title": "Enforcement of decrees and orders of the Supreme Court and orders as to discovery, etc",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "143",
+        "article_title": "Power of the President to consult the Supreme Court",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "144",
+        "article_title": "Civil and judicial authorities to act in aid of the Supreme Court",
+        "article_text": "["
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "144A",
+        "article_title": "Special provisions as to disposal of questions relating to constitutional validity of laws",
+        "article_text": "\u2014Omitted.]"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "145",
+        "article_title": "Rules of Court, etc",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "146",
+        "article_title": "Officers and servants and the expenses of the Supreme Court",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "147",
+        "article_title": "Interpretation",
+        "article_text": "CHAPTER V.\u2014COMPTROLLER AND AUDITOR- GENERAL OF INDIA"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "148",
+        "article_title": "Comptroller and Auditor-General of India",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "149",
+        "article_title": "Duties and powers of the Comptroller and Auditor-General",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "150",
+        "article_title": "Form of accounts of the Union and of the States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART V",
+        "part_title": "THE UNION CHAPTER I",
+        "article_number": "151",
+        "article_title": "Audit reports",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "152",
+        "article_title": "Definition",
+        "article_text": "--- PAGE 13 --- (x) Contents ARTICLES CHAPTER II\u2014 THE EXECUTIVE The Governor"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "153",
+        "article_title": "Governors of States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "154",
+        "article_title": "Executive power of State",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "155",
+        "article_title": "Appointment of Governor",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "156",
+        "article_title": "Term of office of Governor",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "157",
+        "article_title": "Qualifications for appointment as Governor",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "158",
+        "article_title": "Conditions of Governor\u2019s office",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "159",
+        "article_title": "Oath or affirmation by the Governor",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "160",
+        "article_title": "Discharge of the functions of the Governor in certain contingencies",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "161",
+        "article_title": "Power of Governor to grant pardons, etc",
+        "article_text": ", and to suspend, remit or commute sentences in certain cases."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "162",
+        "article_title": "Extent of executive power of State",
+        "article_text": "Council of Ministers"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "163",
+        "article_title": "Council of Ministers to aid and advise Governor",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "164",
+        "article_title": "Other provisions as to Ministers",
+        "article_text": "The Advocate-General for the State"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "165",
+        "article_title": "Advocate-General for the State",
+        "article_text": "Conduct of Government Business"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "166",
+        "article_title": "Conduct of business of the Government of a State",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "167",
+        "article_title": "Duties of Chief Minister as respects the furnishing of information to Govemor, etc",
+        "article_text": "CHAPTER III\u2014THE STATE LEGISLATURE General"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "168",
+        "article_title": "Constitution of Legislatures in States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "169",
+        "article_title": "Abolition or creation of Legislative Councils in States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "170",
+        "article_title": "Composition of the Legislative Assemblies",
+        "article_text": "--- PAGE 14 --- (xi) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "171",
+        "article_title": "Composition of the Legislative Councils",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "172",
+        "article_title": "Duration of State Legislatures",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "173",
+        "article_title": "Qualification for membership of the State Legislature",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "174",
+        "article_title": "Sessions of the State Legislature, prorogation and dissolution",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "175",
+        "article_title": "Right of Governor to address and send messages to the House or Houses",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "176",
+        "article_title": "Special address by the Governor",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "177",
+        "article_title": "Rights of Ministers and Advocate-General as respects the Houses",
+        "article_text": "Officers of the State Legislature"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "178",
+        "article_title": "The Speaker and Deputy Speaker of the Legislative Assembly",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "179",
+        "article_title": "Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "180",
+        "article_title": "Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "181",
+        "article_title": "The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "182",
+        "article_title": "The Chairman and Deputy Chairman of the Legislative Council",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "183",
+        "article_title": "Vacation and resignation of, and removal from, the offices of Chairman and Deputy Chairman",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "184",
+        "article_title": "Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "185",
+        "article_title": "The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "186",
+        "article_title": "Salaries and allowances of the Speaker and Deputy Speaker and the Chairman and Deputy Chairman",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "187",
+        "article_title": "Secretariat of State Legislature",
+        "article_text": "Conduct of Business"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "188",
+        "article_title": "Oath or affirmation by members",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "189",
+        "article_title": "Voting in Houses, power of Houses to act notwithstanding vacancies and quorum",
+        "article_text": "Disqualifications of Members"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "190",
+        "article_title": "Vacation of seats",
+        "article_text": "--- PAGE 15 --- (xii) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "191",
+        "article_title": "Disqualifications for membership",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "192",
+        "article_title": "Decision on questions as to disqualifications of members",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "193",
+        "article_title": "Penalty for sitting and voting before making oath or affirmation under article 188 or when not qualified or when disqualified",
+        "article_text": "Powers, privileges and immunities of State Legislatures and their Members"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "194",
+        "article_title": "Powers, privileges, etc",
+        "article_text": ", of the Houses of Legislatures and of the members and committees thereof."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "195",
+        "article_title": "Salaries and allowances of members",
+        "article_text": "Legislative Procedure"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "196",
+        "article_title": "Provisions as to introduction and passing of Bills",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "197",
+        "article_title": "Restriction on powers of Legislative Council as to Bills other than Money Bills",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "198",
+        "article_title": "Special procedure in respect of Money Bills",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "199",
+        "article_title": "Definition of \u201cMoney Bills\u201d",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "200",
+        "article_title": "Assent to Bills",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "201",
+        "article_title": "Bills reserved for consideration",
+        "article_text": "Procedure in Financial Matters"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "202",
+        "article_title": "Annual financial statement",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "203",
+        "article_title": "Procedure in Legislature with respect to estimates",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "204",
+        "article_title": "Appropriation Bills",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "205",
+        "article_title": "Supplementary, additional or excess grants",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "206",
+        "article_title": "Votes on account, votes of credit and exceptional grants",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "207",
+        "article_title": "Special provisions as to financial Bills",
+        "article_text": "Procedure Generally"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "208",
+        "article_title": "Rules of procedure",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "209",
+        "article_title": "Regulation by law of procedure in the Legislature of the State in relation to financial business",
+        "article_text": "--- PAGE 16 --- (xiii) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "210",
+        "article_title": "Language to be used in the Legislature",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "211",
+        "article_title": "Restriction on discussion in the Legislature",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "212",
+        "article_title": "Courts not to inquire into proceedings of the Legislature",
+        "article_text": "CHAPTER IV.\u2014LEGISLATIVE POWER OF THE GOVERNOR"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "213",
+        "article_title": "Power of Governor to promulgate Ordinances during recess of Legislature",
+        "article_text": "CHAPTER V\u2014THE HIGH COURTS IN THE STATES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "214",
+        "article_title": "High Courts for States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "215",
+        "article_title": "High Courts to be courts of record",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "216",
+        "article_title": "Constitution of High Courts",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "217",
+        "article_title": "Appointment and conditions of the office of a Judge of a High Court",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "218",
+        "article_title": "Application of certain provisions relating to Supreme Court to High Courts",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "219",
+        "article_title": "Oath or affirmation by Judges of High Courts",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "220",
+        "article_title": "Restriction on practice after being a permanent Judge",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "221",
+        "article_title": "Salaries, etc",
+        "article_text": ", of Judges."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "222",
+        "article_title": "Transfer of a Judge from one High Court to another",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "223",
+        "article_title": "Appointment of acting Chief Justice",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "224",
+        "article_title": "Appointment of additional and acting Judges",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "224A",
+        "article_title": "Appointment of retired Judges at sittings of High Courts",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "225",
+        "article_title": "Jurisdiction of existing High Courts",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "226",
+        "article_title": "Power of High Courts to issue certain writs",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "226A",
+        "article_title": "Constitutional validity of Central laws not to be considered in proceedings under article 226",
+        "article_text": "\u2014Omitted.]"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "227",
+        "article_title": "Power of superintendence over all courts by the High Court",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "228",
+        "article_title": "Transfer of certain cases to High Court",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "228A",
+        "article_title": "Special provisions as to disposal of questions relating to constitutional validity of State laws",
+        "article_text": "\u2014Omitted. | --- PAGE 17 --- (xiv) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "229",
+        "article_title": "Officers and servants and the expenses of High Courts",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "230",
+        "article_title": "Extension of jurisdiction of High Courts to Union territories",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "231",
+        "article_title": "Establishment of a common High Court for two or more States",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "232",
+        "article_title": "Articles 230, 231 and 232 substituted by articles 230 and 231]",
+        "article_text": "CHAPTER VI\u2014SUBORDINATE COURTS"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "233",
+        "article_title": "Appointment of district judges",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "233A",
+        "article_title": "Validation of appointments of, and judgments, etc",
+        "article_text": ", delivered by, certain district judges."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "234",
+        "article_title": "Recruitment of persons other than district judges to the judicial service",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "235",
+        "article_title": "Control over subordinate courts",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "236",
+        "article_title": "Interpretation",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "237",
+        "article_title": "Application of the provisions of this Chapter to certain class or classes of magistrates",
+        "article_text": "[PART VII.\u2014Omitted] THE STATES IN PART B OF THE FIRST SCHEDULE ("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VI",
+        "part_title": "THE STATES CHAPTER I",
+        "article_number": "238",
+        "article_title": "Omitted",
+        "article_text": "]"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VIII",
+        "part_title": "THE UNION TERRITORIES",
+        "article_number": "239",
+        "article_title": "Administration of Union territories",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VIII",
+        "part_title": "THE UNION TERRITORIES",
+        "article_number": "239A",
+        "article_title": "Creation of local Legislatures or Council of Ministers or both for certain Union territories",
+        "article_text": "2B9AA. Special provisions with respect to Delhi. 239AB. Provision in case of failure of constitutional machinery."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VIII",
+        "part_title": "THE UNION TERRITORIES",
+        "article_number": "239B",
+        "article_title": "Power of administrator to promulgate Ordinances during recess of Legislature",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VIII",
+        "part_title": "THE UNION TERRITORIES",
+        "article_number": "240",
+        "article_title": "Power of President to make regulations for certain Union territories",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VIII",
+        "part_title": "THE UNION TERRITORIES",
+        "article_number": "241",
+        "article_title": "High Courts for Union territories",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART VIII",
+        "part_title": "THE UNION TERRITORIES",
+        "article_number": "242",
+        "article_title": "Coorg",
+        "article_text": "\u2014Onmitted. |"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243",
+        "article_title": "Definitions",
+        "article_text": "--- PAGE 18 --- (xv) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243A",
+        "article_title": "Gram Sabha",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243B",
+        "article_title": "Constitution of Panchayats",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243C",
+        "article_title": "Composition of Panchayats",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243D",
+        "article_title": "Reservation of seats",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243E",
+        "article_title": "Duration of Panchayats, etc",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243F",
+        "article_title": "Disqualifications for membership",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243G",
+        "article_title": "Powers, authority and responsibilities of Panchayats",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243H",
+        "article_title": "Powers to impose taxes by, and Funds of, the Panchayats",
+        "article_text": "243-"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "1",
+        "article_title": "Constitution of Finance Commission to review financial position",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243J",
+        "article_title": "Audit of accounts of Panchayats",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243K",
+        "article_title": "Elections to the Panchayats",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243L",
+        "article_title": "Application to Union territories",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243M",
+        "article_title": "Part not to apply to certain areas",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243N",
+        "article_title": "Continuance of existing laws and Panchayats",
+        "article_text": "243-O. Bar to interference by courts in electoral matters. PART IXA THE MUNICIPALITIES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243P",
+        "article_title": "Definitions",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243Q",
+        "article_title": "Constitution of Municipalities",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243R",
+        "article_title": "Composition of Municipalities",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "2438S",
+        "article_title": "Constitution and composition of Wards Committees, etc",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243T",
+        "article_title": "Reservation of seats",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243U",
+        "article_title": "Duration of Municipalities, etc",
+        "article_text": "243V. \u2014 Disqualifications for membership."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243W",
+        "article_title": "Powers, authority and responsibilities of Municipalities, etc",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243X",
+        "article_title": "Power to impose taxes by, and Funds of, the Municipalities",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243Y",
+        "article_title": "Finance Commission",
+        "article_text": "--- PAGE 19 --- (xvi) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART IX",
+        "part_title": "THE PANCHAYATS",
+        "article_number": "243Z",
+        "article_title": "Audit of accounts of Municipalities",
+        "article_text": "243ZA. Elections to the Municipalities. 243ZB. Application to Union territories. 243ZC. Part not to apply to certain areas. 243ZD. Committee for district planning. 243ZE. Committee for Metropolitan planning. 243ZF. Continuance of existing laws and Municipalities. 243ZG. Bar to interference by courts in electoral matters. PART IXB THE CO-OPERATIVE SOCIETIES 243ZH. Definitions. 243Z-I. Incorporation of co-operative societies. 243ZJ. | Number and term of members of board and its office bearers. 243ZK. Election of members of board. 243ZL. Supersession and suspension of board and interim management. 243ZM. Audit of accounts of co-operative societies. 243ZN. Convening of general body meetings. 243Z-O. Right of a member to get information. 243ZP. Returns. 243ZQ. Offences and penalties. 243ZR. Application to multi-State co-operative societies. 243ZS. Application to Union territories. 243ZT. Continuance of existing laws."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART X",
+        "part_title": "THE SCHEDULED AND TRIBAL AREAS",
+        "article_number": "244",
+        "article_title": "Administration of Scheduled Areas and Tribal Areas",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART X",
+        "part_title": "THE SCHEDULED AND TRIBAL AREAS",
+        "article_number": "244A",
+        "article_title": "Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legislature or Council of Ministers or both therefor",
+        "article_text": "--- PAGE 20 --- (xvii) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "245",
+        "article_title": "Extent of laws made by Parliament and by the Legislatures of States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "246",
+        "article_title": "Subject-matter of laws made by Parliament and by the Legislatures of States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "246A",
+        "article_title": "Special provision with respect to goods and services tax",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "247",
+        "article_title": "Power of Parliament to provide for the establishment of certain additional courts",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "248",
+        "article_title": "Residuary powers of legislation",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "249",
+        "article_title": "Power of Parliament to legislate with respect to a matter in the State List in the national interest",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "250",
+        "article_title": "Power of Parliament to legislate with respect to any matter in the State List if a Proclamation of Emergency is in operation",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "251",
+        "article_title": "Inconsistency between laws made by Parliament under articles 249 and 250 and laws made by the Legislatures of States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "252",
+        "article_title": "Power of Parliament to legislate for two or more States by consent and adoption of such legislation by any other State",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "253",
+        "article_title": "Legislation for giving effect to international agreements",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "254",
+        "article_title": "Inconsistency between laws made by Parliament and laws made by the Legislatures of States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "255",
+        "article_title": "Requirements as to recommendations and previous sanctions to be regarded as matters of procedure only",
+        "article_text": "CHAPTER IT.\u2014 ADMINISTRATIVE RELATIONS General"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "256",
+        "article_title": "Obligation of States and the Union",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "257",
+        "article_title": "Control of the Union over States in certain cases",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "257A",
+        "article_title": "Assistance to States by deployment of armed forces or other forces of the Union",
+        "article_text": "\u2014Omitted.]"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "258",
+        "article_title": "Power of the Union to confer powers, etc",
+        "article_text": ", on States in certain cases. --- PAGE 21 --- (xviii) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "258A",
+        "article_title": "Power of the States to entrust functions to the Union",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "259",
+        "article_title": "Armed Forces in States in Part B of the First Schedule",
+        "article_text": "Omitted. |"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "260",
+        "article_title": "Jurisdiction of the Union in relation to territories outside India",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "261",
+        "article_title": "Public acts, records and judicial proceedings",
+        "article_text": "Disputes relating to Waters"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "262",
+        "article_title": "Adjudication of disputes relating to waters of inter-State rivers or river valleys",
+        "article_text": "Co-ordination between States"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XI",
+        "part_title": "RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "article_number": "263",
+        "article_title": "Provisions with respect to an inter-State Council",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "264",
+        "article_title": "Interpretation",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "265",
+        "article_title": "Taxes not to be imposed save by authority of law",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "266",
+        "article_title": "Consolidated Funds and public accounts of India and of the States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "267",
+        "article_title": "Contingency Fund",
+        "article_text": "Distribution of Revenues between the Union and the States"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "268",
+        "article_title": "Duties levied by the Union but collected and appropriated by the States",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "268A",
+        "article_title": "Service tax levied by Union and collected by the Union and the States",
+        "article_text": "Onmitted.]"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "269",
+        "article_title": "Taxes levied and collected by the Union but assigned to the States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "269A",
+        "article_title": "Levy and collection of goods and services tax in course of inter- State trade or commerce",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "270",
+        "article_title": "Taxes levied and distributed between the Union and the States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "271",
+        "article_title": "Surcharge on certain duties and taxes for purposes of the Union",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "272",
+        "article_title": "Taxes which are levied and collected by the Union and may be distributed between the Union and the States",
+        "article_text": "Omitted. |"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "273",
+        "article_title": "Grants in lieu of export duty on jute and jute products",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "274",
+        "article_title": "Prior recommendation of President required to Bills affecting taxation in which States are interested",
+        "article_text": "--- PAGE 22 --- (xix) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "275",
+        "article_title": "Grants from the Union to certain States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "276",
+        "article_title": "Taxes on professions, trades, callings and employments",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "277",
+        "article_title": "Savings",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "278",
+        "article_title": "Agreement with States in Part B of the First Schedule with regard to certain financial matters",
+        "article_text": "Omitted. |"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "279",
+        "article_title": "Calculation of \u201cnet proceeds\u201d, etc",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "279A",
+        "article_title": "Goods and Services Tax Council",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "280",
+        "article_title": "Finance Commission",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "281",
+        "article_title": "Recommendations of the Finance Commission",
+        "article_text": "Miscellaneous Financial Provisions"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "282",
+        "article_title": "Expenditure defrayable by the Union or a State out of its revenues",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "283",
+        "article_title": "Custody, etc",
+        "article_text": ", of Consolidated Funds, Contingency Funds and moneys credited to the public accounts."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "284",
+        "article_title": "Custody of suitors\u2019 deposits and other moneys received by public servants and courts",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "285",
+        "article_title": "Exemption of property of the Union from State taxation",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "286",
+        "article_title": "Restrictions as to imposition of tax on the sale or purchase of goods",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "287",
+        "article_title": "Exemption from taxes on electricity",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "288",
+        "article_title": "Exemption from taxation by States in respect of water or electricity in certain cases",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "289",
+        "article_title": "Exemption of property and income of a State from Union taxation",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "290",
+        "article_title": "Adjustment in respect of certain expenses and pensions",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "290A",
+        "article_title": "Annual payment to certain Devaswom Funds",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "291",
+        "article_title": "Privy purse sums of Rulers",
+        "article_text": "\u2014Omitted.] CHAPTER IT.\u2014 BorROWING"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "292",
+        "article_title": "Borrowing by the Government of India",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "293",
+        "article_title": "Borrowing by States",
+        "article_text": "--- PAGE 23 --- (xx) Contents ARTICLES CHAPTER III\u2014 Property, CONTRACTS, RIGHTS, LIABILITIES, OBLIGATIONS AND SUITS"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "294",
+        "article_title": "Succession to property, assets, rights, liabilities and obligations in certain cases",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "295",
+        "article_title": "Succession to property, assets, rights, liabilities and obligations in other cases",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "296",
+        "article_title": "Property accruing by escheat or lapse or as bona vacantia",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "297",
+        "article_title": "Things of value within territorial waters or continental shelf and resources of the exclusive economic zone to vest in the Union",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "298",
+        "article_title": "Power to carry on trade, etc",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "299",
+        "article_title": "Contracts",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "300",
+        "article_title": "Suits and proceedings",
+        "article_text": "CHAPTER IV.\u2014 RIGHT TO PROPERTY"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "FINANCE",
+        "article_number": "300A",
+        "article_title": "Persons not to be deprived of property save by authority of law",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "TRADE",
+        "article_number": "301",
+        "article_title": "Freedom of trade, commerce and intercourse",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "TRADE",
+        "article_number": "302",
+        "article_title": "Power of Parliament to impose restrictions on trade, commerce and intercourse",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "TRADE",
+        "article_number": "303",
+        "article_title": "Restrictions on the legislative powers of the Union and of the States with regard to trade and commerce",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "TRADE",
+        "article_number": "304",
+        "article_title": "Restrictions on trade, commerce and intercourse among States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "TRADE",
+        "article_number": "305",
+        "article_title": "Saving of existing laws and laws providing for State monopolies",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "TRADE",
+        "article_number": "306",
+        "article_title": "Power of certain States in Part B of the First Schedule to impose restrictions on trade and commerce",
+        "article_text": "\u2014Omitted]"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XII",
+        "part_title": "TRADE",
+        "article_number": "307",
+        "article_title": "Appointment of authority for carrying out the purposes of articles 301 to 304",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "308",
+        "article_title": "Interpretation",
+        "article_text": "--- PAGE 24 --- (xxi) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "309",
+        "article_title": "Recruitment and conditions of service of persons serving the Union or a State",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "310",
+        "article_title": "Tenure of office of persons serving the Union or a State",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "311",
+        "article_title": "Dismissal, removal or reduction in rank of persons employed in civil capacities under the Union or a State",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "312",
+        "article_title": "All-India services",
+        "article_text": "312A. \u2014 Power of Parliament to vary or revoke conditions of service of officers of certain services."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "313",
+        "article_title": "Transitional provisions",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "314",
+        "article_title": "Provision for protection of existing officers of certain services",
+        "article_text": "Omitted. | CHAPTER II.\u2014PUuBLIC SERVICE COMMISSIONS"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "315",
+        "article_title": "Public Service Commissions for the Union and for the States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "316",
+        "article_title": "Appointment and term of office of members",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "317",
+        "article_title": "Removal and suspension of a member of a Public Service Commission",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "318",
+        "article_title": "Power to make regulations as to conditions of service of members and staff of the Commission",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "319",
+        "article_title": "Prohibition as to the holding of offices by members of Commission on ceasing to be such members",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "320",
+        "article_title": "Functions of Public Service Commissions",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "321",
+        "article_title": "Power to extend functions of Public Service Commissions",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "322",
+        "article_title": "Expenses of Public Service Commissions",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "323",
+        "article_title": "Reports of Public Service Commissions",
+        "article_text": "PART XIVA TRIBUNALS"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "323A",
+        "article_title": "Administrative tribunals",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIV",
+        "part_title": "SERVICES UNDER THE UNION AND THE STATES CHAPTER I",
+        "article_number": "323B",
+        "article_title": "Tribunals for other matters",
+        "article_text": "--- PAGE 25 --- (xxii) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XV",
+        "part_title": "ELECTIONS",
+        "article_number": "324",
+        "article_title": "Superintendence, direction and control of elections to be vested in an Election Commission",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XV",
+        "part_title": "ELECTIONS",
+        "article_number": "325",
+        "article_title": "No person to be ineligible for inclusion in, or to claim to be included in a special, electoral roll on grounds of religion, race, caste or sex",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XV",
+        "part_title": "ELECTIONS",
+        "article_number": "326",
+        "article_title": "Elections to the House of the People and to the Legislative Assemblies of States to be on the basis of adult suffrage",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XV",
+        "part_title": "ELECTIONS",
+        "article_number": "327",
+        "article_title": "Power of Parliament to make provision with respect to elections to Legislatures",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XV",
+        "part_title": "ELECTIONS",
+        "article_number": "328",
+        "article_title": "Power of Legislature of a State to make provision with respect to elections to such Legislature",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XV",
+        "part_title": "ELECTIONS",
+        "article_number": "329",
+        "article_title": "Bar to interference by courts in electoral matters",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XV",
+        "part_title": "ELECTIONS",
+        "article_number": "329A",
+        "article_title": "Special provision as to elections to Parliament in the case of Prime Minister and Speaker",
+        "article_text": "\u2014Omitted. |"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "330",
+        "article_title": "Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "330A",
+        "article_title": "Reservation of seats for women in the House of the People",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "331",
+        "article_title": "Representation of the Anglo-Indian community in the House of the People",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "332",
+        "article_title": "Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "332A",
+        "article_title": "Reservation of seats for women in the Legislative Assemblies of the States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "333",
+        "article_title": "Representation of the Anglo-Indian community in the Legislative Assemblies of the States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "334",
+        "article_title": "Reservation of seats and special representation to cease after certain period",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "334A",
+        "article_title": "Reservation of seats for women take effect",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "335",
+        "article_title": "Claims of Scheduled Castes and Scheduled Tribes to services and posts",
+        "article_text": "--- PAGE 26 --- (xxiii) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "336",
+        "article_title": "Special provision for Anglo-Indian community in certain services",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "337",
+        "article_title": "Special provision with respect to educational grants for the benefit of Anglo-Indian Community",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "338",
+        "article_title": "National Commission for Scheduled Castes",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "338A",
+        "article_title": "National Commission for Scheduled Tribes",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "338B",
+        "article_title": "National Commission for Backward Classes",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "339",
+        "article_title": "Control of the Union over the administration of Scheduled Areas and the welfare of Scheduled Tribes",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "340",
+        "article_title": "Appointment of a Commission to investigate the conditions of backward classes",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "341",
+        "article_title": "Scheduled Castes",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "342",
+        "article_title": "Scheduled Tribes",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVI",
+        "part_title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+        "article_number": "342A",
+        "article_title": "Socially and educationally backward classes",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVII",
+        "part_title": "OFFICIAL LANGUAGE CHAPTER I",
+        "article_number": "343",
+        "article_title": "Official language of the Union",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVII",
+        "part_title": "OFFICIAL LANGUAGE CHAPTER I",
+        "article_number": "344",
+        "article_title": "Commission and Committee of Parliament on official language",
+        "article_text": "CHAPTER IT.\u2014 REGIONAL LANGUAGES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVII",
+        "part_title": "OFFICIAL LANGUAGE CHAPTER I",
+        "article_number": "345",
+        "article_title": "Official language or languages of a State",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVII",
+        "part_title": "OFFICIAL LANGUAGE CHAPTER I",
+        "article_number": "346",
+        "article_title": "Official language for communication between one State and another or between a State and the Union",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVII",
+        "part_title": "OFFICIAL LANGUAGE CHAPTER I",
+        "article_number": "347",
+        "article_title": "Special provision relating to language spoken by a section of the population of a State",
+        "article_text": "CHAPTER II.\u2014LANGUAGE OF THE SUPREME COURT, HIGH Courts, ETc."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVII",
+        "part_title": "OFFICIAL LANGUAGE CHAPTER I",
+        "article_number": "348",
+        "article_title": "Language to be used in the Supreme Court and in the High Courts and for Acts, Bills, etc",
+        "article_text": "349, Special procedure for enactment of certain laws relating to language. --- PAGE 27 --- (xxiv) Contents ARTICLES CHAPTER IV.\u2014SPECIAL DIRECTIVES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVII",
+        "part_title": "OFFICIAL LANGUAGE CHAPTER I",
+        "article_number": "350",
+        "article_title": "Language to be used in representations for redress of grievances",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVII",
+        "part_title": "OFFICIAL LANGUAGE CHAPTER I",
+        "article_number": "350A",
+        "article_title": "Facilities for instruction in mother-tongue at primary stage",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVII",
+        "part_title": "OFFICIAL LANGUAGE CHAPTER I",
+        "article_number": "350B",
+        "article_title": "Special Officer for linguistic minorities",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVII",
+        "part_title": "OFFICIAL LANGUAGE CHAPTER I",
+        "article_number": "351",
+        "article_title": "Directive for development of the Hindi language",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVIII",
+        "part_title": "EMERGENCY PROVISIONS",
+        "article_number": "352",
+        "article_title": "Proclamation of Emergency",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVIII",
+        "part_title": "EMERGENCY PROVISIONS",
+        "article_number": "353",
+        "article_title": "Effect of Proclamation of Emergency",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVIII",
+        "part_title": "EMERGENCY PROVISIONS",
+        "article_number": "354",
+        "article_title": "Application of provisions relating to distribution of revenues while a Proclamation of Emergency is in operation",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVIII",
+        "part_title": "EMERGENCY PROVISIONS",
+        "article_number": "355",
+        "article_title": "Duty of the Union to protect States against external aggression and internal disturbance",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVIII",
+        "part_title": "EMERGENCY PROVISIONS",
+        "article_number": "356",
+        "article_title": "Provisions in case of failure of constitutional machinery in States",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVIII",
+        "part_title": "EMERGENCY PROVISIONS",
+        "article_number": "357",
+        "article_title": "Exercise of legislative powers under Proclamation issued under article 356",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVIII",
+        "part_title": "EMERGENCY PROVISIONS",
+        "article_number": "358",
+        "article_title": "Suspension of provisions of article 19 during emergencies",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVIII",
+        "part_title": "EMERGENCY PROVISIONS",
+        "article_number": "359",
+        "article_title": "Suspension of the enforcement of the rights conferred by Part III during emergencies",
+        "article_text": "["
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVIII",
+        "part_title": "EMERGENCY PROVISIONS",
+        "article_number": "359A",
+        "article_title": "Application of this Part to the State of Punjab",
+        "article_text": "\u2014 Omitted. |"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XVIII",
+        "part_title": "EMERGENCY PROVISIONS",
+        "article_number": "360",
+        "article_title": "Provisions as to financial emergency",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIX",
+        "part_title": "MISCELLANEOUS",
+        "article_number": "361",
+        "article_title": "Protection of President and Governors and Rajpramukhs",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIX",
+        "part_title": "MISCELLANEOUS",
+        "article_number": "361A",
+        "article_title": "Protection of publication of proceedings of Parliament and State Legislatures",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIX",
+        "part_title": "MISCELLANEOUS",
+        "article_number": "361B",
+        "article_title": "Disqualification for appointment on remunerative political post",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIX",
+        "part_title": "MISCELLANEOUS",
+        "article_number": "362",
+        "article_title": "Rights and privileges of Rulers of Indian States",
+        "article_text": "Omitted.]"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIX",
+        "part_title": "MISCELLANEOUS",
+        "article_number": "363",
+        "article_title": "Bar to interference by courts in disputes arising out of certain treaties, agreements, etc",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIX",
+        "part_title": "MISCELLANEOUS",
+        "article_number": "363A",
+        "article_title": "Recognition granted to Rulers of Indian States to cease and privy purses to be abolished",
+        "article_text": "--- PAGE 28 --- (xxv) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIX",
+        "part_title": "MISCELLANEOUS",
+        "article_number": "364",
+        "article_title": "Special provisions as to major ports and aerodromes",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIX",
+        "part_title": "MISCELLANEOUS",
+        "article_number": "365",
+        "article_title": "Effect of failure to comply with, or to give effect to, directions given by the Union",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIX",
+        "part_title": "MISCELLANEOUS",
+        "article_number": "366",
+        "article_title": "Definitions",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XIX",
+        "part_title": "MISCELLANEOUS",
+        "article_number": "367",
+        "article_title": "Interpretation",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XX",
+        "part_title": "AMENDMENT OF THE CONSTITUTION",
+        "article_number": "368",
+        "article_title": "Power of Parliament to amend the Constitution and procedure therefor",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "369",
+        "article_title": "Temporary power to Parliament to make laws with respect to certain matters in the State List as if they were matters in the Concurrent List",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "370",
+        "article_title": "Temporary provisions with respect to the State of Jammu and Kashmir",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "371",
+        "article_title": "Special provision with respect to the States of Maharashtra and Gujarat",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "371A",
+        "article_title": "Special provision with respect to the State of Nagaland",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "371B",
+        "article_title": "Special provision with respect to the State of Assam",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "371C",
+        "article_title": "Special provision with respect to the State of Manipur",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "371D",
+        "article_title": "Special provisions with respect to the State of Andhra Pradesh or the State of Telangana",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "371E",
+        "article_title": "Establishment of Central University in Andhra Pradesh",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "371F",
+        "article_title": "Special provisions with respect to the State of Sikkim",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "371G",
+        "article_title": "Special provision with respect to the State of Mizoram",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "371H",
+        "article_title": "Special provision with respect to the State of Arunachal Pradesh",
+        "article_text": "371-"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "1",
+        "article_title": "Special provision with respect to the State of Goa",
+        "article_text": "371). Special provisions with respect to the State of Karnataka."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "372",
+        "article_title": "Continuance in force of existing laws and their adaptation",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "372A",
+        "article_title": "Power of the President to adapt laws",
+        "article_text": "--- PAGE 29 --- (xxvi) Contents ARTICLES"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "373",
+        "article_title": "Power of President to make order in respect of persons under preventive detention in certain cases",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "374",
+        "article_title": "Provisions as to Judges of the Federal Court and proceedings pending in the Federal Court or before His Majesty in Council",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "375",
+        "article_title": "Courts, authorities and officers to continue to function subject to the provisions of the Constitution",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "376",
+        "article_title": "Provisions as to Judges of High Courts",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "377",
+        "article_title": "Provisions as to Comptroller and Auditor-General of India",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "378",
+        "article_title": "Provisions as to Public Service Commissions",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "378A",
+        "article_title": "Special provision as to duration of Andhra Pradesh Legislative Assembly",
+        "article_text": "("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "379",
+        "article_title": "Provisions as to provisional Parliament and the Speaker and Deputy Speaker thereof",
+        "article_text": "Omitted. | ("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "380",
+        "article_title": "Provision as to President",
+        "article_text": "\u2014 Omitted. | ("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "381",
+        "article_title": "Council of Ministers of the President",
+        "article_text": "Omitted. | ("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "382",
+        "article_title": "Provisions as to provisional Legislatures for States in Part A of the First Schedule",
+        "article_text": "\u2014 Omitted. ] ("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "383",
+        "article_title": "Provision as to Governors of Provinces",
+        "article_text": "\u2014Omitted. | ("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "384",
+        "article_title": "Council of Ministers of the Governors",
+        "article_text": "\u2014Omitted. | ("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "385",
+        "article_title": "Provision as to provisional Legislatures in States in Part B of the First Schedule",
+        "article_text": "\u2014Omitted. | ("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "386",
+        "article_title": "Council of Ministers for States in Part B of the First Schedule",
+        "article_text": "\u2014Onmitted.] ("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "387",
+        "article_title": "Special provision as to determination of population for the purposes of certain elections",
+        "article_text": "\u2014Omitted. | ("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "388",
+        "article_title": "Provisions as to the filling of casual vacancies in the provisional Parliament and provisional Legislatures of the States",
+        "article_text": "\u2014 Omitted. | ("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "389",
+        "article_title": "Provision as to Bills pending in the Dominion Legislatures and in the Legislatures of Provinces and Indian States",
+        "article_text": "\u2014Omitted. | --- PAGE 30 --- (xxvii) Contents ARTICLES ("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "390",
+        "article_title": "Money received or raised or expenditure incurred between the commencement of the Constitution and the 31st day of March, 1950",
+        "article_text": "\u2014Omitted.] ("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "391",
+        "article_title": "Power of the President to amend the First and Fourth Schedules in certain contingencies",
+        "article_text": "\u2014Omitted. |"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXI",
+        "part_title": "TEMPORARY",
+        "article_number": "392",
+        "article_title": "Power of the President to remove difficulties",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXII",
+        "part_title": "SHORT TITLE",
+        "article_number": "393",
+        "article_title": "Short title",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXII",
+        "part_title": "SHORT TITLE",
+        "article_number": "394",
+        "article_title": "Commencement",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXII",
+        "part_title": "SHORT TITLE",
+        "article_number": "394A",
+        "article_title": "Authoritative text in the Hindi language",
+        "article_text": ""
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXII",
+        "part_title": "SHORT TITLE",
+        "article_number": "395",
+        "article_title": "Repeals",
+        "article_text": "SCHEDULES FIRST SCHEDULE I. \u2014The States. Il. \u2014The Union territories. SECOND SCHEDULE PART A\u2014Provisions as to the President and the Governors of States. PART B\u2014 [Omitted.] PART C\u2014Provisions as to the Speaker and the Deputy Speaker of the House of the People and the Chairman and the Deputy Chairman of the Council of States and the Speaker and the Deputy Speaker of the Legislative Assembly and the Chairman and the Deputy Chairman of the Legislative Council of a State. PART D\u2014 Provisions as to the Judges of the Supreme Court and of the High Courts. PART E\u2014 Provisions as to the Comptroller and Auditor-General of India. THIRD SCHEDULE\u2014 Forms of Oaths or Affirmations. --- PAGE 31 --- (xxviii) Contents ARTICLES FOURTH SCHEDULE\u2014Allocation of seats in the Council of States. FIFTH SCHEDULE\u2014 Provisions as to the Administration and Control of Scheduled Areas and Scheduled Tribes PART A\u2014General. PART B\u2014Administration and Control of Scheduled Areas and Scheduled Tribes. PART C\u2014 Scheduled Areas. PART D\u2014Amendment of the Schedule. SIXTH SCHEDULE\u2014 Provisions as to the Administration of Tribal Areas in the States of Assam, Meghalaya, Tripura and Mizoram. SEVENTH SCHEDULE\u2014 List I\u2014 Union List. List II\u2014 State List. List I1I\u2014 Concurrent List. EIGHTH SCHEDULE\u2014 Languages. NINTH SCHEDULE\u2014 Validation of certain Acts and Regulations. TENTH SCHEDULE\u2014 Provisions as to disqualification on ground of defection. ELEVENTH SCHEDULE\u2014Poweers, authority and responsibilities of Panchayats. TWELFTH SCHEDULE\u2014Powers, a"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXII",
+        "part_title": "SHORT TITLE",
+        "article_number": "2015",
+        "article_title": "APPENDIX = II",
+        "article_text": "\u2014The Constitution (Application to Jammu and Kashmir) Order,"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXII",
+        "part_title": "SHORT TITLE",
+        "article_number": "2019",
+        "article_title": "APPENDIX IIL",
+        "article_text": "Declaration under article 370(3) of the Constitution. --- PAGE 32 --- THE CONSTITUTION OF INDIA PREAMBLE WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a '[SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC] and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the ?[unity and integrity of the Nation]; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXII",
+        "part_title": "SHORT TITLE",
+        "article_number": "1",
+        "article_title": "Subs",
+        "article_text": "by the Constitution (Forty-second Amendment) Act, 1976, s.2, for \"SOVEREIGN DEMOCRATIC REPUBLIC\" (w.e.f. 3-1-1977)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART XXII",
+        "part_title": "SHORT TITLE",
+        "article_number": "2",
+        "article_title": "Subs",
+        "article_text": "by s. 2, ibid., for \"Unity of the Nation\" (w.e.f. 3-1-1977). --- PAGE 33 ---"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART I",
+        "part_title": "THE UNION AND ITS TERRITORY",
+        "article_number": "1",
+        "article_title": "Name and territory of the Union",
+        "article_text": "\u2014(1) India, that is Bharat, shall be a Union of States. '[(2) The States and the territories thereof shall be as specified in the First Schedule. ] (3) The territory of India shall comprise\u2014 (a) the territories of the States; *[(b) the Union territories specified in the First Schedule; and] (c) such other territories as may be acquired."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART I",
+        "part_title": "THE UNION AND ITS TERRITORY",
+        "article_number": "2",
+        "article_title": "Admission or establishment of new States",
+        "article_text": "\u2014Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit. 3[2A. [Sikkim to be associated with the Union.]|\u2014Omitted by the Constitution (Thirty-sixth Amendment) Act, 1975, s. 5 (w.e.f. 26-4-1975).]"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART I",
+        "part_title": "THE UNION AND ITS TERRITORY",
+        "article_number": "3",
+        "article_title": "Formation of new States and alteration of areas, boundaries or names of existing States",
+        "article_text": "\u2014Parliament may by law\u2014 (a) form a new State by separation of territory from any State or by uniting two or more States or parts of States or by uniting any territory to a part of any State; (5) increase the area of any State; (c) diminish the area of any State; (d) alter the boundaries of any State; (e) alter the name of any State:"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART I",
+        "part_title": "THE UNION AND ITS TERRITORY",
+        "article_number": "1",
+        "article_title": "Subs",
+        "article_text": "by the Constitution (Seventh Amendment) Act, 1956, s. 2, for cl. (2) (w.ef. 1-11-1956)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART I",
+        "part_title": "THE UNION AND ITS TERRITORY",
+        "article_number": "2",
+        "article_title": "Subs",
+        "article_text": "by s. 2 ibid. for sub-clause (5) (w.e.f. 1-11-1956)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART I",
+        "part_title": "THE UNION AND ITS TERRITORY",
+        "article_number": "3",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Thirty-fifth Amendment) Act, 1974, s. 2 (w.e.f. 1-3-1975). 2 --- PAGE 34 --- 3 THE CONSTITUTION OF INDIA (Part I\u2014Union and its territory) '[Provided that no Bill for the purpose shall be introduced in either House of Parliament except on the recommendation of the President and unless, where the proposal contained in the Bill affects the area, boundaries or name of any of the States ****, the Bill has been referred by the President to the Legislature of that State for expressing its views thereon within such period as may be specified in the reference or within such further period as the President may allow and the period so specified or allowed has expired. ] 3[Explanation I.\u2014In this article, in clauses (a) to (e), \u201cState\u201d includes a Union territory, but in the proviso, \u201cState\u201d does not include a Union territory. Explanation II\u2014The power conferred on Parliament by clause (a) includes the power to form a new State or Union territory by uniting a part of any State or Union territory to any other State or Union territory. ]"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART I",
+        "part_title": "THE UNION AND ITS TERRITORY",
+        "article_number": "4",
+        "article_title": "Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters",
+        "article_text": "(1) Any law referred to in article 2 or article 3 shall contain such provisions for the amendment of the First Schedule and the Fourth Schedule as may be necessary to give effect to the provisions of the law and may also contain such supplemental, incidental and consequential provisions (including provisions as to representation in Parliament and in the Legislature or Legislatures of the State or States affected by such law) as Parliament may deem necessary. (2) No such law as aforesaid shall be deemed to be an amendment of this Constitution for the purposes of article 368."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART I",
+        "part_title": "THE UNION AND ITS TERRITORY",
+        "article_number": "1",
+        "article_title": "Subs",
+        "article_text": "by the Constitution (Fifth Amendment) Act, 1955, s. 2, for the proviso (w.ef. 24-12-1955)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART I",
+        "part_title": "THE UNION AND ITS TERRITORY",
+        "article_number": "2",
+        "article_title": "The words and letters \"specified in Part A or Part B of the First Schedule\" omitted by the Constitution (Seventh Amendment) Act, 1956, s",
+        "article_text": "29 and Sch. (w.e.f. 1-11-1956)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART I",
+        "part_title": "THE UNION AND ITS TERRITORY",
+        "article_number": "3",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Eighteenth Amendment) Act, 1966, s. 2 (w.e.f. 27-8-1966). --- PAGE 35 ---"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART II",
+        "part_title": "CITIZENSHIP",
+        "article_number": "5",
+        "article_title": "Citizenship at the commencement of the Constitution",
+        "article_text": "At the commencement of this Constitution, every person who has his domicile in the territory of India and\u2014 (a) who was born in the territory of India; or (5) either of whose parents was born in the territory of India; or (c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART II",
+        "part_title": "CITIZENSHIP",
+        "article_number": "6",
+        "article_title": "Rights of citizenship of certain persons who have migrated to India from Pakistan",
+        "article_text": "\u2014Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if\u2014 (a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and (6)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or (ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government: Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART II",
+        "part_title": "CITIZENSHIP",
+        "article_number": "7",
+        "article_title": "Rights of citizenship of certain migrants to Pakistan",
+        "article_text": "Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India: 4 --- PAGE 36 --- 5 THE CONSTITUTION OF INDIA (Part Il.\u2014Citizenship) Provided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause (b) of article 6 be deemed to have migrated to the territory of India after the nineteenth day of July, 1948."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART II",
+        "part_title": "CITIZENSHIP",
+        "article_number": "8",
+        "article_title": "Rights of citizenship of certain persons of Indian origin residing outside India",
+        "article_text": "\u2014Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART II",
+        "part_title": "CITIZENSHIP",
+        "article_number": "9",
+        "article_title": "Persons voluntarily acquiring citizenship of a foreign State not to be citizens",
+        "article_text": "\u2014No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART II",
+        "part_title": "CITIZENSHIP",
+        "article_number": "10",
+        "article_title": "Continuance of the rights of citizenship",
+        "article_text": "\u2014Every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART II",
+        "part_title": "CITIZENSHIP",
+        "article_number": "11",
+        "article_title": "Parliament to regulate the right of citizenship by law",
+        "article_text": "\u2014Nothing in the foregoing provisions of this Part shall derogate from the power of Parliament to make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship. --- PAGE 37 ---"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "12",
+        "article_title": "Definition",
+        "article_text": "In this Part, unless the context otherwise requires, \u201cthe State\u201d includes the Government and Parliament of India and the Government and the Legislature of each of the States and all local or other authorities within the territory of India or under the control of the Government of India."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "13",
+        "article_title": "Laws inconsistent with or in derogation of the fundamental rights",
+        "article_text": "\u2014{1) All laws in force in the territory of India immediately before the commencement of this Constitution, in so far as they are inconsistent with the provisions of this Part, shall, to the extent of such inconsistency, be void. (2) The State shall not make any law which takes away or abridges the rights conferred by this Part and any law made in contravention of this clause shall, to the extent of the contravention, be void. (3) In this article, unless the context otherwise requires,\u2014 (a) \u201claw\u201d includes any Ordinance, order, bye-law, rule, regulation, notification, custom or usage having in the territory of India the force of law; (b) \u201claws in force\u201d includes laws passed or made by a Legislature or other competent authority in the territory of India before the commencement of this Constitution and not previously repealed, notwithstanding that any such law or any part thereof may not be then in operation either at all or in particular areas. '1(4) Nothing in this article shall apply to any amendment of this Constitution made under article 368. ] Right to Equality"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "14",
+        "article_title": "Equality before law",
+        "article_text": "\u2014The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "15",
+        "article_title": "Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth",
+        "article_text": "\u2014(1) The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them. (2) No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to\u2014"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "1",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Twenty-fourth Amendment) Act, 1971, s. 2 (w.e.f. 5-11-1971). 6 --- PAGE 38 --- 7 THE CONSTITUTION OF INDIA (Part I1.\u2014Fundamental Rights) (a) access to shops, public restaurants, hotels and places of public entertainment; or (6) the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public. (3) Nothing in this article shall prevent the State from making any special provision for women and children. '1(4) Nothing in this article or in clause (2) of article 29 shall prevent the State from making any special provision for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes and the Scheduled Tribes. ] ?1(5) Nothing in this article or in sub-clause (g) of clause (1) of article 19 shall prevent the State from making any special provision, by law, for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes or the Scheduled Tribes in so far as such special provisions relate to their admission to educational institutions including private educational institutions, whether aided or unaided by the State, other than the minority educational institutions referred to in clause (1) of article 30.] 3[(6) Nothing in this article or sub-clause (g) of clause (1) of article 19 or clause (2) of article 29 shall prevent the State from making,\u2014 (a) any special provision f"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "1",
+        "article_title": "Added by the Constitution (First Amendment) Act, 1951, s",
+        "article_text": "2 (w.e.f. 18-6-1951)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "2",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Ninety-third Amendment) Act, 2005, s.2 (w.e.f. 20-1-2006)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "3",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (One Hundred and Third Amendment) Act, 2019, s. 2 (w.e.f. 14-1-2019). --- PAGE 39 --- 8 THE CONSTITUTION OF INDIA (Part I1.\u2014Fundamental Rights) Explanation\u2014For the purposes of this article and article 16, \"economically weaker sections\" shall be such as may be notified by the State from time to time on the basis of family income and other indicators of economic disadvantage. ]"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "16",
+        "article_title": "Equality of opportunity in matters of public employment",
+        "article_text": "\u2014\u2014_(1) There shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State. (2) No citizen shall, on grounds only of religion, race, caste, sex, descent, place of birth, residence or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State. (3) Nothing in this article shall prevent Parliament from making any law prescribing, in regard to a class or classes of employment or appointment to an office '[under the Government of, or any local or other authority within, a State or Union territory, any requirement as to residence within that State or Union territory] prior to such employment or appointment. (4) Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any backward class of citizens which, in the opinion of the State, is not adequately represented in the services under the State. 2[(4A) Nothing in this article shall prevent the State from making any provision for reservation 3[in matters of promotion, with consequential seniority, to any class] or classes of posts in the services under the State in favour of the Scheduled Castes and the Scheduled Tribes which, in the opinion of the State, are not adequately represented in the services under the State.] 4[(4B) Nothing in this article shall prevent the State from considering any unfilled vacancies of a year which are reserved "
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "1",
+        "article_title": "Subs",
+        "article_text": "by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for \"under any State specified in the First Schedule or any local or other authority within its territory, any requirement as to residence within that State\" (w.e.f. 1-11-1956)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "2",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Seventy-seventh Amendment) Act, 1995, s. 2 (w.e.f. 17-6-1995)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "3",
+        "article_title": "Subs",
+        "article_text": "by the Constitution (Eighty-fifth Amendment) Act, 2001, s. 2, for certain words (retrospectively) (w.e.f. 17-6-1995)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "4",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Eighty-first Amendment) Act, 2000, s. 2 (w.e.f. 9-6-2000). --- PAGE 40 --- 9 THE CONSTITUTION OF INDIA (Part I1.\u2014Fundamental Rights) (5) Nothing in this article shall affect the operation of any law which provides that the incumbent of an office in connection with the affairs of any religious or denominational institution or any member of the governing body thereof shall be a person professing a particular religion or belonging to a particular denomination. '1(6) Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any economically weaker sections of citizens other than the classes mentioned in clause (4), in addition to the existing reservation and subject to a maximum of ten per cent. of the posts in each category.]"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "17",
+        "article_title": "Abolition of Untouchability",
+        "article_text": "\u2018Untouchability\u201d is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of \u201cUntouchability\u201d shall be an offence punishable in accordance with law."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "18",
+        "article_title": "Abolition of titles",
+        "article_text": "(1) No title, not being a military or academic distinction, shall be conferred by the State. (2) No citizen of India shall accept any title from any foreign State. (3) No person who is not a citizen of India shall, while he holds any office of profit or trust under the State, accept without the consent of the President any title from any foreign State. (4) No person holding any office of profit or trust under the State shall, without the consent of the President, accept any present, emolument, or office of any kind from or under any foreign State. Right to Freedom"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "19",
+        "article_title": "Protection of certain rights regarding freedom of speech, etc",
+        "article_text": "\u2014 (1) All citizens shall have the right\u2014 (a) to freedom of speech and expression; (b) to assemble peaceably and without arms; (c) to form associations or unions [or co-operative societies]; (d) to move freely throughout the territory of India;"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "1",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (One Hundred and Third Amendment) Act, 2019, s. 3 (w.e.f, 14-1-2019)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "2",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Ninety-seventh Amendment) Act, 2011, s. 2 (w.e.f. 8-2-2012). --- PAGE 41 --- 10 THE CONSTITUTION OF INDIA (Part I1.\u2014Fundamental Rights) (e) to reside and settle in any part of the territory of India; '[and] (g) to practise any profession, or to carry on any occupation, trade or business. 3[(2) Nothing in sub-clause (a) of clause (1) shall affect the operation of any existing law, or prevent the State from making any law, in so far as such law imposes reasonable restrictions on the exercise of the right conferred by the said sub-clause in the interests of \u201c[the sovereignty and integrity of India], the security of the State, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence.] (3) Nothing in sub-clause () of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of \u201c[the sovereignty and integrity of India or] public order, reasonable restrictions on the exercise of the right conferred by the said sub-clause. (4) Nothing in sub-clause (c) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of \u201c[the sovereignty and integrity of India or] public order or morality, reasonable restrictions on the exercise of the right conferred by the said sub-clause. (5) Noth"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "1",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Forty-fourth Amendment) Act, 1978, s. 2 (w.e.f. 20-6-1979)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "2",
+        "article_title": "Sub-clause (f) omitted by s",
+        "article_text": "2, ibid. (w.e.f. 20-6-1979)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "3",
+        "article_title": "Subs",
+        "article_text": "by the Constitution (First Amendment) Act, 1951, s. 3, for cl. (2) (with retrospective effect)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "4",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Sixteenth Amendment) Act, 1963, s. 2 (w.e.f. 5-10-1963)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "5",
+        "article_title": "Subs",
+        "article_text": "by the Constitution (Forty-fourth Amendment) Act, 1978, s.2, for \"sub-clauses (d), (e) and (f)\" (w.e.f. 20-6-1979). --- PAGE 42 --- 11 THE CONSTITUTION OF INDIA (Part I1.\u2014Fundamental Rights) (6) Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, 'Tnothing in the said sub-clause shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to.\u2014 (i) the professional or technical qualifications necessary for practising any profession or carrying on any occupation, trade or business; or (ii) the carrying on by the State, or by a corporation owned or controlled by the State, of any trade, business, industry or service, whether to the exclusion, complete or partial, of citizens or otherwise. ]"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "20",
+        "article_title": "Protection in respect of conviction for offences",
+        "article_text": "(1) No person shall be convicted of any offence except for violation of a law in force at the time of the commission of the Act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence. (2) No person shall be prosecuted and punished for the same offence more than once. (3) No person accused of any offence shall be compelled to be a witness against himself."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "21",
+        "article_title": "Protection of life and personal liberty",
+        "article_text": "No person shall be deprived of his life or personal liberty except according to procedure established by law. 2["
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "21A",
+        "article_title": "Right to education",
+        "article_text": "\u2014The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine.]"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "22",
+        "article_title": "Protection against arrest and detention in certain cases",
+        "article_text": "\u2014(1) No person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest nor shall he be denied the right to consult, and to be defended by, a legal practitioner of his choice."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "1",
+        "article_title": "Subs",
+        "article_text": "by the Constitution (First Amendment) Act, 1951, s. 3, for certain words (w.e.f. 18-6-1951). 2 Ins. by the Constitution (Eighty-sixth Amendment) Act, 2002, s.2 (w.e.f. 1-4-2010). --- PAGE 43 --- 12 THE CONSTITUTION OF INDIA (Part I1.\u2014Fundamental Rights) (2) Every person who is arrested and detained in custody shall be produced before the nearest magistrate within a period of twenty-four hours of such arrest excluding the time necessary for the journey from the place of arrest to the court of the magistrate and no such person shall be detained in custody beyond the said period without the authority of a magistrate. (3) Nothing in clauses (1) and (2) shall apply\u2014 (a) to any person who for the time being is an enemy alien; or (6) to any person who is arrested or detained under any law providing for preventive detention. *(4) No law providing for preventive detention shall authorise the detention of a person for a longer period than three months unless\u2014 (a) an Advisory Board consisting of persons who are, or have been, or are qualified to be appointed as, Judges of a High Court has reported before the expiration of the said period of three months that there is in its opinion sufficient cause for such detention: * Cl. (4) shall stand substituted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 3 (date yet to be notified) as\u2014 \"(4) No law providing for preventive detention shall authorise the detention of a person for a longer period than two months unless an Advisory Boar"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "23",
+        "article_title": "Prohibition of traffic in human beings and forced labour",
+        "article_text": "\u2014(1) Traffic in human beings and begar and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law. (2) Nothing in this article shall prevent the State from imposing compulsory service for public purposes, and in imposing such service the State shall not make any discrimination on grounds only of religion, race, caste or class or any of them."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "24",
+        "article_title": "Prohibition of employment of children in factories, etc",
+        "article_text": "\u2014No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment. Right to Freedom of Religion"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "25",
+        "article_title": "Freedom of conscience and free profession, practice and propagation of religion",
+        "article_text": "(1) Subject to public order, morality and health and to the other provisions of this Part, all persons are equally entitled to freedom of conscience and the right freely to profess, practice and propagate religion. (2) Nothing in this article shall affect the operation of any existing law or prevent the State from making any law\u2014 (a) regulating or restricting any economic, financial, political or other secular activity which may be associated with religious practice; (6) providing for social welfare and reform or the throwing open of Hindu religious institutions of a public character to all classes and sections of Hindus. Explanation I\u2014The wearing and carrying of kirpans shall be deemed to be included in the profession of the Sikh religion. Explanation II.\u2014In sub-clause (b) of clause (2), the reference to Hindus shall be construed as including a reference to persons professing the Sikh, Jaina or Buddhist religion, and the reference to Hindu religious institutions shall be construed accordingly."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "26",
+        "article_title": "Freedom to manage religious affairs",
+        "article_text": "Subject to public order, morality and health, every religious denomination or any section thereof shall have the right\u2014 (a) to establish and maintain institutions for religious and charitable purposes; --- PAGE 46 --- 15 THE CONSTITUTION OF INDIA (Part I1.\u2014Fundamental Rights) (5) to manage its own affairs in matters of religion; (c) to own and acquire movable and immovable property; and (d) to administer such property in accordance with law."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "27",
+        "article_title": "Freedom as to payment of taxes for promotion of any particular religion",
+        "article_text": "No person shall be compelled to pay any taxes, the proceeds of which are specifically appropriated in payment of expenses for the promotion or maintenance of any particular religion or religious denomination."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "28",
+        "article_title": "Freedom as to attendance at religious instruction or religious worship in certain educational institutions",
+        "article_text": "(1) No religious instruction shall be provided in any educational institution wholly maintained out of State funds. (2) Nothing in clause (1) shall apply to an educational institution which is administered by the State but has been established under any endowment or trust which requires that religious instruction shall be imparted in such institution. (3) No person attending any educational institution recognised by the State or receiving aid out of State funds shall be required to take part in any religious instruction that may be imparted in such institution or to attend any religious worship that may be conducted in such institution or in any premises attached thereto unless such person or, if such person is a minor, his guardian has given his consent thereto. Cultural and Educational Rights"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "29",
+        "article_title": "Protection of interests of minorities",
+        "article_text": "(1) Any section of the citizens residing in the territory of India or any part thereof having a distinct language, script or culture of its own shall have the right to conserve the same. (2) No citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language or any of them."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "30",
+        "article_title": "Right of minorities to establish and administer educational institutions",
+        "article_text": "(1) All minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice. --- PAGE 47 --- 16 THE CONSTITUTION OF INDIA (Part IJ.\u2014Fundamental Rights) 'T(1A) In making any law providing for the compulsory acquisition of any property of an educational institution established and administered by a minority, referred to in clause (1), the State shall ensure that the amount fixed by or determined under such law for the acquisition of such property is such as would not restrict or abrogate the right guaranteed under that clause. ] (2) The State shall not, in granting aid to educational institutions, discriminate against any educational institution on the ground that it is under the management of a minority, whether based on religion or language. 2% * * * 31. [Compulsory acquisition of property.|\u2014Omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 6 (w.ef. 20-6-1979). 3(Saving of Certain Laws] 4["
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "31A",
+        "article_title": "Saving of laws providing for acquisition of estates, ete",
+        "article_text": "5[(1) Notwithstanding anything contained in article 13, no law providing for\u2014 (a) the acquisition by the State of any estate or of any rights therein or the extinguishment or modification of any such rights; or (6) the taking over of the management of any property by the State for a limited period either in the public interest or in order to secure the proper management of the property; or (c) the amalgamation of two or more corporations either in the public interest or in order to secure the proper management of any of the corporations; or (d) the extinguishment or modification of any rights of managing agents, secretaries and treasurers, managing directors, directors or managers of corporations, or of any voting rights of shareholders thereof; or"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "1",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Forty-fourth Amendment) Act, 1978, s. 4 (w.e.f. 20-6-1979)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "2",
+        "article_title": "Sub-heading \"Right to Property\" omitted by s",
+        "article_text": "5, ibid. (w.e.f. 20-6-1979)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "3",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Forty-second Amendment) Act, 1976, s. 3 (w.e.f. 3-1-1977)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "4",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (First Amendment) Act, 1951, s. 4, (with retrospective effect)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "5",
+        "article_title": "Subs",
+        "article_text": "by the Constitution (Fourth Amendment) Act, 1955, s. 3, for cl. (1) (with retrospective effect). --- PAGE 48 --- 17 THE CONSTITUTION OF INDIA (Part IJ.\u2014Fundamental Rights) (e) the extinguishment or modification of any rights accruing by virtue of any agreement, lease or licence for the purpose of searching for, or winning, any mineral or mineral oil, or the premature termination or cancellation of any such agreement, lease or licence, shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by '[article 14 or article 19]: Provided that where such law is a law made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent:] [Provided further that where any law makes any provision for the acquisition by the State of any estate and where any land comprised therein is held by a person under his personal cultivation, it shall not be lawful for the State to acquire any portion of such land as is within the ceiling limit applicable to him under any law for the time being in force or any building or structure standing thereon or appurtenant thereto, unless the law relating to the acquisition of such land, building or structure, provides for payment of compensation at a rate which shall not be less than the market value thereof. ] (2) In this article,\u2014 3[(a) the expression \u201cestate\u201d shall, i"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "1",
+        "article_title": "Subs",
+        "article_text": "by the Constitution (Forty-fourth Amendment) Act, 1978, s. 7, for \"article 14, article 19 or article 31\" (w.e.f. 20-6-1979)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "2",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Seventeenth Amendment) Act, 1964, s. 2(i) (w.e.f. 20-6-1964)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "3",
+        "article_title": "Subs",
+        "article_text": "by s.2(ii), ibid., for sub-clause (a) (with retrospective effect)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "4",
+        "article_title": "Subs",
+        "article_text": "by the Madras State (Alteration of Name) Act, 1968 (53 of 1968), s. 4, for \"Madras\" (w.e.f. 14-1-1969). --- PAGE 49 --- 18 THE CONSTITUTION OF INDIA (Part I1.\u2014Fundamental Rights) (5) the expression \u201crights\u201d, in relation to an estate, shall include any rights vesting in a proprietor, sub-proprietor, under-proprietor, tenure- holder, '[raiyat, under-raiyat] or other intermediary and any rights or privileges in respect of land revenue. ] 2("
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "31B",
+        "article_title": "Validation of certain Acts and Regulations",
+        "article_text": "\u2014Without prejudice to the generality of the provisions contained in article 31A, none of the Acts and Regulations specified in the Ninth Schedule nor any of the provisions thereof shall be deemed to be void, or ever to have become void, on the ground that such Act, Regulation or provision is inconsistent with, or takes away or abridges any of the rights conferred by, any provisions of this Part, and notwithstanding any judgment, decree or order of any court or Tribunal to the contrary, each of the said Acts and Regulations shall, subject to the power of any competent Legislature to repeal or amend it, continue in force. ] 3["
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "31C",
+        "article_title": "Saving of laws giving effect to certain directive principles",
+        "article_text": "\u2014 Notwithstanding anything contained in article 13, no law giving effect to the policy of the State towards securing \u201c[all or any of the principles laid down in Part IV] shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by *[article 14 or article 19;] 6[and no law containing a declaration that it is for giving effect to such policy shall be called in question in any court on the ground that it does not give effect to such policy]: Provided that where such law is made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent.] 731D. [Saving of laws in respect of anti-national activities.|\u2014Omitted by the Constitution (Forty-third Amendment) Act,1977, s. 2 (w.e.f.13-4-1978)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "2",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (First Amendment) Act, 1951, s. 5 (w.e.f. 18-6-1951)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "3",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Twenty-fifth Amendment) Act, 1971, s. 3 (w.e.f. 20-4-1972)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "4",
+        "article_title": "Subs",
+        "article_text": "by the Constitution (Forty-second Amendment) Act, 1976, s. 4, for \u201cthe principles specified in clause (b) or clause (c) of article 39\u201d (w.e.f. 3-1-1977). Section 4 has been declared invalid by the Supreme Court in Minerva Mills Ltd. and Others Vs Union of India and Others, AIR 1980 SC 1789."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "5",
+        "article_title": "Subs",
+        "article_text": "by the Constitution (Forty-fourth Amendment) Act, 1978, s. 8, for \u201carticle 14, article 19 or article 31\u201d (w.e.f. 20-6-1979)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "6",
+        "article_title": "The words in italics struck down by the Supreme Court in Kesavananda Bharati vs",
+        "article_text": "State of Kerala, AIR 1973, SC 1461."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "7",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Forty-second Amendment) Act, 1976, s. 5 (w.e.f. 03-01-1977). --- PAGE 50 --- 19 THE CONSTITUTION OF INDIA (Part I1.\u2014Fundamental Rights) Right to Constitutional Remedies"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "32",
+        "article_title": "Remedies for enforcement of rights conferred by this Part",
+        "article_text": "\u2014(1) The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by this Part is guaranteed. (2) The Supreme Court shall have power to issue directions or orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, whichever may be appropriate, for the enforcement of any of the rights conferred by this Part. (3) Without prejudice to the powers conferred on the Supreme Court by clauses (1) and (2), Parliament may by law empower any other court to exercise within the local limits of its jurisdiction all or any of the powers exercisable by the Supreme Court under clause (2). (4) The right guaranteed by this article shall not be suspended except as otherwise provided for by this Constitution. 132A. [Constitutional validity of State laws not to be considered in proceedings under article 32.|\u2014Omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 3 (w.e.f. 13-4-1978). ?["
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "33",
+        "article_title": "Power of Parliament to modify the rights conferred by this Part in their application to Forces, ete",
+        "article_text": "\u2014Parliament may, by law, determine to what extent any of the rights conferred by this Part shall, in their application to,\u2014 (a) the members of the Armed Forces; or (6) the members of the Forces charged with the maintenance of public order; or (c) persons employed in any bureau or other organisation established by the State for purposes of intelligence or counter intelligence; or (d) person employed in, or in connection with, the telecommunication systems set up for the purposes of any Force, bureau or organisation referred to in clauses (a) to (c), be restricted or abrogated so as to ensure the proper discharge of their duties and the maintenance of discipline among them. |"
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "1",
+        "article_title": "Ins",
+        "article_text": "by the Constitution (Forty-second Amendment) Act, 1976, s. 6 (w.e.f. 1-2-1977)."
+    },
+    {
+        "document_type": "constitution",
+        "part": "PART III",
+        "part_title": "FUNDAMENTAL RIGHTS G",
+        "article_number": "2",
+        "article_title": "Subs",
+        "article_text": "by the Constitution (Fiftieth Amendment) Act, 1984, s. 2, for art. 33 (w.e.f. 11-9-1984)."
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "1",
+        "example_title": "Find the nth derivative of oe 1 5x+6x Sol. Let 1 a ome Y* 1 5x+6x? ~ (2x 1)(3x 1) a By Partial fracti or Y= oy 1 3x] (By Partial fraction) da\u201d da\u201d y, = 2 a (2x -1y!-3 a (8x - 1y1 --- PAGE 17 --- 4 A T"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "2",
+        "example_title": "Find the nth derivative of e\u201d cos* x sin x. ; (1l+cos2x) Sol. Let y = e\u2122 cos* x sin x = e* > +~sinx 1 ax os 1 ax . = \u2014e\u2122 sinx+\u2014\u2014e'\u2019(2cos2xsinx) 2 2 2 1 aX as 1 ax fa: : = \u2014e\"sinx+\u2014e\u2122 {sin(3x) sinx} 2 "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "3",
+        "example_title": "If y = tan\u2019 1 xy\u2019 find y,. (U.P.T.U., 2002) 1 2x Sol. We have y = tan 12 x Differentiating y w.rt. x, we get - 1 i( 2x )- (1 x?) 2(1 x7)+ 4x? na 14( 2x y dx\\1 x2) \u2014 (1+x* 2x? + 4x\") (1 x)? 1 x? Ys ax?"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "4",
+        "example_title": "If y = x log xt Show that x+1 xn xtn = (-1)\" 2 |\u2014\u2014_\u2014 \u2014\u2014 y, = (lyr? | 2 re 1\" aap | (U.PT.U., 2002) 1 Sol. We have y = x log \u2014 = x [log(x - 1) - log (x + 1)] Differentiating w.r. to \u2018x\u2019, we get 1 1 y, "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "5",
+        "example_title": "Find y, (0) if y = 1! x x? x? 141 (x 1)(x? +x+1) 1 Sol. We have y= Soe OO st x\u201c 1 x 1 (x 1)(x+1) x 1 --- PAGE 19 --- 6 A TEXTBOOK OF ENGINEERING MATHEMATICS\u2014I ee eee or 4 \u201c(xsd | (x (e+) \u2014 x? 141 eda "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "1",
+        "example_title": "If y'\u2019\" + y'/\" = 2x, prove that (x? -1) y,,,+ (n+ 1) xy, + (W- mm\u2019) y, = 0. (U.P.T.U., 2007) 1 Sol. Given yl\" + yun = 2x yn _ 2xy/\u2122 + 1 = 0 or (ym? _ 2x(y'/\u201d) +1 <= 0 2-2xz +1 (y/\u2122 = Zz) 4 Jay2 Z = ae"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "2",
+        "example_title": "Find the nth derivative of e* log x. Sol. Let u = e* and v = log x (Din ; ,_ CO\" [a n =e jn = D ax + b = Then D\" (u) = e* and D\" (v) x ( ) (ax +b)\" --- PAGE 22 --- DIFFERENTIAL CALCULUS-I 9 By Leibnit"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "3",
+        "example_title": "Find the nth derivative of x? sin 3x. Sol. Let u = sin 3x and v = \u00b0\u00b0 D'(u) = D* (sin 3x) = 3\" sin & + m2) Diu) = 2x, D? (v) = 2, D3 (v) = 0 By Leibnitz\u2019s theorem, we have D\" (x? sin 3x) = D\" (sin 3x)x"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "4",
+        "example_title": "If y = x log (1 + x), prove that 1)\" 7) n 2xtn y, = Ce 2G) (U.P.T.U., 2006) (x+1)\" Sol. Let u = log (1 + x), v=x d\u201d d\"' (< D'(u) = \u2014log (1+x) = \u2014\u2014|-\u2014log (1+x (u) en 08 +X) = | ag los (+x) dq\u201d 1 1 dq\u201d "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "5",
+        "example_title": "If y = a cos (log x) + b sin (log x). Show that xy, + xy, + y =0 and xy, + (2n +1) xy, + (Ww + Dy, = 0. (U.P.T.U., 2003) Sol. Given y = acos (log x) + b sin (log x) . 1 1 y, = \u2014asin (log x) (=) + b co"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "6",
+        "example_title": "If y = (1 \u2014 x) e& *, show that (= x)y,.- (+ XY, \u2014 1 Ys, = 0 Sol. Given y = (1 - x). e& * Differentiating w.r.t. x, we get y, = Q-xyte*-(-x e* 1 1 x y = (l-xy e*) jo Alay |p = y,Q-x) = xy Differentiati"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "7",
+        "example_title": "If cos b) = log m) 7 Prove that xy, + (2n + 1)xy,, + (nv? + m\u2019) y, = 0. Sol. We h > (4) =1 (=) - log \u2014 ol. We have cos\u201d [7] = log |\u2014 | =m log \u2014 --- PAGE 24 --- DIFFERENTIAL CALCULUS-I 11 y = bcos G lo"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "8",
+        "example_title": "If y = (x* - 1)\u201d, prove that (U.P.T.U., 2000, 2002) (x? \u2014 1)y,,, + 2xy,,, \u2014 1 (n+1)y, = 0 a\u201d d aP,, Hence, if P, = \u2014\u2014 (x7 - 1)\", show that {a-x7) 2 +n(n+1)P =0. \"dx\" dx dx \" Sol. Given y = (x-1)\" Diff"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "9",
+        "example_title": "Find the nth derivative of y = x\"! log x at x = * Sol. Differentiating 1 y, = (n-1) x\" log x + x\" x 1 nil l nil or y, = (n_ Vx\" logx yx By xy, = (n-1)y + x\"! x x Differentiating (n\u20141) times by Leibnit"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "10",
+        "example_title": "If y = (1 - x\u2019)! sin'x, when -1 < x < 1 and >< sin'x < 3! then show that (1 - x\u2019)y,,- (2n +1) xy,-my,_,=0. Sol. Given y = (1 \u2014 x) sin\u2122x Differentiating 1 1 \u2014~ 2 _ y2)-3/2 (_ +1 _ 2-1/2, == y, = 7 xy? "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "11",
+        "example_title": "If y = x\" log x, then prove that n (i) y= LC (ii) y, =ny,,+ |@ 1). Sol. (i) We have y = x\" log x Differentiating w.r. to x, we get x\" y, = nx\"! - log x + x xy, = nx\". log x + x\" xy, = ny + x\" ...(i) D"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "1",
+        "example_title": "Determine y (0) where y = emcos ty, Sol. We have y = emeos tx Differentiating w.r.t. x, we get (i) 1 m_ cost \u2014\u2014\u2014\u2014 = m_ cos-tx ye mz =) v1 x? -Y, = \u2014 me or Vi xt yy = \u2014 my (1 yp = my? --- PAGE 28 --- D"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "2",
+        "example_title": "If y = (sin\u2122'x)\u2019. Prove that y (0) = 0 for n odd and y (0) = 2.2?.4*....(m \u2014 2), n t 2 for n even. (U.P.T.U., 2005, 2008) Sol. We have y = (sin! x) ...(i) 1 . On differentiating y, = 2sin'x- To yiv1 x"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "3",
+        "example_title": "If y = [ve vie], find y, 0). Sol. Given y = [xavi+2?| ..(i) mil y, =m [ve vi+x?| pe] v1+x? _ m|x+V1+2 | _ my v1+x? v1+x? or YVl4x? = my Squaring y(t) = my? ...(ii) Again differentiating, y; (2x) + (1 "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "4",
+        "example_title": "Find the nth differential coefficient of the function on cos (2 cos x) at the point x=0. Sol. Let y = cos (2 cos? x) ...(i) On diffentiating, y, = \u2014sin (2 cost x) | v1 x? or \u00a5, J x2 = 2 sin 2 cost x) "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "5",
+        "example_title": "Find the nth derivative of y = x sin x at x = 0. (U.P.T.U., 2008) Sol. We have y = sin x = sin x. x ...(i) Differentiate n times by Leibnitz\u2019s theorem, we get Y, = Ne, D\" (sin x). x7 + Ne, D\u2122 (sin x) "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "6",
+        "example_title": "If y = sin (a sin x), prove that (1 \u2014 x\u2019)y,,, \u2014 (2n + 1)xy,,, \u2014 (n* - @)y, = 0 Also find nth derivative of y at x = 0. [U.P.T.U. (C.O.), 2007] Sol. We have y = sin(a sin x) Differentiating w.r.t. x, w"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "1",
+        "example_title": "Verify that axty = oyox where u(x, y) = log, [=\u00a5 (U.P.T.U., 2007) 2,,2 + Sol. We have u(x, y) = log, =F) xy u(x, y) = log (x? + y\u2019) - log x - log y ...(i) Differentiating partially w.rt. x, we get Ou "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "2",
+        "example_title": "If f = tan\u201d (\u201c), verify that ca = say Sol. We have f= tant (4) i) x Differentiating (i) partially with respect to x, we get of 1 (=) -y \u2018 T= To sd = wil ex , (4) x2 x2 4 y? ( ) x Differentiating (i) p"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "3",
+        "example_title": "If u(x + y) = x? + y\u2019, prove that ax ay) > 4 ax ay} x+y? Sol. Given u= \u2014 x+y ou (x+y) (7497) P42 9 ox (x+y) (x+y) d Ou (x+y) (2y) (x? + y\u2019)a) y+ 2xy x? an _ = JH _ \u2014..\u2014S SO \u00b0y (x+y) (x+y) ou ou Axy \u2014,"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "4",
+        "example_title": "If u = sin\u201d [=] + tan! (4), show that x ou +y =0. y x ox oy Sol. Given u = sin? =) + tan! (4) (i) y x ou 1 1,1 ( y Ox 2) 2\u00b0 \\ x? Gye 7 x y Ou x yx + or XD = TT ...(ii) Ox (y? x?) x2 +y? and from (i), "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "5",
+        "example_title": "If f(x, y) = x* tan! (4) -y\u00b0* tan! =) then prove that oF L of. v y Oxdy \u2014 OyOx Sol. F a ox-ton(\u00a5#) +x ( #)-v- (2 re een ie 14+} = 14/2 * y 3 2 3 ox x x+y x+y x Differentiating both sides with respect "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "6",
+        "example_title": "If V = (0? + y* + z\u2019)\"/?, show that av OV ay za +R? + az =0. ax? * dy? * G7? Sol. Given V= (P+ y4 27), (i) ev = - 1 Qe + y+ 23? Ax =-x (P+ y+ 2)? ox 2 av 3/0 2. .9\\8/2 22 .9\\73/2. ox -|x{-3(. +y +2\") "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "7",
+        "example_title": "If u =f (r), where 7\u00b0 = x? + y\u2019, show that eu ou 1 az ay? =f (r+ ; f (U.P.T.U., 2001, 2005) --- PAGE 39 --- 26 A TEXTBOOK OF ENGINEERING MATHEMATICS\u2014I Sol. Given P= P+y (7) Differentiating both sides "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "8",
+        "example_title": "If u = log (x\u00b0 + y\u00b0 + 2\u00b0 \u2014 3xyz); show that 2 [2+208) 2 (ULPT.U., 2003) ata tS | uu =- \u2014\u2014\u2014]. P.T.U,, Ox Oy & (x+y+z) Sol. Given u = log (8+ y+ 2 - 3xyz). ou 3x* 3Byz (i a re mm Ox e+ytz> Bxyz Similart"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "9",
+        "example_title": "If u = tan\u2019) \u2014\u2014\u2014+\u2014\u2014\u2014., show that \\(l+x? +y\u00b0) au _ 1 Oxdy (1 +x7 4 yy Sol. Given u = tan? \u2014\u20142\u00a5__ |(l+x? +97) On 1 oy E +{x?y? /(1 +x +) / Al+x? +\") y\u2014(1+x? +?) ' \u201coy xx fe (1+x7+y\u2019) x (14x? +y\u2019) y? ---"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "10",
+        "example_title": "If Dan pan? es\u201d 1, show that (24) (24) (2) aa (xt ry Stet) ax ay a} =2l ae \"Sy az | (U.PT.U., 2002) Sol. We have x2 y? 2 . where u is a function of x, y and z Differentiating (i) partially with respec"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "11",
+        "example_title": "If x* y\u2019 z* = c, show that at x = y = z, axoy ~~ (x log ex)\"'. Where z is a function of x and y. Sol. Given xy!.z = c, where z is a function of x and y. Taking logarithms, x log x + y log y + z log z "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "12",
+        "example_title": "If u = log (x\u00b0 + y\u00b0 \u2014 x\u2019y \u2014 xy\u2019) then show that fu , ou ay 4 a2 t2aa, t+ 52 = 7D\" ax\" \u201coxoy * ay? ~ (x+y) Sol. We have u = log (8 + y - xy \u2014 xy\u2019) ou _ 3x? 2xy y? ; Ox (x+y? xy xy\u201d) fe) ou By? x Dry \u2018)"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "13",
+        "example_title": "If u = e, show that au Oxoyoz = (1 + 3xyz + 2xy*z*Je\u2122. --- PAGE 44 --- DIFFERENTIAL CALCULUS-I 31 Sol. We h _ XYZ ou \u2014 pryz ol. We have u=e a ey aru \u00e9 ay\u00e9z = ay (e%-xy) = e x\u2019yz + ev.x au or yz = (xyz"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "14",
+        "example_title": "If u = log r, where r\u00b0 = (x - a)? + (y - b)? + (z \u2014 c)*, show that ax? ay? axe? Sol. Given r= (x-ay\u2019+(y- bP + (zZ- cy, (7) Differentiating partially with respect to x, we get ar ar (: *) . 2r a 2 (x \u2014"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "15",
+        "example_title": "If u = x\u00b0 tan (y/x) - y\u2019 tan (x/y), prove that eu x Oyox vty? Sol. Given u = xX tan! (y/x) - y\u00b0 tant (x/y). Differentiating partially with respect to x, we get wet L(t). me (Y) et} Ox 1+(y/x) x x 1+(x"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "16",
+        "example_title": "If z = f (x \u2014 by) + (x + by), prove that ax? ay\u2019 Sol. Given z=f(x\u2014-by)+ (x + by) (i) (674 ay =f (x\u2014by)+ (x + by) az .. and a f (x-\u2014by)+ (x + by). ...(ii) (64 Again from (i), ay =-bf (x-by)+b (x + by) "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "17",
+        "example_title": "If u (x, y, z) = log (tan x + tan y + tan z). Prove that in ox ny in oz Of 29 U.P.T.U., 2006 sin 2x B+ sin 2y ay + sin 2z G7 = 2. (U.P.T.U., ) 2 Sol. Oe SC ox tanx + tany + tanz --- PAGE 46 --- DIFFER"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "1",
+        "example_title": "Verify Euler\u2019s theorem for the function f(% y) = ax? + 2hxy + by\u2019. Sol. Here the given function f (x, y) is homogeneous of degree n = 2. Hence the Euler\u2019s theorem is x f +Y gf = 2f (7) ox oy Now, we a"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "2",
+        "example_title": "Verify Euler\u2019s theorem for the function u = x\" sin (). Sol. Since u is homogeneous function in x and y of degree n, hence we are to prove that ou ou ; xm +y oy = nu ..-(2) fo We have uo= x\" sin x a = "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "3",
+        "example_title": "If u = sin\u201d Veal |\u2019 show by Euler\u2019s theorem that xtfy uy m. ox OY Vx - - Sol. We have u = sin! veavy => sin u = vend vx +fy vx + fy vx - Jy Let f = snu = \u2014\u2014= vx+/y Here, f is a homogeneous function in"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "4",
+        "example_title": "If u = log [(x* + y')/ (x + y)], show that rt py MWg U.P.T.U., 2000 Ox + Y oy \u2014~ \u2018 ( Let .U., ) xt4y! xt+y! Sol. We have u = log, x+y > e= x+y 4,04 Let f - es xity x+y Here the function f is a homogen"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "5",
+        "example_title": "Verify Euler\u2019s theorem for = sin |= aft u= sin y + tan vt (U.P.T.U., 2006) Sol. Here u is a homogeneous function of degree, n = 1-1=0; hence by Euler\u2019s theorem x ou + ou 0 ax\u201d ay 1 1 1 \u00b0 h-(2) i! 1+(4"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "6",
+        "example_title": "If u = x sin y + y sin! rar find the value of 07u aru 07u 2 \u2014> + 2xy \u2014\u2014 ep \u2014. U.P.T.U., 2007 Sol. We have w= xsin\u00ae (y) +ysin\u00ae |y 1 . Ou int [=] , (2) wy oe (-) ox Yy x2 y y? x 1--> |l- > y x --- PAGE "
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "7",
+        "example_title": "If u = tan\u2122 Say prove that x a +y oy = sin 2u and evaluate d7u 7u d7u 2 2x 2 i, woe Oxoy ty ay\u201d Sol. We have e+ e+ u = tan \u201cx-y~ => tan u = \u201cx-y_ e+y? a Let f = tan u = xy Since f (x, y) is a homogene"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "8",
+        "example_title": "If z = x\u201d f vy) t's y , prove that az a\u00b0z az oz oz x? 5,2 + 2xy axoy +\u00a5 ay? + mnz = (m+n-\u20141) Cae . y x Sol. Let w= x\"fl Tl, v=2x\"8 y then Z= utv ..-(1) Now, u is homogeneous function of degree m. Ther"
+    },
+    {
+        "document_type": "math",
+        "unit": "Differential Calculus-I",
+        "section": "Sin",
+        "example_number": "9",
+        "example_title": "If u = sin! | \u2014\u2014\u2014=\u2014\u2014\u2014 |, show that | ou oe ou 3 =0 U.P.T.U., 2003 Xo tY oy +2 Oz tS tanu=0. (U.P.T.U., )"
+    }
+]

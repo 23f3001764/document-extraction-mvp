@@ -1,0 +1,936 @@
+
+
+--- PAGE 1 ---
+
+DIFFERENTIAL CALCULUS-I 93
+, a° f (0, 0)
+31. If fx, y) =e" - sin y, then Tae
+x
+32. Expansion of e’ up to first order tem is ..........
+33. f(x, y) =f, 2) + ee.
+C. Indicate True or False for the following statements:
+O(u,v O(u,v) Ox,
+1. If u, v are functions of 7, s are themselves functions of x, y then OB) = Ge) Ax ¥)
+A(x,y) (r,s) r,s)
+2. Geometrically the function z = f(x, y) represents a surface in space.
+fo
+3. If f(x, y) = ax? + 2hxy + by then x=-+y—= = 2f.
+fx y) y + by ax Yay f
+. . . . . Oz OZ
+4. If z is a function of two variables then dz is defined as dz = ae 4 ay
+x
+0 0
+5. If f(x,, x, .., x,) be a homogeneous function then x; of + Xo ot +...+Xy Ff
+" Ox, OX OXy
+=n(n-1)f.
+2,2
+4 0 0
+6. Ifu= ~—4 +4, then xe eyS = 4.
+xy ox * Oy
+7. When the function z = f(x, y) differentiating (partially) with respect to one variable, other
+variable is treated (temporarily) as constant.
+8. To satisfied Euler’s theorem the function f(x, y) should not be homogeneous.
+4
+9. The partial derivatives = and ay are interpreted geometrically as the slopes of the
+x
+tangent lines at any point.
+10. (i) The curve y* = 4ax is symmetric about x-axis.
+(ii) The curve x° + y’ = 3axy is symmetric about the line y = — x.
+(iii) The curve x? + y° = a’ is symmetric about both the axis x and y.
+(iv) The curve x° — y’ = 3axy is symmetric about the line y = x.
+11. (ji) If there is no constant term in the equation then the curve passes through the origin
+otherwise not.
+(ii) A point where de T 0 is called an inflexion point.
+x
+(iii) If 1’ is negative i.e., imaginary for certain values of then the curve does not exist for
+those values of .
+(tv) The curve r = ae is symmetric about the line = 5 .
+12. (i) Maclaurin’s series expansion is a special case of Taylor’s series when the expansion
+is about the origin (0, 0).
+(ii) Taylor’s theorem is important tool which provide polynomial approximations of real
+valued functions.
+
+
+--- PAGE 2 ---
+
+94 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+(iii) Taylor’s theorem fail to expand f(x, y) in an infinite series if any of the functions
+F.06, Wr fod% Wr fy(% y) etc., becomes infinite or does not exist for any value of x, y
+in the given interval.
+(iv) fix, y) = fla, b) + | (x a) eo (x ») 2 fla, b) + wn.
+Ox oy
+ANSWERS TO OBJECTIVE TYPE QUESTIONS
+A. Pick the correct answer:
+1. (iv) 2. (iii) 3. (iii)
+4. (iv) 5. (i) 6. (i)
+7. (iv) 8. (iv) 9. (iii)
+10. (iv) 11. (i) 12. (iii)
+13. (iii) 14. (i) 15. (iii)
+B. Fill in the blanks:
+1. 2|n 1 2. xsin (+) ncos{x+ =)
+3. Zero 4. Zero 5. sin hx
+2)... nt
+6. e*(x+n) 7. Try yourself 8. (n n ) sin
+9. Zero 10. Zero 11. Zero
+12. ay? 13. Oyox 14. 2 abu
+15. 2x + 4y 16. n(n - 1f 17. 3u log u
+f 6 sin* _ cos*
+18. 19. a A 20. —W—,——
+21. u 22. 1 23. t,
+24. initial line 25. 0 26.y=+x
+2
+27.-a<x<a 28. (0, a) and (0, — a) 29. x sty
+30. — 0.823 31. 0 32. e{1 + (x-1) + (y-1)}
+2
+of oft 1 of of
+I=—+(y 2) p+ yx I= +ly 2)—p +...
+33. ru atl le nerw ad
+C. True or False:
+1. F 2. T 3. T 4.T
+5. F 6. F 7. T 8.F
+9.T
+10. (i) T (ii) F (iii) T (iv) F
+11. () T (ii) F (iii) T (iv) F
+12. () T (ii) T (iii) T (iv) F
+OOO
+
+
+--- PAGE 3 ---
+
+UNIT Il
+Ym JACOBIAN
+The Jacobians* themselves are of great importance in solving for the reverse (inverse functions)
+derivatives, transformation of variables from one coordinate system to another coordinate system
+(cartesian to polar etc.). They are also useful in area and volume elements for surface and volume
+integrals.
+2.1.1 Definition
+If w= u(x, y) and v= v (4%, y) where x and y are independent, then the determinant
+au du
+ox oy
+av dv
+ox oy
+is known as the Jacobian of vw, v with respect to x, y and is denoted by
+oe) rw)
+or J (u, 0
+d (x,y)
+Similarly, the Jacobian of three functions “= u (%, y, 2), V= 0(% y, 2), W= w(K, y, 2) is defined
+as
+du duu
+ox ody a
+1 0 (u,v, Ww) dv dv dv
+u,v0,W) = ~~~ =} DT DW
+ow ow ow
+ox ody a
+* Carl Gustav Jacob Jacobi (1804-1851), German mathematician.
+95
+
+
+--- PAGE 4 ---
+
+96 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+2.1.2 Properties of Jacobians
+1. If u =u (x, y) and v = v (x, y), then
+~—— X ~—— = 1 ‘=1 .P.T.U., 2005
+a(x,y)  d(u,2) os (ULP.P.U., 2005)
+d(u,v) , 9(%Y)
+where, J= a(x) and J’ = 9 (u,v)
+Proof: Since u = u(x, ¥) (1)
+v = v (x,y) ...(i1)
+Differentiating partially equations (i) and (ii) w.r.t. u and v, we get
+Fe ane Ta oy * Ou ~(alt)
+ou ou ox au oy ;
+—=ja0=2 —.2yeey Ss ...(70)
+ov ox ov ay a
+au CO OY OO (2)
+wt = Bt ay a ...(U1)
+ou OU ox ox
+a(u,v) (x,y) ox ey} | du av
+a ’ ax ay| lau dv
+ou ou ox oy
+ox oy >, >
+ox ay ow ov
+(By interchanging rows and columns in II determinant)
+Ou Ox , du dy — du dx | Ou Oy
+_ ox du dyou dx dv dy du (multiplyi -wise)
+= av ax a0 ay av ax, dv ay multiplying row-wise
+ox du dy du ox dv dy dv
+Putting equations (iii), (iv), (v) and (vi) in above, we get
+a(u,v) —a(x,y) 7 1 O 4
+(x,y) * d(u,v)  |O 1)
+or Hence proved.
+2. Chain rule: If u, v, are function of r, s and r, s are themselves functions of x, y ie.,
+u=u(r,s),v=v(r,s) andr=r (x,y), Ss =8 (x, y)
+then a(u0) _ (u,v) a(r,s)
+0 (x,y) d(r,s) (x,y)
+Proof: Here u= u(r,s),v0=0(1,8)
+and r= r (x, y), S=S (x, y)
+
+
+--- PAGE 5 ---
+
+DIFFERENTIAL CALCULUS-II 97
+Differentiating u, v partially w.r.t. x and y
+au au ar | au as |
+ax ~ adr ax as ax 0)
+oy or oy. oss ay ”
+ov ov or . Ov_ os wa,
+a ...(ii1)
+ox or ox OS ox
+y oor oy + as Oy ...(i0)
+ou dU or or
+a(u,v) ar,s) — | or as ox oy
+Now, a(r,s) a(x,y) ov dl"! 9s as
+or os ox oy
+ou Ou or os
+or os. ox ox
+= | o|-|or os
+dr ds dy oy
+|By interchanging the rows and columns in second determinant
+ou or , du ds Ou Or , du ds
+or ox os ox  ordy ds oy ao . ;
+= dv or . av Os dv or . av Os | multiplying row-wise
+or ox os dx  ordy os oy
+Using equations (i), (ii), (iii) and (iv) in above, we get
+au au
+(u,v) ars) _ jax oy) _ 9%)
+d(r,s) d(x,y) go 9} (x,y)
+ox oy
+Or
+0 (u,v) d(u,v) O(1,S) Hence proved
+TTF om ved.
+(x,y) d(r,s) 0(x,Y) P
+_ 9(U,v)
+Example 1. Find ———~, when u = 3x + 5y, v = 4x — 3y.
+0(x¥)
+Sol. We have u = 3x + Sy
+vo = 4x — 3y
+ou ou av ov
+o ay = 3 oy = 5 ae =A and a7 =~ 3
+au au
+Th 0(u,0) ox dy 3.5 9 00 39
+“ d(xy) — (22 8 P fa Bf
+ox oy
+
+
+--- PAGE 6 ---
+
+98 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+. (Ui, U,W) ;
+Example 2. Calculate the Jacobian ———— of the following:
+0 (x,y, 2)
+u= x+2y+z,0=x+ 2y + 3z, w = 2x + 3y + 5z. (U.P.T.U., 2007)
+Sol. We have u=x+2y+z
+vo =x + 2y + 3z
+w = 2x + 3y + 5z
+| au, uu ww,
+° ox” OY OZ OK OY
+> we 3and @ = 5
+ax 7 ay ~ 9 ANS gz >
+au uu
+ax oy az 1 2 1
+Now, 242) _ | dv %}_|1 2 3
+0 (x,Y,Z) ox oy az 7 3 °5
+ow ow ow
+ox oy az
+=1(10-9)-2(5-6)+1(-4)=2.
+Example 3. Calculate 9 Y2) if u = Pye v= Sex w= Sy
+0(U,U, W) x y Zz
+Sol. Given y= ey = SE ye BY
+x y Zz
+“ ax x? Oy x’ Oz x OK OW OY OY
+re]
+ox z oy Z Oz z
+ox oy az * * *
+0(U,U,W) w ow ov 3z -3zx = Bx
+Now, =~ = |—) SO FI OT
+0(x4,2)  |adx dy a yosésy y
+aw dw aw) | 4y 4x —Axy
+ox Oy Z z 2
+__ 2yz | xyz 12x? | 22) Taye Dry) 2y | 122 12xyz
+xt | oytz? yz x | yr yz x | yz 2
+0(U,0,W)
+=> Siam = 0 + 48 + 48 = 96.
+0 (x,y, 2)
+But h Oy) 2 (04,0, 1) =1(P 1
+ut, we have Fao wy * d(%y,2) (Property 1)
+O(%,Y,Z)
+° O(U,v,wW) 96
+
+
+--- PAGE 7 ---
+
+DIFFERENTIAL CALCULUS-II 99
+Example 4. If u = xyz,v=V+y4+2,w=x+y+2z find J (x,y,z).  (U.P.T.U., 2002)
+Sol. Here we calculate J(u, v, w) as follows:
+
+du uu
+ov ov ov
+Ju,v,w) =|— =~ ~]=/2e 2y 2%
+ox oy az 1 1 1
+aw aw aw
+ox oy az
+= yz (2y — 2z) -— zx (2x -— 2z) + xy (2x - 2y)
+= 2 [yz — yz? -— zx? + 2x + xy (x - y)]
+= 2[-z2(@?-y)+2(x-y) + xy (x-y)]
+= 2 (x —y)[- zx - zy + 2 + xy] | As x? -y* = (x-y)(x+ y)
+= 2(x-ylz Z@-x)-y @-)]
+= 2(x-y) @-y) &-¥)
+= -2(x-y)yY-2 @-%)
+But (x,y, 2) J(u, 0,0) = 1
+an J(%y,Zz) =
+Example 5. If x = Jow, y= Jwu,z= Juv and u =r sin® cos,
+a 0(x,Y,Z)
+v = rsin @ sin $6, w =r cos 9, calculate ———_.
+d(r,8,4)
+Sol. Here x, y, z are functions of u, v, w and u, v, w are functions of r, 8, 6 so we apply IInd
+property.
+d(x, Y,2) 0(x%,Y,Z) da(u,v,w) (i)
+_ , oe ees wl
+0(1,9,0) —  d(u,v,w) (1,8, 4)
+ou ov ow
+O(x,Y,2) dy ay a
+. _ Y oy oy
+Consider a(uv,0) ~ |ou do do
+dz oz a2
+ou ov ow
+o 1 {2 1 {e
+2Vv 2Vw
+_ fi a o 1 {e
+2Vu 2Vw
+1 a 1 | 0
+2Vu 2Vv
+_1 ferw, eee) _1jisvi}-2 21
+8 vuw Vwun 8 8 4
+
+
+--- PAGE 8 ---
+
+100 A TEXTBOOK OF ENGINEERING MATHEMATICS—|
+0(X,Y,2Z) .
+=> 0 (u,0,w) = ..(i1)
+ou ou ou
+or 00 ao] |sin@cos rcos@cosd -rsin@ sing
+Next 0 (4,0, 7) do go sin@sind rcos@sind  rsin@cosd
+xX) —_—_ = — —_ —_ =
+0 (r,8,0) or 06 = ob
+dw dw ow cos 0 -rsin® 0
+or 00 ad
+= sin@ cos 6 (r? sin?® cos o) — r cos 8 cos @ (-?’ sin 8 cos 6 cos 6)
++ 7 sin 8 sin @ (sin? 9 sin o + cos*9 sin 6)
+= 1’ sin 0 cos’ > (sin? 8 + cos? 8) + 7? sin 6 sin?
+0 (u,v, w)
+> 9(r,0,0) = rsin 8 cos? + 7 sin 8 sin? = r sin 8 ...(iii)
+Using (ii) and (iii) in equation (i), we get
+d(%Yy2) 1 x P sin 0 = 7’ sin®
+d(r,0,o) 4 ar
+Example 6. Ifu=x(1-r)'%0=y1-Pry?,waz0-ry’
+_ . O(Uu,0,W)
+where r= ,|y2 +y? +72, then find aeyz)
+Sol. Since P= P+yre
+; or x wr _y wr _2
+“ ox or’ OY dr Or
+Differentiating partially u = x (1 - ry”? w.r.t. x, we get
+ou al -1 3 oar
+ak 42 |] (i —72)2. —
+ay (1 A) +x(F) C29 (0 rye. x
+-1 3 2
+at 3s x 1 x
+= (1-17)? + 1x (1-17)? =o +
+[, 2 3
+" 1-r (1-r?)?
+ou 1-1? +x?
+> = =
+ox 3
+Differentiating partially u w.r.t. y, we get
+_ 3
+“ = x (>) (1-17) - (- 2r) = = a. ¥
+= +r
+y y (1-17)?
+7)
+, au
+Y  (i-r?)
+and ou = ee
+oz »\2
+(1-r 2
+
+
+--- PAGE 9 ---
+
+DIFFERENTIAL CALCULUS-II 101
+ov yx dv 1-r*+y* ov YZ
+Similarly, oe = 7, sy =——3 5, = 7
+aw oe wy sr $2?
+ox 3° Oy 37 oz 3
+1-1? +x? xy XZ
+3 3 3
+O(U, U,W) yx 1-r?+y? yz
+zx zy 1-r* +z
+3 3 3
+(1-r?)? (1-1)? (1-1?)
+1 lar? +x? xy XZ
+= —7 yx 1-1? +y? YZ
+(1-17)? zx Zy 1-r* +2?
+-9
+= (1-r?)2 (d-rP +x) {1-7 + yl -7 + 2) y’2’}
+— xy {xy (1 — 9° + 27) — xyz?} + xz{xy’z - zx(1 - 7° + y’)}]
+~9
+= (1-1?) 2 [(d-rP+x)-rPt+y) 1-7 + 2’)
+_ (1 _ ?) (y?z? + ey? + x2z?) _ yz]
+~9
+= (1-P)2 [1-7 +0-rF + ¥ +2)
+~9
+= (1-P)2 [(a-ryp+0-ry Pr]
+2 3
+= (1-r7)?.d-ry[l-r+r]= (1-r)2.
+Example 7. Verify the chain rule for Jacobians if x = u, y= u tan v, z= w. (U.P.T.U., 2008)
+Sol. We have x=uU => ox 4 ox _ OX _g
+ou dv =—oW
+- oy _ oy _ >, WY _
+y=utanv => om = tan v, ao = U sec? v, ao =0
+zZ=Ww 5 &_&% _9 & _,
+ou dv ow
+1 0 0
+Ax, Y, Z
+J = AX YZ) =|tanv usec?v 0] =usecrv ..(i)
+0 (u, Vv, W)
+0 0 1
+
+
+--- PAGE 10 ---
+
+102 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+Solving for u, v, w in terms of x, y, z, we have
+u=x
+v = tant 4 = tant
+u x
+w=zZz
+OH Lg WL __ _  _ W _g and
+ox oy = az ox xo+yo OY x +y> OZ ox oy
+ow
+w=!
+oz
+1 0 0
+p= 2 ee) _ oy x o/- 2-1 __ 1 (i)
+ O(x, y, 2) x*ty* x*+y? x+y? y?) — usec*v ~
+0 0 1 lio
+Hence from (i) and (ii), we get
+JJ = usec? v. — =1.
+usec’ V
+2.1.3 Jacobian of Implicit Functions
+If the variables u, v and x, y be connected by the equations
+f,(u, 0, x,y) = 0 (1)
+f, (u, 0, x,y) = 0 ...(i1)
+i.e., u, v are implicit functions of x, y.
+Differentiating partially (i) and (ii) w.r.t. x and y, we get
+a ah me A ww _ i
+ax * ou ox dv Ox D
+hu mg (iv)
+oy ou oy dv oy ”
+ax * ou Ox’ ov Ox ~)
+of , 2 MU , Ff WwW _ (vi)
+oy ou oy ov oy
+afi of | | ou ou
+O(firfo)  A(u,v) au dv ||ax oy
+(u,v)  9(%Y) | Af Ah | | 22 oe
+du dav ox oy
+oft ou, of, 9 of, Ou | oft dv
+du ox ov ox du dy dv oy
+du ox ov ox du dy dv oy
+
+
+--- PAGE 11 ---
+
+DIFFERENTIAL CALCULUS-II 103
+Using (iii), (iv), (v) and (vi) in above, we get
+A _ oft oft oft
+ox oy ox oy
+_ _ 2
+ox oy ox oy
+I(fif,)  9(u0) 0 (fi, fr)
+Thus, ———— x —— > =(-1? =~
+atu) * aay ~~" Oey)
+0 (fi, fo)
+0(u,v 0 (x,
+Z 2) _ yp 2)
+d(x) O (fifo)
+0 (u,v)
+Similarly for three variables u, v, w
+o(f fa fa)
+O(U,0,W) C1 d(x, y,Z)
+0 (x, Y,Z) (fi, for fs)
+0 (u,v, Ww)
+and so on.
+Example 8. If wW+u=x+y, w+ 0 = 2x° + y°, show that
+2.2
+O40) _ y= (U.P.T.U., 2006)
+0 (x,y) 2uv (u-v)
+Sol. Let fp =wr+oe-x-y=0
+f, =evtvr—-x-pP=0
+of oft
+0 (fi, fr) dx oy “I “1
+N yo oUm NO = =3 2 v2
+Gey) [af Ae] | a? aye | PU”
+ox oy
+a
+0 (ft, fo) du dav 3u 30
+ad 3 u) fae ae fo] am w]e" en
+du av
+d (fi, fr) >
+a(u,v 0 (x, 3(y* —x 2_,2
+Thus, 9 (U2) = Oey) = sty=x")_ We=x?) Hence Proved.
+0(x,Y) 0 (fi, fr) 6uv(u-—v) 22uv(u-v)
+0 (u,v)
+Example 9. If he roots of the equation ink, —— + 4 + —— =1
+xample 9. If u, v, w are the roots of the equation in k, aak + bak * cekh = b Prove
+0 (x, y,Z) (u—v) (v—w) (w—u)
+that ————— = —- ——____—_——..
+0 (u,v, W) (a—b) (b—c) (c-a)
+
+
+--- PAGE 12 ---
+
+104 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+Sol. We have ~e + ~- + Se =
+on Me NE atk 7 btk * c+k
+or x(b+h(c+h+y@+h (c+H+z@+hH(c+H=@+h b+h (ct+h
+or P+ha+b+e-x-y-z)+kbe+ca+ab—-(b+c)x-(c+a)
+y — (a + b)z} + (abe — bex - cay — abz) = 0
+Since its roots are given to be u, v, w, so we have
+utv+w=-(t+b+c-x-y-zZ)
+uv + vw + wu=be+ca+ab—-(b+c)x-(c+ajyy—-(a+t b)z
+uvw = — (abc — bex — cay — abz)
+Let fi=utot+twtat+b+c-x-y-z=0
+f, =uv + vw + wu -be-ca-—ab+ (b+c)x+(ct+a)yt+(at b)z=0
+f, = uow + abc — bex — cay — abz = 0
+of oft oft
+ox oY dz -1 -1 -1
+N Afi fafa) | of of 2 | | (b+e) (c+a) (a+b)
+ow, = =
+d(x, y,z) dx dy oz bo ca —ab
+fs fs fs
+ox oY az
+1 0 0
+=|b+c a-b a—c | =(a—b)(a—c)(b-c)
+be c(a—b) b(a-c)
+of Of Oh
+and a(u,v,w) ~ | du ov daw| (o+w) (wru) (ut)
+fs ofs fs, OW wu uv
+du dv dw
+1 0 0
+=|/v+w u-v u—w (C, > C,-C,, C, > C,- C)
+vw wu-v) v(u-w)
+=(u—- v)\(u — w)(v - w)
+0 (fifo fs)
+Thus, 0 (U,0,W) = (1) 0 (x, y,Z) __ (a—b) (a—c) (b-c)
+d(x,Y,2) 0 (fi fafa) (u-v) (u-w) (v-w)
+0 (u,v, WwW)
+O(X,Y,Z = = =
+0(U,0,W) (a—b) (b—c) (a-c)
+Example 10. If u = 2axy, v = a (x? - y*) where x = r cos0, y = r sin 9, then prove that
+(u,v) _ +3
+(r,6) = — 40°’.
+
+
+--- PAGE 13 ---
+
+DIFFERENTIAL CALCULUS-II 105
+Sol. We have u = 2axy, v = a (x? - y’)
+au au
+0 (u,0) ox doy 2ay — 2ax
+ox oy
+or a0) (40) = — 4q’r* | As x? + y? =r
+a(xY)
+ox ox
+a(%Y) Jor oe cos8 -rsin@
+and a(r,e) |% | |sine rcose| ”
+or 00
+O(u, , 0 (x,
+Hence ou) = 9 (U2) : O(%¥) = (—4a’r’).r = — 4a’r’. Hence proved.
+d(r,0) ~~ a(x,y) d(r,0)
+Example 11. If wW+0+4weax+y+zZwW+v+ wart yt outrov+rwaevrty+Z,
+then show that
+0 (U,0,W) _ (x-y) (y-z) (z-x) ;
+0 (x,Y,Z) (u-0) (v-w) (w-u)
+Sol. Let fi = W+v+w-x-y-z=0
+fp = W+V+tw-xv-y-2=0
+fp = utv+w-xv-y-7=0
+Ff A
+ox oy oz -l -1 -1
+Now, 2Virlafs) _ | 2 a) _ | _ a2 gy? 3?
+0 (x,y,z) ox oy oz oy 2 22
+fs fs fs i!
+ox oy oz
+-1 0 0
+= |-3x7 3(x?-y?) 3(x*=27)| |G, 3O,-G,C;C3-G
+2x 2(x-y)  2(x-z)
+= = 6[(x? - y’) (x - 2) — (X° = 2’) (x - y)]
+= ~—6(x-y) («-z) [@+y)-(@+2)]
+0 y y
+= Wh) 6 y w-ae-9
+0 (x,y,Z)
+Fi i Ot
+du ov dw 3u* 30" Bw?
+and a) (fi fo-fa) _ fe fe ofr — | 2u 2v 2w
+) (u, U,W) ou a) ow
+ofs fs fs hort
+du ov dw
+
+
+--- PAGE 14 ---
+
+106 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+3u2  3(v2-u?) 3(w2 =u?)
+= |2u 2(v-u)  2(w-u) | Cp 2 -G,, C3 > G-G
+1 0 0
+Expand it with respect to third row, we get
+= 6[(v° — u’) (w — u) - (w* - u*) (v - u)]
+= 6(-u)(w-u)[vtu)-(w+t u)]
+0 (fi frfs)
+=> “9 (u,0,w) = -6(u-v) (v-w) (w-uU)
+d(fi,fo- fs)
+O(u,v, 0(Xx,Y,Z 6(x-y)(y—-z)\(z—-x
+Hence (U2) ays 202) _ OR yly-2)E-4)
+0 (X,Y, Z) 0 (fifo fs) 6 (u—v)(v-w)(w-u)
+0 (u,v, WwW)
+_ beyy-3G-) 4
+= (uv) (0-w) (w—0) ence proved.
+Example 12. u, v, w are the roots of the equation
+(x — a)? + (x — b)? + (x — c)® = 0, find lu, 2, w)
+~ 0 (a, b,c) ,
+Sol. We have (x — a)° + (x — b)? + (x -c)? = 0
+x8 — a® — 3xa (x — a) + 2° — B® - 3xb (x — b) + 08 — 8 - 3x (x -—c) = 0
+or 38-3 (@tb+c+3x@4+P4+C?)-(@+ +c) =0
+Since u, v, w are the roots of this equation, we have
+u+v+w=atbt+e A +B+y = -b
+uwt+vwt+wu = ++ 5 o y= ~b/a
+3 33 oB+By+ya = c/a
+uvow = ae apy = —d/a
+Let fi =utv+w-a-b-c=0
+f, = w+vw+wu-a@-b-C?=0
+a+b? +c?
+f, = wow - 3.
+al -1 -1 -l -1 0 0 o> enc
+Now Mute fh) = |-2a -2b -2c\=|-2a 2Aa-b) Aa-c) (ern)
+(a, b, c) 2-2 2) |g? (a? 0?) (a? —c?) 37 03-Cy
+= —2{(@a—- b) (@ - c’) - @—c) @ = b’)} = - 2(a — b) (b-c) (c -a)
+1 1 1 1 0 0
+0 , , —
+and fi for fa) = juot+w utw vtu) = ju+w u-v u-w |, (2
+a(u, v, w) C3 C3 — Cy
+vw wu uv vw wu-v) v(u-w)
+
+
+--- PAGE 15 ---
+
+DIFFERENTIAL CALCULUS-II 107
+= (u-v) v(u-w) -(u-w) WU - 0)
+= —(u—v) (0—w) (wu)
+Afi fa fs)
+) aU Uy ~ — — —
+Thus (u,v, w) _ (1) 0(a,b,c) a 2(a—b) (b—c)(c-a)
+(a,b,c) fi, for fa) — (u-v) (v—w) (wu)
+O(u,v, Ww)
+_2 (a—b) (b—c) (c—a)
+7 (u—v)(v-—w) (w-u)
+2.1.4 Functional Dependence
+Let u =f, (x, y), 0 =f, (x, y) be two functions. Suppose u and v are connected by the relation
+f(u, 0) = 0, where fis differentiable. Then u and v are called functionally dependent on one another
+ou ou av ov
+(i.e., one function say u is a function of the second function v) if the =~, =~, =~ and dy are not
+ax’ dy’ dx Yy
+all zero simultaneously.
+Necessary and sufficient condition for functional dependence (Jacobian for
+functional dependence functions):
+Let u and v are functionally dependent then
+flu,v) = 0 (i)
+Differentiate partially equation (i) w.r.t. x and y, we get
+of ou of av .
+au ax ao ox ~@)
+of ou a
+f uF Ww _ 4, iii)
+ou OY dv oy
+a ; of of ; ;
+There must be a non-trivial solution for Ou #0, 30 # 0 to this system exists.
+au dv
+ox ax a .
+Thus, du dav| = 9 | For non-trivial solution |A| = 0
+ay oy
+au au
+or ox °y = 0 | Changing all rows in columns
+v dv
+ax dy
+a(u, 0)
+or ~— = 0
+(x, ¥)
+Hence, two functions u and v are “functionally dependent” if their Jacobian is equal to
+Zero.
+
+
+--- PAGE 16 ---
+
+108 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+Note: The functions u and v are said to be “functionally independent” if their Jacobian is not equal
+to zero ie., J(u, v) # 0
+Similarly for three functionally dependent functions say u, v and w.
+0(u,v,w)
+Ju, v, w) = ———~ = 0.
+d(x,y,z)
+Example 13. Show that the functions u=x+y-z,v=x-ytz,w=V+y+ 2 -2yz
+are not independent of one another. Also find the relation between them.
+Sol. Here ua=xt+y-zv0=x-ytzandwa=xr+y+ 7 - 2yz
+au au
+ox oy az 1 1 -1
+O(u, V, W) ov ov ov
+Now, ra anes ee a | -| 1
+d(x, Y,Z) ox oy az
+ao aw aw) (AE AYA AY
+ox oy az
+1 1 0
+= | 1 -1 0) (Cc, > C, + C)
+2x 2y-2z 0
+= 0. Hence u, v, w are not independent.
+Again ut+vo=xXxt+y-Z+x-ytz=2x
+u-v=X+yY-Z-xXx+y-zZ=2(y-2Z)
+. (utovPr+(u-vy = 4°+4Yy-zyP
+= 40° + y? + 2 - 2yz) = 4w
+> (ut vPt+(u-vy = 4w
+or 2(u + 0?) = 4w or uw? + 0? = 2w.
+Example 14. Find Jacobian of u = sin'x + sin! y and v = x/1-y? + yV1-x . Also find
+relation between u and v.
+Sol. We have u = sin'x + sinty, v = xJ1—y* + yV1-x?
+au au a i
+a(u,v) ax ay v1-x* yl-y
+Now, (xy) ~ | 92 82) | pe oy WY, foe
+ox ov 1l-y° -—— |_ -——+— + vl-x
+* oY v1-x? Jl-y*
+ay 44-14 9 0.H d v are dependent
+Sa 1 1-21: I+ Se = 0. Hence u and v are dependent.
+V1-x? J1-y? Vv1-x? J1-y?
+Next, u = sin'x + sin'y > u = sin! {xf1-y? +yV1-x"}
+As sin1A + sin'B = sin“'{AV1-B? +By1-A"}
+> sinu = xfl—y? + yv1-x? =v
+or ov = sin u.
+
+
+--- PAGE 17 ---
+
+DIFFERENTIAL CALCULUS-II 109
+Example 15. Show that a? + 2/ry + bY and Ar + 2Hxy + Bi are independent unless
+a_oh_?e
+A HB
+Sol. Let uo = ar + 2hry + by
+v = Ar + 2Hxy + BY
+; 0 (u,0)
+If w and wv are not independent, then ——~ = 0
+0 (x,y)
+ou ou
+ox oy 2ax+2hy  2hx+2by
+or dv dv| ~ |2Ax+2Hy 2Hx+2By) = ©
+ox dy
+=> (ar + hy (Ax + By) - (hx + by) (Ax+ Hy =0
+= (GH -hA) # + (4B - DA) xy + (AB - 6A) ¥ = 0
+But variable + and y are independent so the coefficients of 1° and / must separately vanish
+and therefore, we have
+H-hA = Oand WB-bH=0ie,%=2" mat -2
+aH - = Oan - =O4e, 7 = 77 and FF = B
+a oh by d
+Le, A = H = Bp. Hence proved.
+Example 16. If “= 7 e” cos fz, v = ¥ e” sin Az and w = 32° e*’ then prove that wu, v, w
+are functionally dependent. Hence establish the relation between them.
+Sol. We have wv = 7 &€” cos fz, v = x% eY% sin fz, w = 3x4 er
+du/dx du/dy dujdz| |2xe%coshz -xe%coshz xe! sinhz
+on = dv/dx dv/dy dv/dz) = \2xe Ysinhz -x°eYsinhz x7e! coshz
+X,Y,Z
+Y dw/dx dw/dy dw/dz 12x%e 7 6x4 e7Y 0
+= 2x e” cos /iz{0 + 62° e% cos Az} + 2 e% cos Az{0 — 122° e°” cos hz}
++ # e% sin /iz{-12% e°” sin fz + 12% e sin /z}
+= 127 ce” cos Fz - 127 e” cos Fz = 0
+Thus vw, v and ware functionally dependent.
+Next, 32-32 = 30¢e¢% cos ?z- xe sin /z) = 3x e (cos /z — sin /z)
+= 314 ey
+> 37 - 3° = w
+EXERCISE 2.1
+O(x, 1
+1. If y=rcos 0, y= rsin 0 find oley), | Ans.
+d(r,0) r
+XoXx
+2. Ify= —_ 1 y= sei 1 Ys = *1*2. show that the Jacobian of y,, y,, y, with respect to x,
+1 Xo X3
+Xy X, is 4. (UP.T.U., 2004(CO), 2002)
+
+
+--- PAGE 18 ---
+
+110 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+3. Ifx =r sin 0 cos 6, y =r sin 8 sin 6, z = r cos 9, show that
+0 (x, y,Z)
+——— =? sin 0. (U.P.T.U., 2000)
+d(r,0,)
+0(x,Y,2) 2
+4. Ifu=x+y+zZz,uv=y + Z, uvw = z, evaluate ———. (U.P.T.U., 2003) [Ans. u 0|
+O(U,U,W)
+2,,2
+2 x+y ) d (u,v)
+8) ag 2 fans. - 2)
+5. es 0 ax , find 0 (x,y) ay
+6. Ifx=acosh€& cosy, y=asinh € sin n, show that
+Oley) = 1 cos h 2& — cos 2n)
+a(en) 2
+7. Tfw+o+waxtyttut+ve+wa=rt+y+7,u+vt+w=x+y +z, then evaluate
+0 (u,v, W) bya (1- 4xy — 4yz— 4zx + 6xyz)
+ene ea S$.
+0 (x,y, Z) 27u2v*w? +2-3 (u? +074 w?)
+, 4 gg 9 (U,0,W)
+8. If u,v, ware the roots of the equation (A — x)° + (A-y)? + (A-z)° = 0 ind, find Dey2)
+~2(x—y) (y—2) (Z-%)
+(U.P.T.U., 2001) Ans “(u—0)(0-w) (wn)
+9. Ifu=x, +x, +x, +X, WU =X, +X, +X, UUW = xX, + x, and uvwt = x, show that
+0 (2X1, %2,X3,X4) aa
+——$——— = vw.
+0 (U,V, W,t)
+0(u,v 0(x,
+10. Calculate J = ron and J’= ae Verify that JJ’ = 1 given
+2 2 x
+. _ ye _ y fans. 1-22, =
+@ u=x+ y v ~ x 2y
+09 9 _ i2u y_ ,-2u
+(ii) x = e“cos v, y = e" sin ¥. [Ans. J=e ,jJ =e |
+(u,v) ; ; 5 5 > ;
+11. Show that (7,6) = 6 sin 20 given u = x? — 2y?, v = 2x*- y* and x =rcos 0,y =rsin 8.
+Yr,
+0(X, 2
+12. If X = wv, Y = uv’ and u = x* - y*, v = xy, find elas 6x?y?(x? +y? \(x? -y)
+ , IU0,W) , 35
+13. Find ———_, ifu=x*,v=siny, w =e™*. [Ans. —6¢e xcos y]
+d(x, Y,Z)
+0(u,v,W
+14. Find WUD i yay 4 Dy 2, vex y tz went yz [Ans. —2 |
+0 (x,Y,Z)
+15. Find J (u, v, w) if u = xyz, v= xy + yz+2x,wW=x+ytz. [Ans. (x-y\(y-2z)(z-x) |
+
+
+--- PAGE 19 ---
+
+DIFFERENTIAL CALCULUS-II 111
+16. Prove that u, v, w are dependent and find relation between them if u = xe’ sin z, v = xe!
+cos z, w = xe. [Ans. dependent, u? +0 =W |
+2 2(y+z =
+17. u= Te oe 2ty+2) xTy [Ans. dependent, wow? =1 |
+18. IfX=x+y+z+u,Y=x+y-z-u,Z=xy-zandU=x*+y-2 - wu’, then show
+0(X,Y,Z,U)
+that J = =7————_ = 0 and hence find a relation between X, Y, Z and U.
+0 (X,Y, Z,U)
+[Ans. XY =U+2Z |
+19. Ifu= x v= a ,W= 4 , then prove that u, v, w are not independent and also
+Y-Z Z—Xx x-y
+find the relation between them. [Ans. uv+vw+wu+1=0 |
+20. Ifu=x+2y+z,0 =x - 2y + 3z, w = 2xy — xz + 4yz - 2z*, show that they are not
+independent. Find the relation between u, v and w. [Ans. 4w =u>-0" |
+x+ Yy . a(u, v) .
+21. If uw = —— and v = tan' x + tan y, find ~~. Are u and v functionally related? If
+1-xy (x,y)
+yes find the relationship. [Ans. yes, u = tan v]
+a(ny2) 9
+22. Ifu=x+y+z,uv=y + Zz, uvw = z, show that ——— = pv.
+O(u, V,W)
+2.02
+23. Ifx?+ y+ u*>-v? =0 and uv + xy = 0 prove that ou, 2) = —-
+(x,y) ur +0
+24. Find Jacobian of u, v, w w.r.t. x, y, Zz when u = ¥ v= x w= xy . [Ans. 4]
+x y Zz
+yyyag APPROXIMATION OF ERRORS
+Let u = f (x, y) then the total differential of u, denoted by du, is given by
+du = of d of d j
+u= Ay x + oy ly (1)
+If dx and dy are increments in x and y respectively then the total increment du in u
+is given by ou = f(x +dx,y + dy) -f (x y)
+or f(x + dx, y+ dy) = f(x, y) + du ...(ii)
+But ou = du, dx = dx and dy = dy
+f) f)
+“. From (i) ou = i ox + + oy ...(ii1)
+
+
+--- PAGE 20 ---
+
+112 A TEXTBOOK OF ENGINEERING MATHEMATICS—I
+Using (iii) in (ii), we get the approximate formula
+3) 5 of 3) o 5
+f(x + 6x, y + dy) = fa w+ a x + Oy OY ...(iv)
+Thus, the approximate value of the function can be obtained by equation (iv). Hence
+6x or dx = Absolute error
+bx dx ; ;
+ra ri Proportional or Relative error
+a a
+and 100 x ~ or 100 x ~ = Percentage error in x.
+1
+Example 1. If f (x, y) = x°y”, compute the value of f when x = 1.99 and y = 3.01.
+(U.P.T.U., 2007)
+1
+Sol. We have f (x,y) = x7y1
+1 9
+ox ‘oy 10
+As x+6x=2+(-0.01)=1.99
+Tet x = 2, dx = — 0.01 y+Sy=1+(2.01)=3.01
+y = 1, gy =2.01
+N 3) dy) = of 3) o 9)
+ow, f (x + dx, y + dy) =f (x, y) + ax OX + Oy OY
+i 1 2
+=> f{2 + (- 0.01), 1 + 2.01} = f (2, 1) + 2x2(1)10 x (— 0.01) + 70 (2)?. (1) 10 x (2.01)
+1
+> f (1.99, 3.01) = 2? x 11° + (- 0.04) + 0.804
+= 4—- 0.04 + 0.804 = 4.764.
+Example 2. The diameter and height of a right circular cylinder are measured to be 5 and
+8 cm. respectively. If each of these dimensions may be in error by + 0.1 cm, find the relative
+percentage error in volume of the cylinder.
+Sol. Let diameter of cylinder = x cm.
+height of cylinder = y cm.
+2
+x
+then Ve= — (radius = 5)
+. ave omy WV _ we
+7 ax 2’ Oy A
+=> dV = ov dx + ov dy
+ox oy
+
+
+--- PAGE 21 ---
+
+DIFFERENTIAL CALCULUS-II 113
+dV = 4 d 1 oe d
+> = ph xy. dx + | me’. dy
+1 a)
+dV 3 yd 4a™ dy dx dy
+V mx Y mX“Y x y
+4 4
+dV ad
+or 100 x <> = 2 (100) +100 x “
+V x y
+dV 0.1 01
+Given x = 5 cm., y = 8 cm. and error dx = dy = + 0.1. So 100 x yt 100 2x te
+= + 5.25.
+Thus, the percentage error in volume = + 5.25.
+Example 3. A balloon is in the form of right circular cylinder of radius 1.5 m and length
+4 mand is surmounted by hemispherical ends. If the radius is increased by 0.01 m and the length
+by 0.05 m, find the percentage change in the volume of the balloon. [U.P.T.U., 2005 (Comp.), 2002]
+Sol. Let radius = r=1.5 m, 6r = 0.01 m
+height = h = 4 m, 8h = 0.05 m aA NN
+2 2 4 1.5
+volume (V) = mw’? h+ Zar+ Grr =mrh + Zar .
+3 3 3
+LJ
+| Vo ae VM , !
+. ap 2h + Amr’, SS = mr ‘m
+w= MG OY th = Qnrh 4nr’) d “dh !
+= 3p r+ oh = (2mrh + 4nr’) dr + mr 1
+wv 2 Nts /
+nr n+) n(n =) Fig. 2.1
+3 3
+3x 2(h+2r) F 3 th 3 [2(h + 21) dr +rdh
+= [near 9" * Brean “= 7Ghedy PM t 20 arr
+3 =d
+= —~—_ [2(4 + 3)(0.01) + 1.5 (0.05) ér=dr
+_2 0.14 + 0.075] = 02)
+= 9 [0.14 + 0.075] = 9
+100 wv. 100 020 2.389%
+=> x V = x 9 = 4. (¢)
+Thus, change in the volume = 2.389%.
