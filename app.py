@@ -2,13 +2,11 @@ import streamlit as st
 import sqlite3
 import pandas as pd
 
+import streamlit as st
+from scripts.db.db_router import get_connection_by_variant
+
 if "extraction_mode" not in st.session_state:
     st.session_state.extraction_mode = "Variant C"
-
-DB_PATH = "data/db/documents.db"
-
-def get_connection():
-    return sqlite3.connect(DB_PATH)
 
 st.set_page_config(page_title="Document Extraction MVP", layout="wide")
 
@@ -38,25 +36,41 @@ with tab1:
     article_no = st.text_input("Enter Article Number (e.g. 21)")
 
     if article_no:
-        conn = get_connection()
-        query = """
-        SELECT article_number, article_title, part, part_title, article_text
-        FROM constitution_articles
-        WHERE article_number = ?
-        """
-        df = pd.read_sql_query(query, conn, params=(article_no,))
+        conn, db_type = get_connection_by_variant(st.session_state.extraction_mode)
+
+        if db_type == "sqlite":
+            query = """
+            SELECT article_number, article_title, part, part_title, article_text
+            FROM constitution_articles
+            WHERE article_number = ?
+            """
+            params = (article_no,)
+        else:
+            query = """
+            SELECT article_number, article_title, part, part_title, article_text
+            FROM constitution_articles
+            WHERE article_number = %s
+            """
+            params = (article_no,)
+
+        df = pd.read_sql_query(query, conn, params=params)
         conn.close()
 
-        if not df.empty:
-            st.success(f"Found Article {article_no}")
-            st.write(df)
+        if df.empty:
+            if st.session_state.extraction_mode == "Variant B":
+                st.warning(
+                    "No articles extracted yet using SLM-based Variant B. "
+                    "This demonstrates the probabilistic limitation of small language models "
+                    "on long legal documents."
+                )
         else:
-            st.warning("Article not found")
+            st.success(f"Found Article {article_no}")
+            st.dataframe(df, width="stretch")
 
 with tab2:
     st.subheader("Math Book Examples")
 
-    conn = get_connection()
+    conn, _ = get_connection_by_variant(st.session_state.extraction_mode)
     df = pd.read_sql_query("SELECT * FROM math_examples", conn)
     conn.close()
 
@@ -76,7 +90,7 @@ with tab2:
 with tab3:
     st.subheader("Electricity Bills")
 
-    conn = get_connection()
+    conn, _ = get_connection_by_variant(st.session_state.extraction_mode)
     df = pd.read_sql_query("SELECT * FROM electricity_bills", conn)
     conn.close()
 
@@ -109,6 +123,8 @@ with tab4:
         f":blue[{st.session_state.extraction_mode}]"
     )
 
+    # -----------------------------
+    # Upload form
     with st.form("upload_form"):
         uploaded_file = st.file_uploader(
             "Upload PDF",
@@ -131,11 +147,15 @@ with tab4:
             import os
             from scripts.extract_pdf import extract_text_from_pdf
             from scripts.extraction_router import extract_data
+            from scripts.db.db_router import get_connection_by_variant
 
-            # ---------- Progress indicator ----------
+            # 🔐 Always initialize
+            table = None
+
+            # ---------- Progress ----------
             progress = st.progress(0, text="Starting processing...")
 
-            # ---------- Save uploaded file ----------
+            # ---------- Save file ----------
             UPLOAD_DIR = "data/uploads"
             os.makedirs(UPLOAD_DIR, exist_ok=True)
 
@@ -143,7 +163,7 @@ with tab4:
             with open(file_path, "wb") as f:
                 f.write(uploaded_file.getbuffer())
 
-            progress.progress(20, text="PDF uploaded and saved")
+            progress.progress(20, text="📁 PDF saved")
 
             # ---------- OCR ----------
             output_dir = f"data/extracted_text/{uploaded_file.name.replace('.pdf','')}"
@@ -152,60 +172,93 @@ with tab4:
             with open(text_path, "r", encoding="utf-8") as f:
                 ocr_text = f.read()
 
-            progress.progress(50, text="OCR completed")
+            progress.progress(50, text="🔍 OCR completed")
 
-            # ---------- Extraction (Variant C / B switch) ----------
+            # ---------- Extraction ----------
             structured_data = extract_data(
                 text=ocr_text,
                 doc_type=doc_choice,
                 mode=st.session_state.extraction_mode
             )
 
-            progress.progress(75, text="Data extraction completed")
+            progress.progress(75, text="🧠 Data extraction completed")
 
-            # ---------- Insert into DB ----------
-            def insert_into_db(table, data):
-                conn = get_connection()
+            # ---------- Decide table ----------
+            if doc_choice == "Electricity Bill":
+                table = "electricity_bills"
+            elif doc_choice == "Math Book":
+                table = "math_examples"
+
+            if not structured_data or table is None:
+                st.warning("⚠️ No structured data extracted. Nothing to save.")
+            else:
+                # ---------- DB Insert ----------
+                conn, db_type = get_connection_by_variant(
+                    st.session_state.extraction_mode
+                )
                 cur = conn.cursor()
 
                 if table == "electricity_bills":
-                    cur.execute("""
-                        INSERT INTO electricity_bills VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-                    """, (
-                        data.get("meter_id"),
-                        data.get("bill_date"),
-                        data.get("billing_period"),
-                        data.get("kwh"),
-                        data.get("amount_payable"),
-                        data.get("zone"),
-                        data.get("tariff_category"),
-                        data.get("location")
-                    ))
+                    if db_type == "sqlite":
+                        cur.execute("""
+                            INSERT INTO electricity_bills
+                            (meter_id, bill_date, kwh, amount_payable, location)
+                            VALUES (?, ?, ?, ?, ?)
+                        """, (
+                            structured_data.get("meter_id"),
+                            structured_data.get("bill_date"),
+                            structured_data.get("kwh"),
+                            structured_data.get("amount_payable"),
+                            structured_data.get("location")
+                        ))
+                    else:  # postgres
+                        cur.execute("""
+                            INSERT INTO electricity_bills
+                            (meter_id, bill_date, kwh, amount_payable, location)
+                            VALUES (%s, %s, %s, %s, %s)
+                        """, (
+                            structured_data.get("meter_id"),
+                            structured_data.get("bill_date"),
+                            structured_data.get("kwh"),
+                            structured_data.get("amount_payable"),
+                            structured_data.get("location")
+                        ))
 
                 elif table == "math_examples":
-                    for row in data:
-                        cur.execute("""
-                            INSERT INTO math_examples VALUES (?, ?, ?, ?)
-                        """, (
-                            row.get("unit"),
-                            row.get("section"),
-                            row.get("example_number"),
-                            row.get("example_title")
-                        ))
+                    for row in structured_data:
+                        if db_type == "sqlite":
+                            cur.execute("""
+                                INSERT INTO math_examples
+                                (unit, section, example_number, example_title)
+                                VALUES (?, ?, ?, ?)
+                            """, (
+                                row.get("unit"),
+                                row.get("section"),
+                                row.get("example_number"),
+                                row.get("example_title")
+                            ))
+                        else:  # postgres
+                            cur.execute("""
+                                INSERT INTO math_examples
+                                (unit, section, example_number, example_title)
+                                VALUES (%s, %s, %s, %s)
+                            """, (
+                                row.get("unit"),
+                                row.get("section"),
+                                row.get("example_number"),
+                                row.get("example_title")
+                            ))
 
                 conn.commit()
                 conn.close()
 
-            table = "electricity_bills" if doc_choice == "Electricity Bill" else "math_examples"
-            insert_into_db(table, structured_data)
+                progress.progress(100, text="✅ Done")
 
-            progress.progress(100, text="Done")
+                # ---------- Success ----------
+                st.success(
+                    f"✅ PDF processed successfully using "
+                    f"**{st.session_state.extraction_mode}**"
+                )
 
-            # ---------- Visual Success Feedback ----------
-            st.success(
-                f"✅ PDF processed successfully using "
-                f"**{st.session_state.extraction_mode}**"
-            )
-
-            with st.expander("🔍 View Extracted JSON"):
-                st.json(structured_data)
+                with st.expander("🔍 View Extracted JSON"):
+                    st.json(structured_data)
